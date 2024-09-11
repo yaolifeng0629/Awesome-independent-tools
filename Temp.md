@@ -4,7 +4,7 @@ https://www.goout.tools/ -->
 
 <!-- https://chuhaiqu.club/ -->
 
-https://chuhai.tools/
+https://chuhai.tools/     -> chrome 插件开发模板
 
 https://chuhaituan.com/
 

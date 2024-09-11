@@ -5,3 +5,5 @@ https://www.goout.tools/
 https://chuhaiqu.club/
 
 https://chuhai.tools/
+
+https://chuhaituan.com/

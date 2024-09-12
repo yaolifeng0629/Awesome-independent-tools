@@ -2,7 +2,8 @@
 
 📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools) 是一个 **社区驱动的仓库**，旨在帮助 **个人开发者**、**自由职业者** 和 **小型团队** 发现并使用最佳工具来支持他们的项目。
 
-## 🚧 **本站仍在持续完善中** 🚧
+## 🚧 **本站仍在持续完善中，热烈欢迎您的贡献** 🚧
+-   参考：[贡献指南](#contribute)
 
 ### 🎯 我们的目标：
 
@@ -60,7 +61,6 @@
 -   [Shipfast](https://shipfa.st/?via=wei) - (付费) 基于 Next.js，集成了登录、支付（stripe）、邮件、AI 功能
 -   [SupaStarter](https://supastarter.dev?aff=bgO) - (付费) 有 Next.js 和 Nuxt 两种模板，功能比较齐全
 -   [Opensaas](https://opensaas.sh/) - React + Node.js。集成了登录、支付（stripe）、邮件、AI 功能
--   [Next 企业项目模板](https://github.com/yaolifeng0629/Next.js-Enterprise-Project-Template)
 -   [SaaS-Boilerplate](https://react-saas.com/) - 一款开源的 SaaS 模板，非常适合构建自己的 SaaS 应用
 -   [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe
 -   [boilerplatelist](https://boilerplatelist.com/) - 超过 130 个最佳 SaaS 样板和入门套件，并提供了评估和选择最适合项目需求的 SaaS 样板的指导
@@ -78,7 +78,7 @@
 
 ### 前端开发
 
--   [Next.js](https://nextjs.org/)🌟 - 基于 React
+-   [Next.js](https://nextjs.org/) - 基于 React
 -   [Nuxt](https://nuxt.com/) - 基于 Vue
 -   [Remix](https://remix.run/) - 基于 React 的全栈框架
 -   [Webpack Config Tool](https://createapp.dev/webpack/no-library) - 一键帮你生成 webpack.config.js
@@ -107,20 +107,20 @@
 
 ### 对象关系映射（ORM）
 
--   [Prisma](https://prisma.io/)🌟
+-   [Prisma](https://prisma.io/)
 -   [TypeORM](https://github.com/typeorm/typeorm)
 -   [Sequelize](https://sequelize.org/) - 最老牌的 Node.js ORM 库，支持多种数据库
 
 ### 样式与 UI 框架
 
--   [Tailwind CSS](https://tailwindcss.com/)🌟
--   [Shadcn/ui](https://ui.shadcn.com/)🌟
--   [NextUI](https://nextui.org/)🌟
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [Shadcn/ui](https://ui.shadcn.com/)
+-   [NextUI](https://nextui.org/)
 -   [radix-ui](https://www.radix-ui.com/)
 -   [midday.ai](https://midday.ai/) - 企业财务自动化，关联了各大银行账单，将重复的会计工作程序化、生成财务报告、发票开具。
 -   [hyperui.dev](https://www.hyperui.dev/) - 免费的 Tailwind CSS 组件的集合
 -   [magicui](https://magicui.design/) - 专业动画组件
--   [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) - TailwindCSS 按钮 🙌 的独特集合
+-   [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) - TailwindCSS 按钮的独特集合
 -   [tailwindtoolbox](https://www.tailwindtoolbox.com/) - 提供了一系列免费的 Tailwind CSS 模板、组件和资源
 -   [nextjstemplates](https://nextjstemplates.com/) - Next.js Templates 提供多样化专业模板
 -   [tailwindawesome](https://www.tailwindawesome.com/?price=free&type=template) - 基于 TailwindCSS 的 300+模版，有免费的，有收费的
@@ -184,7 +184,7 @@
 
 ### 部署与托管
 
--   [Vercel](https://vercel.com/dashboard)🌟 - 首选，国内大部分访问不了
+-   [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
 -   [阿里云](https://www.aliyun.com/minisite/goods?userCode=hrvtosj1)
 -   [腾讯云](https://curl.qcloud.com/lsJFImqi) - 国内云，经常有优惠
 -   [Github Pages](https://pages.github.com/) - 免费
@@ -326,6 +326,7 @@
 -   [美国虚拟地址生成器](https://www.fakexy.com/fake-address-generator-ca)
 -   [code share](https://codeshare.io/) - 实时代码共享工具
 
+<a name="contribute"></a>
 ## 🤝 如何贡献
 
 我们热烈欢迎您的贡献！ 🎉

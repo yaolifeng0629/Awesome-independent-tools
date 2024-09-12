@@ -185,7 +185,7 @@
 ### 部署与托管
 
 -   [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
--   [阿里云](https://www.aliyun.com/minisite/goods?userCode=hrvtosj1)
+-   [阿里云](https://www.aliyun.com/minisite/goods?userCode=hrvtosj1) - 国内云
 -   [腾讯云](https://curl.qcloud.com/lsJFImqi) - 国内云，经常有优惠
 -   [Github Pages](https://pages.github.com/) - 免费
 -   [Cloudflare Pages](https://developers.cloudflare.com/pages/)

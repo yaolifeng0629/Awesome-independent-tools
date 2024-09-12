@@ -58,8 +58,8 @@
 
 -   [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (免费) 基于 Next.js, 集成了登录、支付（lemon squeezy）、AI 功能
 -   [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
--   [Shipfast](https://shipfa.st/?via=wei) - (付费) 基于 Next.js，集成了登录、支付（stripe）、邮件、AI 功能
--   [SupaStarter](https://supastarter.dev?aff=bgO) - (付费) 有 Next.js 和 Nuxt 两种模板，功能比较齐全
+-   [Shipfast](https://shipfa.st/) - (付费) 基于 Next.js，集成了登录、支付（stripe）、邮件、AI 功能
+-   [SupaStarter](https://supastarter.dev) - (付费) 有 Next.js 和 Nuxt 两种模板，功能比较齐全
 -   [Opensaas](https://opensaas.sh/) - React + Node.js。集成了登录、支付（stripe）、邮件、AI 功能
 -   [SaaS-Boilerplate](https://react-saas.com/) - 一款开源的 SaaS 模板，非常适合构建自己的 SaaS 应用
 -   [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe
@@ -185,7 +185,7 @@
 ### 部署与托管
 
 -   [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
--   [阿里云](https://www.aliyun.com/minisite/goods?userCode=hrvtosj1) - 国内云
+-   [阿里云](https://www.aliyun.com/minisite/goods) - 国内云
 -   [腾讯云](https://curl.qcloud.com/lsJFImqi) - 国内云，经常有优惠
 -   [Github Pages](https://pages.github.com/) - 免费
 -   [Cloudflare Pages](https://developers.cloudflare.com/pages/)
@@ -202,7 +202,7 @@
 -   [Sentry](https://sentry.io/welcome/) - 免费额度应该是够用的，同样也有开源 版本。
 -   [Locust](https://locust.io/) - 一个开源的负载测试工具。
 -   [chinaz](https://tool.chinaz.com/) - 多种集合站长工具
--   [OHTTPS](https://www.ohttps.com/?invitationCode=1ny5jx0l5r7m6pg4) - 免费 HTTPS 证书、自动更新、自动部署
+-   [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - 免费 HTTPS 证书、自动更新、自动部署
 -   [acme.sh](https://github.com/acmesh-official/acme.sh) - 免费 SSL 证书一键生成
 -   [易条形](https://www.1txm.com/) - 一款专业的在线条形码生成工具
 -   [SimilarGroup](https://www.similarsites.com/) - 输入网站地址搜索相似网站

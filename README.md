@@ -136,6 +136,7 @@
 
 -   [墨刀](https://modao.cc/) - 国内产品原型设计工具
 -   [Figma](https://www.figma.com/) - 国外产品原型设计工具
+-   [penpot](https://github.com/penpot/penpot) - 可平替 Figma 的开源免费工具
 -   [Sketch](https://www.sketch.com/) - 国外产品原型设计工具
 -   [Adobe XD](https://www.adobe.com/products/xd.html) - 国外产品原型设计工具
 -   [V0](https://v0.dev/chat) - Text to UI

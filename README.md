@@ -287,6 +287,7 @@
 -   [1000UserGuide](https://1000userguide.com/#/) - 300 多个独立开发者的免费推广渠道清单
 -   [全球签证指南门户网站](https://visalist.io/)
 -   [出海网站经验总结](https://github.com/princehuang/overseas-website-note)
+-   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的Youtube频道
 
 ### 产品发布
 

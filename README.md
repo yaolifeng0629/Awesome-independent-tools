@@ -303,6 +303,7 @@
 -   [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) - 中国独立开发者项目列表
 -   [Semrush](https://www.semrush.com/?utm_source=indiehackertools.net) - 一款功能强大的关键词研究工具
 -   [TrendingKeywords ](https://trendingkeywords.net/?utm_source=indiehackertools.net) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
+-   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的Youtube频道
 
 ### 产品发布
 

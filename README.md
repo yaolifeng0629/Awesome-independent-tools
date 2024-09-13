@@ -32,6 +32,7 @@
     -   [原型设计](#原型设计)
     -   [认证与授权](#认证与授权)
     -   [支付集成](#支付集成)
+    -   [收款渠道](#收款渠道)
     -   [邮件服务](#邮件服务)
     -   [网站分析](#网站分析)
     -   [在线客服和反馈服务](#在线客服和反馈服务)
@@ -65,6 +66,10 @@
 -   [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe
 -   [boilerplatelist](https://boilerplatelist.com/) - 超过 130 个最佳 SaaS 样板和入门套件，并提供了评估和选择最适合项目需求的 SaaS 样板的指导
 -   [Taxonomy](https://github.com/shadcn-ui/taxonomy) - 基于 Next.js 13 和 React 18 构建的开源 Web 应用实验项目
+-   [unibest](https://github.com/codercup/unibest) - unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板
+-   [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
+-   [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
+-   [NotionNext](https://github.com/tangly1024/NotionNext?utm_source=indiehackertools.net) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
 
 ### Chrome 插件开发模板
 
@@ -75,6 +80,7 @@
 -   [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
 -   [crxjs](https://github.com/crxjs/chrome-extension-tools) - 是一个旨在简化 Chrome 扩展程序捆绑过程的工具库
 -   [extension.js](https://github.com/extension-js/extension.js) - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
+-   [Chrome Stats](https://chrome-stats.com/?utm_source=indiehackertools.net) - 挖掘 Chrome 扩展需求神器
 
 ### 前端开发
 
@@ -159,6 +165,9 @@
 -   [Stripe](https://stripe.com/) - 需要企业资质
 -   [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
 -   [Lemon Squeezy](https://www.lemonsqueezy.com/) - 支持个人香港卡、虚拟卡，国内开发者首选
+
+### 收款渠道
+-   待添加
 
 ### 邮件服务
 
@@ -287,6 +296,13 @@
 -   [1000UserGuide](https://1000userguide.com/#/) - 300 多个独立开发者的免费推广渠道清单
 -   [全球签证指南门户网站](https://visalist.io/)
 -   [出海网站经验总结](https://github.com/princehuang/overseas-website-note)
+-   [出海小炒本](https://minibook.notion.site/b39d0ac975a44f3089639215d96135a0)
+-   [Chief AI Office](https://www.chiefaioffice.xyz/?utm_source=indiehackertools.net) - 一个专注于跟踪 AI 初创公司融资动态的情报平台。每天为 5000+ 来自 OpenAI、a16z、Google 等顶级机构的读者提供最新 AI 融资情报，助你洞悉行业趋势,把握投资机遇
+-   [Toolify.ai](https://www.toolify.ai/?utm_source=indiehackertools.net) - 轻松发现和了解当下最火热的 AI 应用和服务，帮助你把握 AI 发展趋势，发现潜在的商机
+-   [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
+-   [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) - 中国独立开发者项目列表
+-   [Semrush](https://www.semrush.com/?utm_source=indiehackertools.net) - 一款功能强大的关键词研究工具
+-   [TrendingKeywords ](https://trendingkeywords.net/?utm_source=indiehackertools.net) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
 
 ### 产品发布
 

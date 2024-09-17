@@ -22,13 +22,13 @@
 ## 📚 分类
 
 -   目录导航
-    -   [Web 开发框架或模板](#web开发框架或模板)
-    -   [Chrome 插件开发模板](#chrome插件开发模板)
+    -   [Web开发框架或模板](#web开发框架或模板)
+    -   [Chrome插件开发模板](#chrome插件开发模板)
     -   [前端开发](#前端开发)
     -   [后端开发](#后端开发)
     -   [数据库管理](#数据库管理)
-    -   [对象关系映射（ORM）](#对象关系映射orm)
-    -   [样式与 UI 框架](#样式与ui框架)
+    -   [对象关系映射（ORM）](#对象关系映射)
+    -   [样式与UI框架](#样式与ui框架)
     -   [原型设计](#原型设计)
     -   [认证与授权](#认证与授权)
     -   [支付集成](#支付集成)
@@ -49,13 +49,13 @@
     -   [短链或长链](#短链或长链)
     -   [信息渠道](#信息渠道)
     -   [产品发布](#产品发布)
-    -   [Logo 设计](#logo设计)
+    -   [Logo设计](#logo设计)
     -   [项目管理](#项目管理)
     -   [其他工具](#其他工具)
 
 ## 🧰 工具列表
 
-### Web 开发框架或模板
+### Web开发框架或模板
 
 -   [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (免费) 基于 Next.js, 集成了登录、支付（lemon squeezy）、AI 功能
 -   [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
@@ -71,7 +71,7 @@
 -   [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
 -   [NotionNext](https://github.com/tangly1024/NotionNext?utm_source=indiehackertools.net) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
 
-### Chrome 插件开发模板
+### Chrome插件开发模板
 
 -   [wxt.dev](https://wxt.dev/) - 支持 Vue、Svelte 等多种前端框架
 -   [Responsive Viewer](https://responsiveviewer.org/) - chrome 插件。可以一键验证多端响应式布局状态
@@ -96,6 +96,8 @@
 -   [Notiflix](https://notiflix.github.io) - 纯 JavaScript 库，用于客户端非阻塞通知、弹出框、加载指示
 -   [driver.js](https://driverjs.com/) - 快速实现产品导览，亮点，上下文帮助等等。
 -   [3D model](https://vue-3d-model.netlify.app/zh/guide/installation/) - 基于 Vue3 3D 模型展示组件
+-   [wcf.js](https://wcferry.netlify.app/) - 一款强大、快速、开源的微信机器人框架
+-   [Pagefind](https://github.com/CloudCannon/pagefind) - 博客/文档的静态搜索
 
 ### 后端开发
 
@@ -111,13 +113,13 @@
 -   [PostgreSQL](https://www.postgresql.org) - 一个功能强大的开源对象关系数据库系统
 -   [Redis](https://redis.io) - 一个开源（BSD 许可）的，内存中的数据结构存储系统，它可以用作数据库、缓存和消息中间件
 
-### 对象关系映射（ORM）
+### 对象关系映射
 
 -   [Prisma](https://prisma.io/)
 -   [TypeORM](https://github.com/typeorm/typeorm)
 -   [Sequelize](https://sequelize.org/) - 最老牌的 Node.js ORM 库，支持多种数据库
 
-### 样式与 UI 框架
+### 样式与UI框架
 
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Shadcn/ui](https://ui.shadcn.com/)
@@ -218,6 +220,7 @@
 -   [SimilarGroup](https://www.similarsites.com/) - 输入网站地址搜索相似网站
 -   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
+-   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
 
 ### 域名注册
 
@@ -272,6 +275,7 @@
 -   [在线 AI 抠图工具](https://removebg.one/)
 -   [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 -   [video 转 gif](https://ezgif.com/video-to-gif)
+-   [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 
 ### 屏幕录制
 
@@ -304,6 +308,7 @@
 -   [Semrush](https://www.semrush.com/?utm_source=indiehackertools.net) - 一款功能强大的关键词研究工具
 -   [TrendingKeywords ](https://trendingkeywords.net/?utm_source=indiehackertools.net) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
 -   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的Youtube频道
+-   [独立开发者之王”Pieter Levels的整个研发历程](https://www.youtube.com/watch?v=oFtjKbXKqbg)
 
 ### 产品发布
 
@@ -314,8 +319,9 @@
 -   [Tweeteasy](https://tweeteasy.io) - 一款易于使用的 Twitter AI 工具，可以让你轻松创建引人入胜的帖子、获取回复想法、添加表情符号、更改语气、修复拼写和语法以及翻译成英语
 -   [流光卡片](https://fireflycard.shushiai.com/en) - 一款文字排版海报生成推广工具
 -   [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)
+-   [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频
 
-### Logo 设计
+### Logo设计
 
 -   [favicon generator 1](https://realfavicongenerator.net/) - 生成多平台多种类 logo(ico、PNG、SVG)
 -   [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) - 生成多平台多种类 logo(ico、PNG、SVG)
@@ -343,6 +349,8 @@
 -   [toSound](https://www.tosound.com/) - 免费音效素材资源下载
 -   [美国虚拟地址生成器](https://www.fakexy.com/fake-address-generator-ca)
 -   [code share](https://codeshare.io/) - 实时代码共享工具
+-   [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
+-   [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 
 <a name="contribute"></a>
 ## 🤝 如何贡献

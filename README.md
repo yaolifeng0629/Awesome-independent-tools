@@ -70,6 +70,8 @@
 -   [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 -   [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
 -   [NotionNext](https://github.com/tangly1024/NotionNext?utm_source=indiehackertools.net) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
+-   [capacitorjs.com](https://capacitorjs.com/) - 直接将 Next.js 包裹到原生应用中
+
 
 ### Chrome插件开发模板
 
@@ -161,6 +163,7 @@
 -   [Auth.js](https://authjs.dev/) - 支持 Nuxt, SolidStart, Astro 等
 -   [Next Auth.js](https://next-auth.js.org/) - 支持 Next.js
 -   [Clerk](https://clerk.com/) - 免费用户有 5000 MAU
+-   [NextAuth](https://github.com/nextauthjs/next-auth) -  用户系统, 网络身份验证
 
 ### 支付集成
 
@@ -204,6 +207,7 @@
 -   [AirCode](https://aircode.io/) - 字节出品
 -   [Netlify](https://www.netlify.com/)
 -   [Zeabur](https://zeabur.com/) - 一个提供一键部署、无限扩展的云平台
+-   [inngest](https://github.com/inngest/inngest) - Inngest是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
 
 ### 网站管理
 
@@ -221,6 +225,7 @@
 -   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
 -   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
+-   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球1000多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线ping测试、dns查询、路由跟踪查询、ipv6网站测试等站长工具
 
 ### 域名注册
 
@@ -238,6 +243,7 @@
 -   [VitePress](https://vitepress.vuejs.org) - 基于 Vite & Vue 驱动的静态站点生成器
 -   [Notion](https://notion.so)
 -   [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点
+-   [mintlify](https://mintlify.com/) - 轻松获取产品文档
 
 ### 协议生成
 
@@ -309,6 +315,8 @@
 -   [TrendingKeywords ](https://trendingkeywords.net/?utm_source=indiehackertools.net) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
 -   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的Youtube频道
 -   [独立开发者之王”Pieter Levels的整个研发历程](https://www.youtube.com/watch?v=oFtjKbXKqbg)
+-   [72个全球顶级AI信源](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - 一键订阅72个全球顶级AI信源，每日自动生成翻译、摘要后的简报推送给你
+-   [chuhaiqu](https://blogs.chuhaiqu.club/account-open-stats/) - 出海注册公司、银行开户情况汇总表
 
 ### 产品发布
 

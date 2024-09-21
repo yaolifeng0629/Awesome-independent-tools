@@ -3,6 +3,7 @@
 📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
 
 ## 🚧 **本站仍在持续完善中，热烈欢迎您的贡献** 🚧
+
 -   参考：[贡献指南](#contribute)
 
 ### 🎯 我们的目标：
@@ -22,17 +23,16 @@
 ## 📚 分类
 
 -   目录导航
-    -   [Web开发框架或模板](#web开发框架或模板)
-    -   [Chrome插件开发模板](#chrome插件开发模板)
+    -   [Web 开发框架或模板](#web开发框架或模板)
+    -   [Chrome 插件开发模板](#chrome插件开发模板)
     -   [前端开发](#前端开发)
     -   [后端开发](#后端开发)
     -   [数据库管理](#数据库管理)
     -   [对象关系映射（ORM）](#对象关系映射)
-    -   [样式与UI框架](#样式与ui框架)
+    -   [样式与 UI 框架](#样式与ui框架)
     -   [原型设计](#原型设计)
     -   [认证与授权](#认证与授权)
     -   [支付集成](#支付集成)
-    -   [收款渠道](#收款渠道)
     -   [邮件服务](#邮件服务)
     -   [网站分析](#网站分析)
     -   [在线客服和反馈服务](#在线客服和反馈服务)
@@ -49,13 +49,13 @@
     -   [短链或长链](#短链或长链)
     -   [信息渠道](#信息渠道)
     -   [产品发布](#产品发布)
-    -   [Logo设计](#logo设计)
+    -   [Logo 设计](#logo设计)
     -   [项目管理](#项目管理)
     -   [其他工具](#其他工具)
 
 ## 🧰 工具列表
 
-### Web开发框架或模板
+### Web 开发框架或模板
 
 -   [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (免费) 基于 Next.js, 集成了登录、支付（lemon squeezy）、AI 功能
 -   [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
@@ -72,8 +72,7 @@
 -   [NotionNext](https://github.com/tangly1024/NotionNext?utm_source=indiehackertools.net) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
 -   [capacitorjs.com](https://capacitorjs.com/) - 直接将 Next.js 包裹到原生应用中
 
-
-### Chrome插件开发模板
+### Chrome 插件开发模板
 
 -   [wxt.dev](https://wxt.dev/) - 支持 Vue、Svelte 等多种前端框架
 -   [Responsive Viewer](https://responsiveviewer.org/) - chrome 插件。可以一键验证多端响应式布局状态
@@ -105,6 +104,11 @@
 
 -   [Nest.js](https://docs.nestjs.com/) - 基于 Node.js
 -   [Midway.js](https://midwayjs.org/) - 基于 Node.js
+-   [Django](https://www.djangoproject.com/) - 基于 Python, 全栈框架，内置管理后台，安全特性完善，国际化支持强，适合快速开发复杂 web 应用
+-   [Koa](https://koajs.com/) - 基于 Node.js, 轻量级，灵活性高，适合构建小型应用和 API
+-   [Actix](https://actix.rs/) - 基于 Rust, 超高性能，内存安全，适合构建高并发、低延迟的web服务
+-   [Echo](https://echo.labstack.com/) - 基于 Go，高性能，简洁易用，适合构建RESTful API和微服务
+-   [Gin](https://gin-gonic.com/) - 基于 Go，高性能，轻量级，适合构建微服务和高并发API
 
 ### 数据库管理
 
@@ -121,7 +125,7 @@
 -   [TypeORM](https://github.com/typeorm/typeorm)
 -   [Sequelize](https://sequelize.org/) - 最老牌的 Node.js ORM 库，支持多种数据库
 
-### 样式与UI框架
+### 样式与 UI 框架
 
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Shadcn/ui](https://ui.shadcn.com/)
@@ -163,16 +167,19 @@
 -   [Auth.js](https://authjs.dev/) - 支持 Nuxt, SolidStart, Astro 等
 -   [Next Auth.js](https://next-auth.js.org/) - 支持 Next.js
 -   [Clerk](https://clerk.com/) - 免费用户有 5000 MAU
--   [NextAuth](https://github.com/nextauthjs/next-auth) -  用户系统, 网络身份验证
+-   [NextAuth](https://github.com/nextauthjs/next-auth) - 用户系统, 网络身份验证
 
 ### 支付集成
 
--   [Stripe](https://stripe.com/) - 需要企业资质
+-   [Stripe](https://stripe.com/) - 需要企业资质,开发者友好,API 强大
 -   [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
 -   [Lemon Squeezy](https://www.lemonsqueezy.com/) - 支持个人香港卡、虚拟卡，国内开发者首选
+-   [PayPal](https://www.paypal.com/) - 个人账户即可使用,全球覆盖范围大
+-   [Payoneer](https://www.payoneer.com/) - 个人账户可用,支持全球付款
+-   [Wise](https://wise.com/) - 个人账户可用,汇率优惠,适合跨境转账
+-   [FastSpring](https://fastspring.com/) - 需要企业资质,提供全方位电商解决方案
 
-### 收款渠道
--   待添加
+这个格式更加清晰和一致。每个选项都包含了直接链接和简短说明,突出了是否需要企业资质这一重要信息。您对这个列表还有什么其他补充或修改的建议吗?
 
 ### 邮件服务
 
@@ -207,7 +214,7 @@
 -   [AirCode](https://aircode.io/) - 字节出品
 -   [Netlify](https://www.netlify.com/)
 -   [Zeabur](https://zeabur.com/) - 一个提供一键部署、无限扩展的云平台
--   [inngest](https://github.com/inngest/inngest) - Inngest是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
+-   [inngest](https://github.com/inngest/inngest) - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
 
 ### 网站管理
 
@@ -225,7 +232,7 @@
 -   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
 -   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
--   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球1000多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线ping测试、dns查询、路由跟踪查询、ipv6网站测试等站长工具
+-   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球 1000 多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、dns 查询、路由跟踪查询、ipv6 网站测试等站长工具
 
 ### 域名注册
 
@@ -313,9 +320,9 @@
 -   [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) - 中国独立开发者项目列表
 -   [Semrush](https://www.semrush.com/?utm_source=indiehackertools.net) - 一款功能强大的关键词研究工具
 -   [TrendingKeywords ](https://trendingkeywords.net/?utm_source=indiehackertools.net) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
--   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的Youtube频道
--   [独立开发者之王”Pieter Levels的整个研发历程](https://www.youtube.com/watch?v=oFtjKbXKqbg)
--   [72个全球顶级AI信源](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - 一键订阅72个全球顶级AI信源，每日自动生成翻译、摘要后的简报推送给你
+-   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的 Youtube 频道
+-   [独立开发者之王”Pieter Levels 的整个研发历程](https://www.youtube.com/watch?v=oFtjKbXKqbg)
+-   [72 个全球顶级 AI 信源](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - 一键订阅 72 个全球顶级 AI 信源，每日自动生成翻译、摘要后的简报推送给你
 -   [chuhaiqu](https://blogs.chuhaiqu.club/account-open-stats/) - 出海注册公司、银行开户情况汇总表
 
 ### 产品发布
@@ -329,7 +336,7 @@
 -   [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)
 -   [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频
 
-### Logo设计
+### Logo 设计
 
 -   [favicon generator 1](https://realfavicongenerator.net/) - 生成多平台多种类 logo(ico、PNG、SVG)
 -   [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) - 生成多平台多种类 logo(ico、PNG、SVG)
@@ -361,6 +368,7 @@
 -   [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 
 <a name="contribute"></a>
+
 ## 🤝 如何贡献
 
 我们热烈欢迎您的贡献！ 🎉

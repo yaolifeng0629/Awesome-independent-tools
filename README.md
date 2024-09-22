@@ -71,6 +71,8 @@
 -   [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
 -   [NotionNext](https://github.com/tangly1024/NotionNext?utm_source=indiehackertools.net) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
 -   [capacitorjs.com](https://capacitorjs.com/) - 直接将 Next.js 包裹到原生应用中
+-   [discourse](https://www.discourse.org/) - 社区讨论的平台
+-   [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
 
 ### Chrome 插件开发模板
 
@@ -99,6 +101,8 @@
 -   [3D model](https://vue-3d-model.netlify.app/zh/guide/installation/) - 基于 Vue3 3D 模型展示组件
 -   [wcf.js](https://wcferry.netlify.app/) - 一款强大、快速、开源的微信机器人框架
 -   [Pagefind](https://github.com/CloudCannon/pagefind) - 博客/文档的静态搜索
+-   [payloadcms](https://payloadcms.com/) - 无头 CMS 和应用程序框架
+-   [apprise](https://github.com/caronc/apprise) - 适用于几乎所有平台的推送通知
 
 ### 后端开发
 
@@ -109,6 +113,8 @@
 -   [Actix](https://actix.rs/) - 基于 Rust, 超高性能，内存安全，适合构建高并发、低延迟的web服务
 -   [Echo](https://echo.labstack.com/) - 基于 Go，高性能，简洁易用，适合构建RESTful API和微服务
 -   [Gin](https://gin-gonic.com/) - 基于 Go，高性能，轻量级，适合构建微服务和高并发API
+-   [supabase](https://github.com/supabase/supabase) - 基于开源的后端开发解决方案平台
+-   [appwrite](https://github.com/appwrite/appwrite) - 用于开发 Web 和移动应用程序的后端平台
 
 ### 数据库管理
 
@@ -198,6 +204,7 @@
 -   [Plausible](https://plausible.io/) - 直观，轻量，开源
 -   [openpanel](https://openpanel.dev/) - 缝合了 Mixpanel 和 Plausible 优点,访问分析+实时数据+可视化统计+用户行为洞察
 -   [wappalyzer](https://www.wappalyzer.com/) - Wappalyzer 是一个网站技术分析工具，可以识别网站使用的技术栈，包括 CMS、电子商务平台、支付处理器等
+-   [netdata](https://github.com/netdata/netdata) - 实时监控服务器、容器和应用程序
 
 ### 在线客服和反馈服务
 
@@ -251,6 +258,7 @@
 -   [Notion](https://notion.so)
 -   [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点
 -   [mintlify](https://mintlify.com/) - 轻松获取产品文档
+-   [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站
 
 ### 协议生成
 

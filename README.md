@@ -69,10 +69,11 @@
 -   [unibest](https://github.com/codercup/unibest) - unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板
 -   [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 -   [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
--   [NotionNext](https://github.com/tangly1024/NotionNext?utm_source=indiehackertools.net) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
+-   [NotionNext](https://github.com/tangly1024/NotionNext) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
 -   [capacitorjs.com](https://capacitorjs.com/) - 直接将 Next.js 包裹到原生应用中
 -   [discourse](https://www.discourse.org/) - 社区讨论的平台
 -   [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
+-   [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
 
 ### Chrome 插件开发模板
 
@@ -83,7 +84,7 @@
 -   [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
 -   [crxjs](https://github.com/crxjs/chrome-extension-tools) - 是一个旨在简化 Chrome 扩展程序捆绑过程的工具库
 -   [extension.js](https://github.com/extension-js/extension.js) - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
--   [Chrome Stats](https://chrome-stats.com/?utm_source=indiehackertools.net) - 挖掘 Chrome 扩展需求神器
+-   [Chrome Stats](https://chrome-stats.com/) - 挖掘 Chrome 扩展需求神器
 
 ### 前端开发
 
@@ -110,9 +111,9 @@
 -   [Midway.js](https://midwayjs.org/) - 基于 Node.js
 -   [Django](https://www.djangoproject.com/) - 基于 Python, 全栈框架，内置管理后台，安全特性完善，国际化支持强，适合快速开发复杂 web 应用
 -   [Koa](https://koajs.com/) - 基于 Node.js, 轻量级，灵活性高，适合构建小型应用和 API
--   [Actix](https://actix.rs/) - 基于 Rust, 超高性能，内存安全，适合构建高并发、低延迟的web服务
--   [Echo](https://echo.labstack.com/) - 基于 Go，高性能，简洁易用，适合构建RESTful API和微服务
--   [Gin](https://gin-gonic.com/) - 基于 Go，高性能，轻量级，适合构建微服务和高并发API
+-   [Actix](https://actix.rs/) - 基于 Rust, 超高性能，内存安全，适合构建高并发、低延迟的 web 服务
+-   [Echo](https://echo.labstack.com/) - 基于 Go，高性能，简洁易用，适合构建 RESTful API 和微服务
+-   [Gin](https://gin-gonic.com/) - 基于 Go，高性能，轻量级，适合构建微服务和高并发 API
 -   [supabase](https://github.com/supabase/supabase) - 基于开源的后端开发解决方案平台
 -   [appwrite](https://github.com/appwrite/appwrite) - 用于开发 Web 和移动应用程序的后端平台
 
@@ -179,11 +180,12 @@
 
 -   [Stripe](https://stripe.com/) - 需要企业资质,开发者友好,API 强大
 -   [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
--   [Lemon Squeezy](https://www.lemonsqueezy.com/) - 支持个人香港卡、虚拟卡，国内开发者首选
+-   [Lemon Squeezy](https://www.lemonsqueezy.com/) - 一个全球支付平台，申请流程简单，不需要公司资质。提供微信、支付宝、Visa/Master 信用卡、PayPal 等多种支付方式，覆盖 130 多个国家。其核心功能包括备智能营收分析、客户跟踪系统、Affiliate 联盟营销工具、折扣码系统和支付失败恢复机制。
 -   [PayPal](https://www.paypal.com/) - 个人账户即可使用,全球覆盖范围大
 -   [Payoneer](https://www.payoneer.com/) - 个人账户可用,支持全球付款
 -   [Wise](https://wise.com/) - 个人账户可用,汇率优惠,适合跨境转账
 -   [FastSpring](https://fastspring.com/) - 需要企业资质,提供全方位电商解决方案
+-   [Ko-fi](https://ko-fi.com/) - 一个让创作者可以从粉丝那里获得打赏 💰、会员订阅 📚、商品销售 🛒 等收入的平台
 
 这个格式更加清晰和一致。每个选项都包含了直接链接和简短说明,突出了是否需要企业资质这一重要信息。您对这个列表还有什么其他补充或修改的建议吗?
 
@@ -205,6 +207,10 @@
 -   [openpanel](https://openpanel.dev/) - 缝合了 Mixpanel 和 Plausible 优点,访问分析+实时数据+可视化统计+用户行为洞察
 -   [wappalyzer](https://www.wappalyzer.com/) - Wappalyzer 是一个网站技术分析工具，可以识别网站使用的技术栈，包括 CMS、电子商务平台、支付处理器等
 -   [netdata](https://github.com/netdata/netdata) - 实时监控服务器、容器和应用程序
+-   [ahrefs](https://ahrefs.com/) - 用于查询关键词难度、查看反链统计
+-   [Google Search Console](https://search.google.com/search-console/about) - Google Search Console 是一个强大的免费工具，帮助站长优化网站在 Google 搜索中的表现
+-   [Microsoft Clarity](https://clarity.microsoft.com/) - 一款优秀的网站用户体验分析工具、流量分析工具
+-   [AITDK SEO Extension](https://aitdk.com/zh/extension) - 一款多功能浏览器扩展，旨在提供全面的网站分析
 
 ### 在线客服和反馈服务
 
@@ -222,6 +228,7 @@
 -   [Netlify](https://www.netlify.com/)
 -   [Zeabur](https://zeabur.com/) - 一个提供一键部署、无限扩展的云平台
 -   [inngest](https://github.com/inngest/inngest) - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
+-   [Sink](https://github.com/ccbikai/Sink) - 一个简单/快速/安全的链接缩短器，带有分析功能，100% 运行在 Cloudflare 上。
 
 ### 网站管理
 
@@ -322,16 +329,17 @@
 -   [全球签证指南门户网站](https://visalist.io/)
 -   [出海网站经验总结](https://github.com/princehuang/overseas-website-note)
 -   [出海小炒本](https://minibook.notion.site/b39d0ac975a44f3089639215d96135a0)
--   [Chief AI Office](https://www.chiefaioffice.xyz/?utm_source=indiehackertools.net) - 一个专注于跟踪 AI 初创公司融资动态的情报平台。每天为 5000+ 来自 OpenAI、a16z、Google 等顶级机构的读者提供最新 AI 融资情报，助你洞悉行业趋势,把握投资机遇
--   [Toolify.ai](https://www.toolify.ai/?utm_source=indiehackertools.net) - 轻松发现和了解当下最火热的 AI 应用和服务，帮助你把握 AI 发展趋势，发现潜在的商机
+-   [Chief AI Office](https://www.chiefaioffice.xyz/) - 一个专注于跟踪 AI 初创公司融资动态的情报平台。每天为 5000+ 来自 OpenAI、a16z、Google 等顶级机构的读者提供最新 AI 融资情报，助你洞悉行业趋势,把握投资机遇
+-   [Toolify.ai](https://www.toolify.ai/) - 轻松发现和了解当下最火热的 AI 应用和服务，帮助你把握 AI 发展趋势，发现潜在的商机
 -   [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
 -   [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) - 中国独立开发者项目列表
--   [Semrush](https://www.semrush.com/?utm_source=indiehackertools.net) - 一款功能强大的关键词研究工具
--   [TrendingKeywords ](https://trendingkeywords.net/?utm_source=indiehackertools.net) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
+-   [Semrush](https://www.semrush.com/) - 一款功能强大的关键词研究工具
+-   [TrendingKeywords ](https://trendingkeywords.net/) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
 -   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的 Youtube 频道
 -   [独立开发者之王”Pieter Levels 的整个研发历程](https://www.youtube.com/watch?v=oFtjKbXKqbg)
 -   [72 个全球顶级 AI 信源](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - 一键订阅 72 个全球顶级 AI 信源，每日自动生成翻译、摘要后的简报推送给你
 -   [chuhaiqu](https://blogs.chuhaiqu.club/account-open-stats/) - 出海注册公司、银行开户情况汇总表
+-   [Gumroad](https://gumroad.com/) - 用于挖掘灵感，了解市场趋势和顾客需求，成为创作和产品开发的重要参考
 
 ### 产品发布
 
@@ -343,6 +351,7 @@
 -   [流光卡片](https://fireflycard.shushiai.com/en) - 一款文字排版海报生成推广工具
 -   [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)
 -   [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频
+-   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - 帮助市场人员在推广这些项目, 佣金基本上都是 30% 以上
 
 ### Logo 设计
 
@@ -374,7 +383,7 @@
 -   [code share](https://codeshare.io/) - 实时代码共享工具
 -   [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 -   [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
--   [Linear](https://linear.app/ ) - Linear是一个项目管理和任务跟踪软件
+-   [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
 
 <a name="contribute"></a>
 

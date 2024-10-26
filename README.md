@@ -24,7 +24,7 @@
 
 -   目录导航
     -   [Web 开发框架或模板](#web开发框架或模板)
-    -   [Chrome 插件开发模板](#chrome插件开发模板)
+    -   [Chrome 插件开发](#chrome插件开发)
     -   [前端开发](#前端开发)
     -   [后端开发](#后端开发)
     -   [数据库管理](#数据库管理)
@@ -55,7 +55,7 @@
 
 ## 🧰 工具列表
 
-### Web 开发框架或模板
+### Web开发框架或模板
 
 -   [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (免费) 基于 Next.js, 集成了登录、支付（lemon squeezy）、AI 功能
 -   [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
@@ -75,7 +75,7 @@
 -   [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
 -   [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
 
-### Chrome 插件开发模板
+### Chrome插件开发
 
 -   [wxt.dev](https://wxt.dev/) - 支持 Vue、Svelte 等多种前端框架
 -   [Responsive Viewer](https://responsiveviewer.org/) - chrome 插件。可以一键验证多端响应式布局状态
@@ -85,6 +85,7 @@
 -   [crxjs](https://github.com/crxjs/chrome-extension-tools) - 是一个旨在简化 Chrome 扩展程序捆绑过程的工具库
 -   [extension.js](https://github.com/extension-js/extension.js) - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
 -   [Chrome Stats](https://chrome-stats.com/) - 挖掘 Chrome 扩展需求神器
+-   [给你谷歌插件增加🏅“精选”徽章标识？](https://x.com/HongyuanCao/status/1821558568132497629)
 
 ### 前端开发
 
@@ -104,6 +105,7 @@
 -   [Pagefind](https://github.com/CloudCannon/pagefind) - 博客/文档的静态搜索
 -   [payloadcms](https://payloadcms.com/) - 无头 CMS 和应用程序框架
 -   [apprise](https://github.com/caronc/apprise) - 适用于几乎所有平台的推送通知
+-   [Web 上实现视频和音频播放器](https://player.style/)
 
 ### 后端开发
 
@@ -152,6 +154,10 @@
 -   [Framer Motion](https://www.framer.com/motion/) - 提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果
 -   [Smooth Shadow ](https://shadows.brumm.af/) - 平滑的阴影生成器
 -   [claymorphism](https://hype4.academy/tools/claymorphism-generator) - 磨砂玻璃效果
+-   [aceternity](https://ui.aceternity.com/) - 各种好看UI的样式
+-   [animata](https://animata.design/) - 收藏了各种交互动画和效果
+-   [spark-ui](https://spark-ui.dev/) - 构建动画组件UI
+-   [magicui](https://magicui.design/) - 50多个免费开源动画组件，使用React、Typescript、Tailwind CSS和Framer Motion构建
 
 ### 原型设计
 
@@ -247,6 +253,8 @@
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
 -   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
 -   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球 1000 多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、dns 查询、路由跟踪查询、ipv6 网站测试等站长工具
+-   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
+-   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)
 
 ### 域名注册
 
@@ -340,6 +348,8 @@
 -   [72 个全球顶级 AI 信源](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - 一键订阅 72 个全球顶级 AI 信源，每日自动生成翻译、摘要后的简报推送给你
 -   [chuhaiqu](https://blogs.chuhaiqu.club/account-open-stats/) - 出海注册公司、银行开户情况汇总表
 -   [Gumroad](https://gumroad.com/) - 用于挖掘灵感，了解市场趋势和顾客需求，成为创作和产品开发的重要参考
+-   [免费关键字工具网站](https://www.anotherkeywordtool.com/)
+-   [海外虚拟信用卡开卡平台推荐 Top10 虚拟数字银行卡汇总](https://topstip.com/best-virtual-credit-card/)
 
 ### 产品发布
 
@@ -352,8 +362,9 @@
 -   [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)
 -   [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频
 -   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - 帮助市场人员在推广这些项目, 佣金基本上都是 30% 以上
+-   [Product Hunt冲榜前三攻略](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
 
-### Logo 设计
+### Logo设计
 
 -   [favicon generator 1](https://realfavicongenerator.net/) - 生成多平台多种类 logo(ico、PNG、SVG)
 -   [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) - 生成多平台多种类 logo(ico、PNG、SVG)
@@ -384,6 +395,7 @@
 -   [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 -   [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 -   [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
+-   [Cursor 规则使用指南](https://cursor.directory/)
 
 <a name="contribute"></a>
 

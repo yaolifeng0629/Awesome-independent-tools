@@ -105,6 +105,9 @@
 -   [Pagefind](https://github.com/CloudCannon/pagefind) - 博客/文档的静态搜索
 -   [payloadcms](https://payloadcms.com/) - 无头 CMS 和应用程序框架
 -   [apprise](https://github.com/caronc/apprise) - 适用于几乎所有平台的推送通知
+-   [SEO 优化指南](https://developers.google.com/search/docs?hl=zh-cn)
+-   [叫你如何做 SEO 优化？](https://magickseo.com/)
+-   [AITDK SEO Extension](https://aitdk.com/extension) - 一款免费的 All-in-One SEO 插件
 -   [Web 上实现视频和音频播放器](https://player.style/)
 
 ### 后端开发
@@ -118,6 +121,7 @@
 -   [Gin](https://gin-gonic.com/) - 基于 Go，高性能，轻量级，适合构建微服务和高并发 API
 -   [supabase](https://github.com/supabase/supabase) - 基于开源的后端开发解决方案平台
 -   [appwrite](https://github.com/appwrite/appwrite) - 用于开发 Web 和移动应用程序的后端平台
+-   [notify](https://github.com/nikoksr/notify) - Go 语言，用于向各种消息服务发送通知
 
 ### 数据库管理
 
@@ -192,6 +196,7 @@
 -   [Wise](https://wise.com/) - 个人账户可用,汇率优惠,适合跨境转账
 -   [FastSpring](https://fastspring.com/) - 需要企业资质,提供全方位电商解决方案
 -   [Ko-fi](https://ko-fi.com/) - 一个让创作者可以从粉丝那里获得打赏 💰、会员订阅 📚、商品销售 🛒 等收入的平台
+-   [WildCard](https://bewildcard.com/i/DOMR3S7H) - 国内首选，86 手机号注册，一个可以开通虚拟卡服务的第三方
 
 这个格式更加清晰和一致。每个选项都包含了直接链接和简短说明,突出了是否需要企业资质这一重要信息。您对这个列表还有什么其他补充或修改的建议吗?
 
@@ -222,6 +227,7 @@
 
 -   [腾讯兔小巢](https://txc.qq.com/) - 国内产品反馈平台
 -   [Tawk](https://tawk.to/) - 在线客服
+-   [公共用户反馈跟踪器](https://insigh.to/)
 
 ### 部署与托管
 
@@ -255,6 +261,7 @@
 -   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球 1000 多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、dns 查询、路由跟踪查询、ipv6 网站测试等站长工具
 -   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
 -   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)
+-   [利用 CNAME 域名提高网站访问速度](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
 
 ### 域名注册
 
@@ -282,6 +289,7 @@
 -   [privacy 1ts fun](https://privacy.1ts.fun/) - App / 网站所需隐私政策免费生成, 可以导出 txt 或 html 格式
 -   [TermsFeed](https://www.termsfeed.com/) - 隐私协议（Privacy Policy）和使用协议（Terms and Conditions）自动生成工具
 -   [Termly](https://termly.io/products/privacy-policy-generator/) - 隐私协议（Privacy Policy）和使用协议（Terms and Conditions）自动生成工具
+-   [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
 
 ### 图标资源
 
@@ -350,6 +358,8 @@
 -   [Gumroad](https://gumroad.com/) - 用于挖掘灵感，了解市场趋势和顾客需求，成为创作和产品开发的重要参考
 -   [免费关键字工具网站](https://www.anotherkeywordtool.com/)
 -   [海外虚拟信用卡开卡平台推荐 Top10 虚拟数字银行卡汇总](https://topstip.com/best-virtual-credit-card/)
+-   [如何认真做营销？](https://x.com/desmondhth/status/1824450807162700262)
+-   [20 个经过验证的微型 SaaS 创意](https://x.com/chuhaiqu/status/1839114602849906815)
 
 ### 产品发布
 
@@ -395,6 +405,9 @@
 -   [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 -   [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 -   [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
+-   [Remotion](https://www.remotion.dev/) - 一个通过编码创建视频的工具
+-   [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
+-   [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 -   [Cursor 规则使用指南](https://cursor.directory/)
 
 <a name="contribute"></a>

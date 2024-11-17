@@ -162,6 +162,8 @@
 -   [animata](https://animata.design/) - 收藏了各种交互动画和效果
 -   [spark-ui](https://spark-ui.dev/) - 构建动画组件UI
 -   [magicui](https://magicui.design/) - 50多个免费开源动画组件，使用React、Typescript、Tailwind CSS和Framer Motion构建
+-   [通过图形化编辑器轻松创建和自定义各种网页组件](https://tailwind-generator.com/)
+-   [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow)
 
 ### 原型设计
 
@@ -222,6 +224,7 @@
 -   [Google Search Console](https://search.google.com/search-console/about) - Google Search Console 是一个强大的免费工具，帮助站长优化网站在 Google 搜索中的表现
 -   [Microsoft Clarity](https://clarity.microsoft.com/) - 一款优秀的网站用户体验分析工具、流量分析工具
 -   [AITDK SEO Extension](https://aitdk.com/zh/extension) - 一款多功能浏览器扩展，旨在提供全面的网站分析
+-   [Google AdSense 替代品，并且展示了替代平台的发布商数量、广告主数量和月访问量等](https://googleadsensealternatives.com/)
 
 ### 在线客服和反馈服务
 
@@ -360,6 +363,11 @@
 -   [海外虚拟信用卡开卡平台推荐 Top10 虚拟数字银行卡汇总](https://topstip.com/best-virtual-credit-card/)
 -   [如何认真做营销？](https://x.com/desmondhth/status/1824450807162700262)
 -   [20 个经过验证的微型 SaaS 创意](https://x.com/chuhaiqu/status/1839114602849906815)
+-   [踩了 stripe 有一个坑](https://m.okjike.com/originalPosts/67172b0d32f03efa77c74ccb)
+-   [一行代码降低 Vercel 40 倍成本](https://www.memfree.me/zh/blog/reduce-vercel-costs)
+-   [一个获取stripe高权重外链（DR93）的方法](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
+-   [关键词分析网站](https://ahrefs.com/zh/keywords-explorer)
+-   [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
 
 ### 产品发布
 

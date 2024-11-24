@@ -200,8 +200,6 @@
 -   [Ko-fi](https://ko-fi.com/) - 一个让创作者可以从粉丝那里获得打赏 💰、会员订阅 📚、商品销售 🛒 等收入的平台
 -   [WildCard](https://bewildcard.com/i/DOMR3S7H) - 国内首选，86 手机号注册，一个可以开通虚拟卡服务的第三方
 
-这个格式更加清晰和一致。每个选项都包含了直接链接和简短说明,突出了是否需要企业资质这一重要信息。您对这个列表还有什么其他补充或修改的建议吗?
-
 ### 邮件服务
 
 -   [Nodemailer](https://github.com/nodemailer/nodemailer) - Node.js 的邮件发送库

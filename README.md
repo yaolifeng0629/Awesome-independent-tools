@@ -385,6 +385,7 @@
 -   [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频
 -   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - 帮助市场人员在推广这些项目, 佣金基本上都是 30% 以上
 -   [Product Hunt冲榜前三攻略](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
+-   [310个网站小众点的网站宣传自己的产品](https://x.com/lxfater/status/1866339428773572992)
 
 ### Logo设计
 

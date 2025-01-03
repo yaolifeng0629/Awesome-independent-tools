@@ -84,6 +84,7 @@
 ### Chrome插件开发
 
 -   [wxt.dev](https://wxt.dev/) - 支持 Vue、Svelte 等多种前端框架
+-   [Plasmo Framework](https://docs.plasmo.com/framework) - Plasmo 是一个浏览器扩展开发平台，帮助你构建、发布和管理浏览器扩展。只使用 Framework 开发的话是免费的。支持 React/Typescript
 -   [Responsive Viewer](https://responsiveviewer.org/) - chrome 插件。可以一键验证多端响应式布局状态
 -   [vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - 一个为 WebExtension 提供快速开发基础的 Vite 启动模板，支持 Vue 3、TypeScript、UnoCSS 等现代前端技术
 -   [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - 一个用于创建 Chrome 扩展程序的模板，使用 React 和 TypeScript 构建。重点在于利用 Vite(Rollup)和 Turborepo 提高构建速度和开发体验

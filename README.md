@@ -2,7 +2,7 @@
 
 📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
 
-## 🚧 **本站后续最新内容请前往：[INDIE TOOLS](https://www.indietools.work) 官网查看** 🚧
+## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
 
 -   贡献指南入口：
     -   [官网](https://www.indietools.work/submit)
@@ -466,3 +466,13 @@
 3. **关注**本项目以获取最新更新
 
 **您的支持是我持续改进的动力！** 🚀
+
+
+## ⭐️ Star
+
+[![Stargazers over time](https://starchart.cc/yaolifeng0629/Awesome-independent-tools.svg?variant=adaptive)](https://starchart.cc/yaolifeng0629/Awesome-independent-tools)
+
+## 🙌 贡献者
+
+<a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>
+

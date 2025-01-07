@@ -2,9 +2,11 @@
 
 📦 A collection of technology stacks and tools for independent developers going global.
 
-## 🌐 **README in Different Languages**
-- [中文](README.md)
-- [English](README_en.md)
+<div align="center">
+
+[中文](README.md) | [English](README_en.md)
+
+</div>
 
 ## 🚧 **For the latest updates, please visit our official website: [【https://www.indietools.work】](https://www.indietools.work)** 🚧
 

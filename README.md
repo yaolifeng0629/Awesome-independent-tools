@@ -2,10 +2,11 @@
 
 📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
 
-## 🌐 不同语言 README
+<div align="center">
 
--   [中文](README.md)
--   [English](README_en.md)
+[中文](README.md) | [English](README_en.md)
+
+</div>
 
 ## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
 

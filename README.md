@@ -1,479 +1,475 @@
-# 🛠️ 独立开发者出海工具收集站 (Independent-developer-tools)
+# 🛠️ Independent Developer Tools Collection (Independent-developer-tools)
 
-📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
+📦 A collection of technology stacks and tools for independent developers going global.
 
-## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
+## 🌐 **README in Different Languages**
+- [中文 README](README_zh.md)
+- [English README](README.md)
 
--   贡献指南入口：
-    -   [官网](https://www.indietools.work/submit)
+## 🚧 **For the latest updates, please visit our official website: [【https://www.indietools.work】](https://www.indietools.work)** 🚧
+
+-   Contribution Guide:
+    -   [Official Website](https://www.indietools.work/submit)
     -   [Github](#contribute)
 
-<!-- ## 🚧 **本站仍在持续完善中，热烈欢迎您的贡献** 🚧
+### 🎯 Our Goals:
 
--   参考：[贡献指南](#contribute) -->
+-   Simplify your workflow 🔄
+-   Boost productivity 📈
+-   Support your journey as an independent creator 🚀
 
-### 🎯 我们的目标：
+> 💡 This site aims to be your **one-stop resource center**, providing tools and resources from project inception to deployment.
 
--   简化您的工作流程 🔄
--   提高生产力 📈
--   支持您作为独立创作者的旅程 🚀
+### 🔍 Key Features:
 
-> 💡 本站致力于成为您的 **一站式资源中心**，提供从项目 inception 到 deployment 的全方位工具和资源。
+-   **Curated Tools**: High-quality, handpicked resources
+-   **Continuous Updates**: We constantly collect and add new tools
+-   **Community Contributions**: Everyone is welcome to share their favorite tools
 
-### 🔍 关键特点：
+## 📚 Categories
 
--   **精选工具**：经过筛选的高质量资源
--   **持续更新**：我们不断收集和添加新工具
--   **社区贡献**：欢迎所有人分享他们喜爱的工具
+-   Table of Contents
+    -   [Web Framework](#web-framework)
+    -   [Chrome Extension Development](#chrome-extension)
+    -   [Frontend Development](#frontend)
+    -   [Backend Development](#backend)
+    -   [Database Management](#database)
+    -   [Object-Relational Mapping (ORM)](#orm)
+    -   [Styling & UI Frameworks](#ui-framework)
+    -   [Prototyping](#prototype)
+    -   [Authentication & Authorization](#auth)
+    -   [Payment Integration](#payment)
+    -   [Email Services](#email)
+    -   [Website Analytics](#analytics)
+    -   [Customer Service & Feedback](#customer-service)
+    -   [Deployment & Hosting](#deployment)
+    -   [Site Management](#site-management)
+    -   [Domain Registration](#domain)
+    -   [Document Management](#docs)
+    -   [Agreement Generation](#agreement)
+    -   [Icon Resources](#icons)
+    -   [Font Resources](#fonts)
+    -   [Media Resources](#media)
+    -   [Media Processing Tools](#media-tools)
+    -   [Screen Recording](#screen-record)
+    -   [URL Shortener](#url-shortener)
+    -   [Information Channels](#info-channel)
+    -   [Product Release](#product-release)
+    -   [Logo Design](#logo)
+    -   [Project Management](#project-management)
+    -   [Other Tools](#other)
 
-## 📚 分类
+## 🧰 Tool List
 
--   目录导航
-    -   [Web 开发框架或模板](#web开发框架或模板)
-    -   [Chrome 插件开发](#chrome插件开发)
-    -   [前端开发](#前端开发)
-    -   [后端开发](#后端开发)
-    -   [数据库管理](#数据库管理)
-    -   [对象关系映射（ORM）](#对象关系映射)
-    -   [样式与 UI 框架](#样式与ui框架)
-    -   [原型设计](#原型设计)
-    -   [认证与授权](#认证与授权)
-    -   [支付集成](#支付集成)
-    -   [邮件服务](#邮件服务)
-    -   [网站分析](#网站分析)
-    -   [在线客服和反馈服务](#在线客服和反馈服务)
-    -   [部署与托管](#部署与托管)
-    -   [网站管理](#网站管理)
-    -   [域名注册](#域名注册)
-    -   [文档管理](#文档管理)
-    -   [协议生成](#协议生成)
-    -   [图标资源](#图标资源)
-    -   [字体资源](#字体资源)
-    -   [图片视频素材](#图片视频素材)
-    -   [图片视频处理工具](#图片视频处理工具)
-    -   [屏幕录制](#屏幕录制)
-    -   [短链或长链](#短链或长链)
-    -   [信息渠道](#信息渠道)
-    -   [产品发布](#产品发布)
-    -   [Logo 设计](#logo设计)
-    -   [项目管理](#项目管理)
-    -   [其他工具](#其他工具)
+### Web Framework
 
-## 🧰 工具列表
+-   [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (Free) Built with Next.js, integrated with login, payment (Lemon Squeezy), and AI features.
+-   [Opensaas](https://github.com/wasp-lang/open-saas/) - (Free) Built with React + Node.js, integrated with login, payment (Stripe), email, and AI features.
+-   [Shipfast](https://shipfa.st/) - (Paid) Built with Next.js, integrated with login, payment (Stripe), email, and AI features.
+-   [SupaStarter](https://supastarter.dev) - (Paid) Offers both Next.js and Nuxt templates, feature-rich.
+-   [SaaS-Boilerplate](https://react-saas.com/) - An open-source SaaS template, perfect for building your own SaaS application.
+-   [nextjs subscription payments](https://subscription-payments.vercel.app/) - Open-sourced by Vercel, uses Stripe for payments.
+-   [boilerplatelist](https://boilerplatelist.com/) - Over 130 best SaaS boilerplates and starter kits, with guidance on evaluating and selecting the best SaaS boilerplate for your project needs.
+-   [Taxonomy](https://github.com/shadcn-ui/taxonomy) - An open-source web application experiment built with Next.js 13 and React 18.
+-   [unibest](https://github.com/codercup/unibest) - A cross-platform quick-start template powered by uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI.
+-   [mp-html](https://github.com/jin-yufeng/mp-html) - A mini-program rich text component that supports rendering and editing HTML, compatible with WeChat, QQ, Baidu, Alipay, Toutiao, and uni-app platforms.
+-   [lucky-canvas lottery plugin](https://github.com/buuing/lucky-canvas) - A TS + Canvas-based lottery plugin, 🌈 one set of source code adapts to multiple frameworks: JS / Vue / React / Taro / UniApp / WeChat Mini Program, etc.
+-   [NotionNext](https://github.com/tangly1024/NotionNext) - NotionNext, a free and open-source website builder for Notion, turning notes into high-performance static websites.
+-   [capacitorjs.com](https://capacitorjs.com/) - Directly wraps Next.js into native apps.
+-   [discourse](https://www.discourse.org/) - A platform for community discussions.
+-   [umami](https://github.com/umami-software/umami) - A simple, fast, privacy-focused alternative to Google Analytics.
+-   [Free for Developers](https://free-for.dev/#/) - A website dedicated to collecting and organizing free online tools and resources for developers.
 
-### Web开发框架或模板
+### Chrome Extension Development
 
--   [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (免费) 基于 Next.js, 集成了登录、支付（lemon squeezy）、AI 功能
--   [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
--   [Shipfast](https://shipfa.st/) - (付费) 基于 Next.js，集成了登录、支付（stripe）、邮件、AI 功能
--   [SupaStarter](https://supastarter.dev) - (付费) 有 Next.js 和 Nuxt 两种模板，功能比较齐全
--   [Opensaas](https://opensaas.sh/) - React + Node.js。集成了登录、支付（stripe）、邮件、AI 功能
--   [SaaS-Boilerplate](https://react-saas.com/) - 一款开源的 SaaS 模板，非常适合构建自己的 SaaS 应用
--   [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe
--   [boilerplatelist](https://boilerplatelist.com/) - 超过 130 个最佳 SaaS 样板和入门套件，并提供了评估和选择最适合项目需求的 SaaS 样板的指导
--   [Taxonomy](https://github.com/shadcn-ui/taxonomy) - 基于 Next.js 13 和 React 18 构建的开源 Web 应用实验项目
--   [unibest](https://github.com/codercup/unibest) - unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板
--   [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
--   [lucky-canvas 抽奖插件](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等
--   [NotionNext](https://github.com/tangly1024/NotionNext) - NotionNext，Notion 免费开源建站工具，将笔记转化为高性能静态网站
--   [capacitorjs.com](https://capacitorjs.com/) - 直接将 Next.js 包裹到原生应用中
--   [discourse](https://www.discourse.org/) - 社区讨论的平台
--   [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
--   [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
-
-### Chrome插件开发
-
--   [wxt.dev](https://wxt.dev/) - 支持 Vue、Svelte 等多种前端框架
--   [Plasmo Framework](https://docs.plasmo.com/framework) - Plasmo 是一个浏览器扩展开发平台，帮助你构建、发布和管理浏览器扩展。只使用 Framework 开发的话是免费的。支持 React/Typescript
--   [Responsive Viewer](https://responsiveviewer.org/) - chrome 插件。可以一键验证多端响应式布局状态
--   [vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - 一个为 WebExtension 提供快速开发基础的 Vite 启动模板，支持 Vue 3、TypeScript、UnoCSS 等现代前端技术
--   [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - 一个用于创建 Chrome 扩展程序的模板，使用 React 和 TypeScript 构建。重点在于利用 Vite(Rollup)和 Turborepo 提高构建速度和开发体验
+-   [wxt.dev](https://wxt.dev/) - Supports multiple frontend frameworks like Vue, Svelte, etc.
+-   [Plasmo Framework](https://docs.plasmo.com/framework) - Plasmo is a browser extension development platform that helps you build, publish, and manage browser extensions. Free to use with the Framework. Supports React/Typescript.
+-   [Responsive Viewer](https://responsiveviewer.org/) - A Chrome extension to verify responsive layouts across multiple devices with one click.
+-   [vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - A Vite starter template for WebExtension development, supporting modern frontend technologies like Vue 3, TypeScript, and UnoCSS.
+-   [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - A template for creating Chrome extensions using React and TypeScript, focusing on build speed and development experience with Vite (Rollup) and Turborepo.
 -   [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
--   [crxjs](https://github.com/crxjs/chrome-extension-tools) - 是一个旨在简化 Chrome 扩展程序捆绑过程的工具库
--   [extension.js](https://github.com/extension-js/extension.js) - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
--   [Chrome Stats](https://chrome-stats.com/) - 挖掘 Chrome 扩展需求神器
--   [给你谷歌插件增加🏅“精选”徽章标识？](https://x.com/HongyuanCao/status/1821558568132497629)
+-   [crxjs](https://github.com/crxjs/chrome-extension-tools) - A tool library designed to simplify the Chrome extension bundling process.
+-   [extension.js](https://github.com/extension-js/extension.js) - A no-config, cross-browser extension development tool supporting TypeScript, WebAssembly, React, and modern JavaScript, designed for practicality and rapid prototyping.
+-   [Chrome Stats](https://chrome-stats.com/) - A tool to discover Chrome extension needs.
+-   [How to add a 🏅 "Featured" badge to your Chrome extension?](https://x.com/HongyuanCao/status/1821558568132497629)
 
-### 前端开发
+### Frontend Development
 
--   [Next.js](https://nextjs.org/) - 基于 React
--   [Nuxt](https://nuxt.com/) - 基于 Vue
--   [Remix](https://remix.run/) - 基于 React 的全栈框架
--   [Webpack Config Tool](https://createapp.dev/webpack/no-library) - 一键帮你生成 webpack.config.js
--   [AutoX.js](http://doc.autoxjs.com/) - 不需要 Root 权限 的 JavaScript 自动化软件
--   [Cypress](https://www.cypress.io/) - 最完整的端到端解决方案
--   [XRender](https://xrender.fun/) - 一个很易用的中后台「表单 / 表格 / 图表」解决方案。
--   [Puppeteer](https://pptr.dev/) - 一个 JavaScript 库，提供了一个高级 API 来控制 Chrome 或 Firefox 通过 DevTools Protocol 或 WebDriver BiDi
--   [ice](https://v3.ice.work/docs/guide/start/) - 基于 React 的应用研发框架，开箱即用，同时支持移动端和桌面端
--   [Notiflix](https://notiflix.github.io) - 纯 JavaScript 库，用于客户端非阻塞通知、弹出框、加载指示
--   [driver.js](https://driverjs.com/) - 快速实现产品导览，亮点，上下文帮助等等。
--   [3D model](https://vue-3d-model.netlify.app/zh/guide/installation/) - 基于 Vue3 3D 模型展示组件
--   [wcf.js](https://wcferry.netlify.app/) - 一款强大、快速、开源的微信机器人框架
--   [Pagefind](https://github.com/CloudCannon/pagefind) - 博客/文档的静态搜索
--   [payloadcms](https://payloadcms.com/) - 无头 CMS 和应用程序框架
--   [apprise](https://github.com/caronc/apprise) - 适用于几乎所有平台的推送通知
--   [SEO 优化指南](https://developers.google.com/search/docs?hl=zh-cn)
--   [叫你如何做 SEO 优化？](https://magickseo.com/)
--   [AITDK SEO Extension](https://aitdk.com/extension) - 一款免费的 All-in-One SEO 插件
--   [Web 上实现视频和音频播放器](https://player.style/)
+-   [Next.js](https://nextjs.org/) - Built with React.
+-   [Nuxt](https://nuxt.com/) - Built with Vue.
+-   [Remix](https://remix.run/) - A full-stack framework built with React.
+-   [Webpack Config Tool](https://createapp.dev/webpack/no-library) - Generates webpack.config.js with one click.
+-   [AutoX.js](http://doc.autoxjs.com/) - A JavaScript automation software that doesn't require root access.
+-   [Cypress](https://www.cypress.io/) - The most complete end-to-end solution.
+-   [XRender](https://xrender.fun/) - An easy-to-use solution for forms, tables, and charts in mid-to-backend systems.
+-   [Puppeteer](https://pptr.dev/) - A JavaScript library providing a high-level API to control Chrome or Firefox via DevTools Protocol or WebDriver BiDi.
+-   [ice](https://v3.ice.work/docs/guide/start/) - A React-based application development framework, out-of-the-box, supporting both mobile and desktop.
+-   [Notiflix](https://notiflix.github.io) - A pure JavaScript library for non-blocking notifications, popups, and loading indicators on the client side.
+-   [driver.js](https://driverjs.com/) - Quickly implement product tours, highlights, contextual help, and more.
+-   [3D model](https://vue-3d-model.netlify.app/zh/guide/installation/) - A Vue3-based 3D model display component.
+-   [wcf.js](https://wcferry.netlify.app/) - A powerful, fast, and open-source WeChat robot framework.
+-   [Pagefind](https://github.com/CloudCannon/pagefind) - Static search for blogs/docs.
+-   [payloadcms](https://payloadcms.com/) - A headless CMS and application framework.
+-   [apprise](https://github.com/caronc/apprise) - Push notifications for almost any platform.
+-   [SEO Optimization Guide](https://developers.google.com/search/docs?hl=zh-cn)
+-   [How to do SEO optimization?](https://magickseo.com/)
+-   [AITDK SEO Extension](https://aitdk.com/extension) - A free All-in-One SEO plugin.
+-   [Web-based video and audio player](https://player.style/)
 
-### 后端开发
+### Backend Development
 
--   [Nest.js](https://docs.nestjs.com/) - 基于 Node.js
--   [Midway.js](https://midwayjs.org/) - 基于 Node.js
--   [Django](https://www.djangoproject.com/) - 基于 Python, 全栈框架，内置管理后台，安全特性完善，国际化支持强，适合快速开发复杂 web 应用
--   [Koa](https://koajs.com/) - 基于 Node.js, 轻量级，灵活性高，适合构建小型应用和 API
--   [Actix](https://actix.rs/) - 基于 Rust, 超高性能，内存安全，适合构建高并发、低延迟的 web 服务
--   [Echo](https://echo.labstack.com/) - 基于 Go，高性能，简洁易用，适合构建 RESTful API 和微服务
--   [Gin](https://gin-gonic.com/) - 基于 Go，高性能，轻量级，适合构建微服务和高并发 API
--   [supabase](https://github.com/supabase/supabase) - 基于开源的后端开发解决方案平台
--   [appwrite](https://github.com/appwrite/appwrite) - 用于开发 Web 和移动应用程序的后端平台
--   [notify](https://github.com/nikoksr/notify) - Go 语言，用于向各种消息服务发送通知
+-   [Nest.js](https://docs.nestjs.com/) - Built with Node.js.
+-   [Midway.js](https://midwayjs.org/) - Built with Node.js.
+-   [Django](https://www.djangoproject.com/) - Built with Python, a full-stack framework with a built-in admin panel, strong security features, and excellent internationalization support, ideal for rapid development of complex web applications.
+-   [Koa](https://koajs.com/) - Built with Node.js, lightweight and highly flexible, suitable for building small applications and APIs.
+-   [Actix](https://actix.rs/) - Built with Rust, ultra-high performance, memory-safe, ideal for building high-concurrency, low-latency web services.
+-   [Echo](https://echo.labstack.com/) - Built with Go, high performance, simple and easy to use, suitable for building RESTful APIs and microservices.
+-   [Gin](https://gin-gonic.com/) - Built with Go, high performance, lightweight, suitable for building microservices and high-concurrency APIs.
+-   [supabase](https://github.com/supabase/supabase) - An open-source backend development solution platform.
+-   [appwrite](https://github.com/appwrite/appwrite) - A backend platform for developing web and mobile applications.
+-   [notify](https://github.com/nikoksr/notify) - A Go library for sending notifications to various messaging services.
 
-### 数据库管理
+### Database Management
 
--   [Mongodb](https://www.mongodb.com/products/platform/cloud) - 官方提供的一个免费数据库
--   [TiDB Cloud](https://auth.tidbcloud.com) - 免费，5GB 内免费
--   [Realm](https://www.mongodb.com/docs/atlas/device-sdks/) - SQLite 的替代方案
--   [MySQL](https://www.mysql.com) - 最流行的开源的关系型数据库
--   [PostgreSQL](https://www.postgresql.org) - 一个功能强大的开源对象关系数据库系统
--   [Redis](https://redis.io) - 一个开源（BSD 许可）的，内存中的数据结构存储系统，它可以用作数据库、缓存和消息中间件
+-   [Mongodb](https://www.mongodb.com/products/platform/cloud) - A free database provided by the official.
+-   [TiDB Cloud](https://auth.tidbcloud.com) - Free, up to 5GB.
+-   [Realm](https://www.mongodb.com/docs/atlas/device-sdks/) - An alternative to SQLite.
+-   [MySQL](https://www.mysql.com) - The most popular open-source relational database.
+-   [PostgreSQL](https://www.postgresql.org) - A powerful open-source object-relational database system.
+-   [Redis](https://redis.io) - An open-source (BSD licensed) in-memory data structure store, used as a database, cache, and message broker.
 
-### 对象关系映射
+### Object-Relational Mapping (ORM)
 
 -   [Prisma](https://prisma.io/)
 -   [TypeORM](https://github.com/typeorm/typeorm)
--   [Sequelize](https://sequelize.org/) - 最老牌的 Node.js ORM 库，支持多种数据库
+-   [Sequelize](https://sequelize.org/) - The oldest Node.js ORM library, supporting multiple databases.
 
-### 样式与 UI 框架
+### Styling & UI Frameworks
 
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Shadcn/ui](https://ui.shadcn.com/)
 -   [NextUI](https://nextui.org/)
 -   [radix-ui](https://www.radix-ui.com/)
--   [midday.ai](https://midday.ai/) - 企业财务自动化，关联了各大银行账单，将重复的会计工作程序化、生成财务报告、发票开具。
--   [hyperui.dev](https://www.hyperui.dev/) - 免费的 Tailwind CSS 组件的集合
--   [magicui](https://magicui.design/) - 专业动画组件
--   [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) - TailwindCSS 按钮的独特集合
--   [tailwindtoolbox](https://www.tailwindtoolbox.com/) - 提供了一系列免费的 Tailwind CSS 模板、组件和资源
--   [nextjstemplates](https://nextjstemplates.com/) - Next.js Templates 提供多样化专业模板
--   [tailwindawesome](https://www.tailwindawesome.com/?price=free&type=template) - 基于 TailwindCSS 的 300+模版，有免费的，有收费的
--   [uiverse](https://uiverse.io/) - 适用于任何项目的开源 UI 元素
--   [canvas-confetti](https://github.com/catdad/canvas-confetti) - 只要一行代码就能添加特效，支持撒花、放烟花、下雪多种特效，也可以自定义撒花的元素。
--   [onepagelove](https://onepagelove.com/) - 自 2008 年以来一直在收集单页网站的平台，目前已收集了 8375 个单页网站
--   [tailspark.co](https://tailspark.co/) - Tailwind CSS 中内置的漂亮组件和模板
--   [Framer Motion](https://www.framer.com/motion/) - 提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果
--   [Smooth Shadow ](https://shadows.brumm.af/) - 平滑的阴影生成器
--   [claymorphism](https://hype4.academy/tools/claymorphism-generator) - 磨砂玻璃效果
--   [aceternity](https://ui.aceternity.com/) - 各种好看UI的样式
--   [animata](https://animata.design/) - 收藏了各种交互动画和效果
--   [spark-ui](https://spark-ui.dev/) - 构建动画组件UI
--   [magicui](https://magicui.design/) - 50多个免费开源动画组件，使用React、Typescript、Tailwind CSS和Framer Motion构建
--   [通过图形化编辑器轻松创建和自定义各种网页组件](https://tailwind-generator.com/)
--   [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow)
+-   [midday.ai](https://midday.ai/) - Enterprise financial automation, linking major bank statements, automating repetitive accounting tasks, generating financial reports, and invoicing.
+-   [hyperui.dev](https://www.hyperui.dev/) - A collection of free Tailwind CSS components.
+-   [magicui](https://magicui.design/) - Professional animation components.
+-   [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) - A unique collection of TailwindCSS buttons.
+-   [tailwindtoolbox](https://www.tailwindtoolbox.com/) - Provides a series of free Tailwind CSS templates, components, and resources.
+-   [nextjstemplates](https://nextjstemplates.com/) - Next.js Templates offers a variety of professional templates.
+-   [tailwindawesome](https://www.tailwindawesome.com/?price=free&type=template) - Over 300 templates based on TailwindCSS, both free and paid.
+-   [uiverse](https://uiverse.io/) - Open-source UI elements for any project.
+-   [canvas-confetti](https://github.com/catdad/canvas-confetti) - Add effects with just one line of code, supporting confetti, fireworks, snow, and more, with customizable elements.
+-   [onepagelove](https://onepagelove.com/) - A platform collecting single-page websites since 2008, with over 8,375 single-page websites collected.
+-   [tailspark.co](https://tailspark.co/) - Beautiful components and templates built into Tailwind CSS.
+-   [Framer Motion](https://www.framer.com/motion/) - Provides a set of advanced animation and interaction components, suitable for quickly building complex animations and interactions.
+-   [Smooth Shadow](https://shadows.brumm.af/) - A smooth shadow generator.
+-   [claymorphism](https://hype4.academy/tools/claymorphism-generator) - Frosted glass effect.
+-   [aceternity](https://ui.aceternity.com/) - Various beautiful UI styles.
+-   [animata](https://animata.design/) - A collection of various interactive animations and effects.
+-   [spark-ui](https://spark-ui.dev/) - Build animated UI components.
+-   [magicui](https://magicui.design/) - Over 50 free and open-source animated components, built with React, Typescript, Tailwind CSS, and Framer Motion.
+-   [Easily create and customize various web components through a graphical editor](https://tailwind-generator.com/)
+-   [A React component specifically for number animations](https://github.com/barvian/number-flow)
 
-### 原型设计
+### Prototyping
 
--   [墨刀](https://modao.cc/) - 国内产品原型设计工具
--   [Figma](https://www.figma.com/) - 国外产品原型设计工具
--   [penpot](https://github.com/penpot/penpot) - 可平替 Figma 的开源免费工具
--   [Sketch](https://www.sketch.com/) - 国外产品原型设计工具
--   [Adobe XD](https://www.adobe.com/products/xd.html) - 国外产品原型设计工具
--   [V0](https://v0.dev/chat) - Text to UI
--   [Canva](https://www.canva.com/) - 图形设计平台
--   [designspells](https://www.designspells.com/) - 收集了 N 多的产品设计细节，做产品没有思路的时候可以上去看看别人是怎么做的
--   [uidesign.tips](https://www.uidesign.tips/ui-tips) - 了解如何通过这些简单的 UI 技巧设计更好的用户界面并让您的用户更满意
--   [OpenUI](https://github.com/wandb/openui) - 与 v0.dev 相似，但是是基于 Prompt 构建 UI 组件
--   [happyhues](https://www.happyhues.co/palettes/13) - 网站配色方案
+-   [Modao](https://modao.cc/) - A domestic product prototyping tool.
+-   [Figma](https://www.figma.com/) - A foreign product prototyping tool.
+-   [penpot](https://github.com/penpot/penpot) - An open-source and free alternative to Figma.
+-   [Sketch](https://www.sketch.com/) - A foreign product prototyping tool.
+-   [Adobe XD](https://www.adobe.com/products/xd.html) - A foreign product prototyping tool.
+-   [V0](https://v0.dev/chat) - Text to UI.
+-   [Canva](https://www.canva.com/) - A graphic design platform.
+-   [designspells](https://www.designspells.com/) - A collection of numerous product design details, great for inspiration when you're stuck.
+-   [uidesign.tips](https://www.uidesign.tips/ui-tips) - Learn how to design better user interfaces with simple UI tips to keep your users satisfied.
+-   [OpenUI](https://github.com/wandb/openui) - Similar to v0.dev, but builds UI components based on prompts.
+-   [happyhues](https://www.happyhues.co/palettes/13) - Website color schemes.
 
-### 认证与授权
+### Authentication & Authorization
 
 -   [Logto](https://logto.io/)
 -   [Lucia](https://lucia-auth.com/)
--   [Auth.js](https://authjs.dev/) - 支持 Nuxt, SolidStart, Astro 等
--   [Next Auth.js](https://next-auth.js.org/) - 支持 Next.js
--   [Clerk](https://clerk.com/) - 免费用户有 5000 MAU
--   [NextAuth](https://github.com/nextauthjs/next-auth) - 用户系统, 网络身份验证
+-   [Auth.js](https://authjs.dev/) - Supports Nuxt, SolidStart, Astro, etc.
+-   [Next Auth.js](https://next-auth.js.org/) - Supports Next.js.
+-   [Clerk](https://clerk.com/) - Free for up to 5,000 MAU.
+-   [NextAuth](https://github.com/nextauthjs/next-auth) - User system, network authentication.
 
-### 支付集成
+### Payment Integration
 
--   [Stripe](https://stripe.com/) - 需要企业资质,开发者友好,API 强大
--   [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
--   [Lemon Squeezy](https://www.lemonsqueezy.com/) - 一个全球支付平台，申请流程简单，不需要公司资质。提供微信、支付宝、Visa/Master 信用卡、PayPal 等多种支付方式，覆盖 130 多个国家。其核心功能包括备智能营收分析、客户跟踪系统、Affiliate 联盟营销工具、折扣码系统和支付失败恢复机制。
--   [PayPal](https://www.paypal.com/) - 个人账户即可使用,全球覆盖范围大
--   [Payoneer](https://www.payoneer.com/) - 个人账户可用,支持全球付款
--   [Wise](https://wise.com/) - 个人账户可用,汇率优惠,适合跨境转账
--   [FastSpring](https://fastspring.com/) - 需要企业资质,提供全方位电商解决方案
--   [Ko-fi](https://ko-fi.com/) - 一个让创作者可以从粉丝那里获得打赏 💰、会员订阅 📚、商品销售 🛒 等收入的平台
--   [WildCard](https://bewildcard.com/i/DOMR3S7H) - 国内首选，86 手机号注册，一个可以开通虚拟卡服务的第三方
+-   [Stripe](https://stripe.com/) - Requires business credentials, developer-friendly, powerful API.
+-   [Paddle](https://www.paddle.com/) - Low fees, an integrated payment infrastructure that simplifies and automates your billing operations so you can focus on growth.
+-   [Lemon Squeezy](https://www.lemonsqueezy.com/) - A global payment platform with a simple application process, no company credentials required. Supports WeChat, Alipay, Visa/Mastercard, PayPal, and more, covering over 130 countries. Core features include smart revenue analysis, customer tracking, affiliate marketing tools, discount codes, and payment failure recovery.
+-   [PayPal](https://www.paypal.com/) - Personal accounts can be used, global coverage.
+-   [Payoneer](https://www.payoneer.com/) - Personal accounts can be used, supports global payments.
+-   [Wise](https://wise.com/) - Personal accounts can be used, favorable exchange rates, suitable for cross-border transfers.
+-   [FastSpring](https://fastspring.com/) - Requires business credentials, provides a full e-commerce solution.
+-   [Ko-fi](https://ko-fi.com/) - A platform where creators can receive tips 💰, memberships 📚, and sell products 🛒 from fans.
+-   [WildCard](https://bewildcard.com/i/DOMR3S7H) - The preferred choice in China, register with an 86 phone number, a third-party service for virtual card services.
 
-### 邮件服务
+### Email Services
 
--   [Nodemailer](https://github.com/nodemailer/nodemailer) - Node.js 的邮件发送库
+-   [Nodemailer](https://github.com/nodemailer/nodemailer) - A Node.js email sending library.
 -   [Resend](https://resend.com/)
 -   [React Mail](https://react.email/)
--   [postmark templates](https://github.com/activecampaign/postmark-templates) - 电子邮件模板编辑工具
--   [临时邮箱](https://www.linshiyouxiang.net/)
--   [临时 Gmail 邮箱](https://22.do/)
+-   [postmark templates](https://github.com/activecampaign/postmark-templates) - An email template editing tool.
+-   [Temporary Email](https://www.linshiyouxiang.net/)
+-   [Temporary Gmail](https://22.do/)
 
-### 网站分析
+### Website Analytics
 
--   [Clarity](https://clarity.microsoft.com/) - 微软出品的分析工具
--   [Umami](https://umami.is/) - 开源可自部署
--   [Google Analytics](https://analytics.google.com/analytics/web/#/p384838690/reports/intelligenthome) - 谷歌提供的
--   [Plausible](https://plausible.io/) - 直观，轻量，开源
--   [openpanel](https://openpanel.dev/) - 缝合了 Mixpanel 和 Plausible 优点,访问分析+实时数据+可视化统计+用户行为洞察
--   [wappalyzer](https://www.wappalyzer.com/) - Wappalyzer 是一个网站技术分析工具，可以识别网站使用的技术栈，包括 CMS、电子商务平台、支付处理器等
--   [netdata](https://github.com/netdata/netdata) - 实时监控服务器、容器和应用程序
--   [ahrefs](https://ahrefs.com/) - 用于查询关键词难度、查看反链统计
--   [Google Search Console](https://search.google.com/search-console/about) - Google Search Console 是一个强大的免费工具，帮助站长优化网站在 Google 搜索中的表现
--   [Microsoft Clarity](https://clarity.microsoft.com/) - 一款优秀的网站用户体验分析工具、流量分析工具
--   [AITDK SEO Extension](https://aitdk.com/zh/extension) - 一款多功能浏览器扩展，旨在提供全面的网站分析
--   [Google AdSense 替代品，并且展示了替代平台的发布商数量、广告主数量和月访问量等](https://googleadsensealternatives.com/)
+-   [Clarity](https://clarity.microsoft.com/) - An analytics tool by Microsoft.
+-   [Umami](https://umami.is/) - Open-source and self-hostable.
+-   [Google Analytics](https://analytics.google.com/analytics/web/#/p384838690/reports/intelligenthome) - Provided by Google.
+-   [Plausible](https://plausible.io/) - Intuitive, lightweight, open-source.
+-   [openpanel](https://openpanel.dev/) - Combines the strengths of Mixpanel and Plausible, offering visit analysis, real-time data, visual statistics, and user behavior insights.
+-   [wappalyzer](https://www.wappalyzer.com/) - Wappalyzer is a website technology analysis tool that identifies the tech stack used by websites, including CMS, e-commerce platforms, payment processors, etc.
+-   [netdata](https://github.com/netdata/netdata) - Real-time monitoring of servers, containers, and applications.
+-   [ahrefs](https://ahrefs.com/) - Used for querying keyword difficulty and viewing backlink statistics.
+-   [Google Search Console](https://search.google.com/search-console/about) - A powerful free tool by Google to help webmasters optimize their site's performance in Google search.
+-   [Microsoft Clarity](https://clarity.microsoft.com/) - An excellent website user experience and traffic analysis tool.
+-   [AITDK SEO Extension](https://aitdk.com/zh/extension) - A multifunctional browser extension designed to provide comprehensive website analysis.
+-   [Google AdSense alternatives, showing the number of publishers, advertisers, and monthly visits of alternative platforms](https://googleadsensealternatives.com/)
 
-### 在线客服和反馈服务
+### Customer Service & Feedback
 
--   [腾讯兔小巢](https://txc.qq.com/) - 国内产品反馈平台
--   [Tawk](https://tawk.to/) - 在线客服
--   [公共用户反馈跟踪器](https://insigh.to/)
+-   [Tencent Rabbit Nest](https://txc.qq.com/) - A domestic product feedback platform.
+-   [Tawk](https://tawk.to/) - Online customer service.
+-   [Public User Feedback Tracker](https://insigh.to/)
 
-### 部署与托管
+### Deployment & Hosting
 
--   [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
--   [阿里云](https://www.aliyun.com/minisite/goods) - 国内云
--   [腾讯云](https://curl.qcloud.com/lsJFImqi) - 国内云，经常有优惠
--   [Github Pages](https://pages.github.com/) - 免费
+-   [Vercel](https://vercel.com/dashboard) - The first choice, mostly inaccessible in China.
+-   [Alibaba Cloud](https://www.aliyun.com/minisite/goods) - Domestic cloud.
+-   [Tencent Cloud](https://curl.qcloud.com/lsJFImqi) - Domestic cloud, often with discounts.
+-   [Github Pages](https://pages.github.com/) - Free.
 -   [Cloudflare Pages](https://developers.cloudflare.com/pages/)
--   [AirCode](https://aircode.io/) - 字节出品
+-   [AirCode](https://aircode.io/) - By ByteDance.
 -   [Netlify](https://www.netlify.com/)
--   [Zeabur](https://zeabur.com/) - 一个提供一键部署、无限扩展的云平台
--   [inngest](https://github.com/inngest/inngest) - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
--   [Sink](https://github.com/ccbikai/Sink) - 一个简单/快速/安全的链接缩短器，带有分析功能，100% 运行在 Cloudflare 上。
+-   [Zeabur](https://zeabur.com/) - A cloud platform offering one-click deployment and unlimited scaling.
+-   [inngest](https://github.com/inngest/inngest) - Inngest is a developer platform that combines event streams, queues, and persistent execution into a single reliability layer.
+-   [Sink](https://github.com/ccbikai/Sink) - A simple/fast/secure link shortener with analytics, 100% running on Cloudflare.
 
-### 网站管理
+### Site Management
 
--   [speedtest](https://tool.chinaz.com/speedtest) - (免费) 网站速度测试, 支持：Ping 测试，国内、国外测速，网站速度查询，DNS 查询，DNS 污染检测
--   [17ce](https://www.17ce.com/) - (免费) 网站速度测试
--   [webpagetest](https://www.webpagetest.org/) - (免费) 网站速度测试
--   [gtmetrix](https://gtmetrix.com/) - (免费) 网站速度测试
--   [Sentry](https://sentry.io/welcome/) - 免费额度应该是够用的，同样也有开源 版本。
--   [Locust](https://locust.io/) - 一个开源的负载测试工具。
--   [chinaz](https://tool.chinaz.com/) - 多种集合站长工具
--   [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - 免费 HTTPS 证书、自动更新、自动部署
--   [acme.sh](https://github.com/acmesh-official/acme.sh) - 免费 SSL 证书一键生成
--   [易条形](https://www.1txm.com/) - 一款专业的在线条形码生成工具
--   [SimilarGroup](https://www.similarsites.com/) - 输入网站地址搜索相似网站
--   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
--   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
--   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
--   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球 1000 多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、dns 查询、路由跟踪查询、ipv6 网站测试等站长工具
--   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
--   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)
--   [利用 CNAME 域名提高网站访问速度](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
+-   [speedtest](https://tool.chinaz.com/speedtest) - (Free) Website speed test, supports: Ping test, domestic and international speed tests, website speed query, DNS query, DNS pollution detection.
+-   [17ce](https://www.17ce.com/) - (Free) Website speed test.
+-   [webpagetest](https://www.webpagetest.org/) - (Free) Website speed test.
+-   [gtmetrix](https://gtmetrix.com/) - (Free) Website speed test.
+-   [Sentry](https://sentry.io/welcome/) - Free tier should be sufficient, also has an open-source version.
+-   [Locust](https://locust.io/) - An open-source load testing tool.
+-   [chinaz](https://tool.chinaz.com/) - A collection of various webmaster tools.
+-   [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - Free HTTPS certificates, automatic updates, and deployment.
+-   [acme.sh](https://github.com/acmesh-official/acme.sh) - One-click generation of free SSL certificates.
+-   [Easy Barcode](https://www.1txm.com/) - A professional online barcode generation tool.
+-   [SimilarGroup](https://www.similarsites.com/) - Enter a website address to search for similar sites.
+-   [Hackreels](https://www.hackreels.com/) - Make your code come alive.
+-   [Free SSL Certificate Application](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
+-   [Certimate](https://github.com/usual2970/certimate) - An open-source SSL certificate management tool, supporting automatic application, deployment, and renewal of SSL certificates.
+-   [Is It Down?](https://zhale.me/) - An online network testing tool for ops and webmasters, with over 1,000 global nodes, simulating user access to domains/IPs, offering free website speed tests, network speed detection, multi-region online ping tests, DNS queries, route tracking, and IPv6 website tests.
+-   [Deploy UptimeRobot API Status Panel with Cloudflare Pages: `Tutorial`](https://blog.aizrf.com/p/62)
+-   [Deploy UptimeRobot API Status Panel with Cloudflare Pages: `Project`](https://github.com/shaoyouvip/uptime)
+-   [Improve Website Access Speed with CNAME Domains](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
 
-### 域名注册
+### Domain Registration
 
--   [阿里云](https://wanwang.aliyun.com/domain)
+-   [Alibaba Cloud](https://wanwang.aliyun.com/domain)
 -   [Cloudflare](https://cloudflare.com)
--   [Namesilo](https://www.namesilo.com) - 自动屏蔽 whois
--   [tld-list](https://tld-list.com/) - 域名购买比价网，比较 54 个注册商的每个域名后缀的价格
--   [Dynadot](https://www.dynadot.com/) - 提供了域名注册和管理、以及邮箱的一站式解决方案
--   [Godaddy](https://www.godaddy.com/zh-sg) - 狗爹，懂的都懂
--   [字节火山引擎](https://www.volcengine.com/product/domain-service) - 国内平台，cn 域名首选平台
--   [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) - 国内平台，cn 域名首选平台
+-   [Namesilo](https://www.namesilo.com) - Automatically blocks whois.
+-   [tld-list](https://tld-list.com/) - A domain price comparison site, comparing prices for each domain suffix across 54 registrars.
+-   [Dynadot](https://www.dynadot.com/) - Provides a one-stop solution for domain registration, management, and email.
+-   [Godaddy](https://www.godaddy.com/zh-sg) - Godaddy, you know it.
+-   [ByteDance Volcano Engine](https://www.volcengine.com/product/domain-service) - A domestic platform, the preferred choice for .cn domains.
+-   [Tencent Cloud](https://cloud.tencent.com/act/pro/domain-sale) - A domestic platform, the preferred choice for .cn domains.
 
-### 文档管理
+### Document Management
 
--   [VitePress](https://vitepress.vuejs.org) - 基于 Vite & Vue 驱动的静态站点生成器
+-   [VitePress](https://vitepress.vuejs.org) - A static site generator powered by Vite & Vue.
 -   [Notion](https://notion.so)
--   [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点
--   [mintlify](https://mintlify.com/) - 轻松获取产品文档
--   [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站
+-   [Astro Starlight](https://starlight.astro.build/) - A documentation theme site for the Astro framework.
+-   [mintlify](https://mintlify.com/) - Easily obtain product documentation.
+-   [Docusaurus](https://github.com/facebook/docusaurus) - An easy-to-maintain open-source documentation website.
 
-### 协议生成
+### Agreement Generation
 
--   [freeprivacypolicy](https://app.freeprivacypolicy.com/) - 一个在线隐私政策生成器，提供免费、轻松且符合各类隐私法规(CPRA, CCPA, GDPR 等)的模板
--   [shopify policy generator](https://www.shopify.com/zh/tools/policy-generator) - 提供了网站隐私政策模板
--   [privacy 1ts fun](https://privacy.1ts.fun/) - App / 网站所需隐私政策免费生成, 可以导出 txt 或 html 格式
--   [TermsFeed](https://www.termsfeed.com/) - 隐私协议（Privacy Policy）和使用协议（Terms and Conditions）自动生成工具
--   [Termly](https://termly.io/products/privacy-policy-generator/) - 隐私协议（Privacy Policy）和使用协议（Terms and Conditions）自动生成工具
--   [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+-   [freeprivacypolicy](https://app.freeprivacypolicy.com/) - An online privacy policy generator, providing free, easy, and compliant templates for various privacy regulations (CPRA, CCPA, GDPR, etc.).
+-   [shopify policy generator](https://www.shopify.com/zh/tools/policy-generator) - Provides website privacy policy templates.
+-   [privacy 1ts fun](https://privacy.1ts.fun/) - Free privacy policy generation for apps/websites, can export in txt or html format.
+-   [TermsFeed](https://www.termsfeed.com/) - An automatic generator for privacy policies and terms & conditions.
+-   [Termly](https://termly.io/products/privacy-policy-generator/) - An automatic generator for privacy policies and terms & conditions.
+-   [Open Source License Selector](https://open-source-license-chooser.toolsnav.top/zh/)
 
-### 图标资源
+### Icon Resources
 
 -   [iconify](https://iconify.design/)
 -   [fontawesome](https://fontawesome.com/icons)
--   [svgl](https://svgl.app/) - 提供丰富的 Logo 的 SVG 图标库、一键搜索下载功能，重点是支持直接复制为代码
--   [aspose-png-to-svg](https://products.aspose.app/pdf/zh/conversion/png-to-svg) - PNG 转 SVG 工具支持批量上传
--   [fontawesome](https://fontawesome.com/icons) - 提供超过 30,013 个可用于各种项目的图标
--   [MingCute](https://www.mingcute.com/) - 一个为设计师和开发者准备的简洁而精致的开源图标库，非常适合在网页和移动设备上使用
--   [iconbuddy](https://iconbuddy.com/) - 一个提供超过 200,000 个开源 SVG 图标的搜索引擎，允许你免费搜索、下载、自定义和编辑图标
+-   [svgl](https://svgl.app/) - A rich collection of SVG logos, with one-click search and download, and supports direct code copying.
+-   [aspose-png-to-svg](https://products.aspose.app/pdf/zh/conversion/png-to-svg) - A PNG to SVG tool supporting batch uploads.
+-   [fontawesome](https://fontawesome.com/icons) - Offers over 30,013 icons for various projects.
+-   [MingCute](https://www.mingcute.com/) - A clean and elegant open-source icon library for designers and developers, perfect for web and mobile use.
+-   [iconbuddy](https://iconbuddy.com/) - A search engine offering over 200,000 open-source SVG icons, allowing free search, download, customization, and editing.
 
-### 字体资源
+### Font Resources
 
--   [免费【中文】字体](https://wangchujiang.com/free-font/) - 免费可商用【中文】字体
--   [免费【英文】字体](https://www.freefaces.gallery/) - 免费可商用【英文】字体
+-   [Free Chinese Fonts](https://wangchujiang.com/free-font/) - Free commercial-use Chinese fonts.
+-   [Free English Fonts](https://www.freefaces.gallery/) - Free commercial-use English fonts.
 
-### 图片视频素材
+### Media Resources
 
--   [vectorCraftr](https://vectorcraftr.com/?utm_source=gapis.money) - 大量免费的插图素材
--   [pexels](https://www.pexels.com/zh-cn/) - 免费素材高清图片
--   [vectorizer](https://vectorizer.com/zh/) - 图片矢量化
+-   [vectorCraftr](https://vectorcraftr.com/?utm_source=gapis.money) - A large collection of free illustration resources.
+-   [pexels](https://www.pexels.com/zh-cn/) - Free high-definition image resources.
+-   [vectorizer](https://vectorizer.com/zh/) - Image vectorization.
 
-### 图片视频处理工具
+### Media Processing Tools
 
--   [Tinypng](https://tinypng.com/) - 图片压缩工具
--   [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
--   [在线 AI 抠图工具](https://removebg.one/)
--   [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
--   [video 转 gif](https://ezgif.com/video-to-gif)
--   [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
+-   [Tinypng](https://tinypng.com/) - Image compression tool.
+-   [tiny-img](https://tiny-img.com/webp/) - Compress PNG, JPG formats and convert to WEBP.
+-   [Online AI Background Removal Tool](https://removebg.one/)
+-   [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
+-   [Video to GIF](https://ezgif.com/video-to-gif)
+-   [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
 
-### 屏幕录制
+### Screen Recording
 
--   [OBS Studio](https://obsproject.com/) - 开源工具，跨平台：windows、mac、linux
--   [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的开源 macOS 屏幕录制工具
--   [screenity](https://github.com/alyssaxuu/screenity) - 一款开源的屏幕录制和标注工具，提供隐私保护且无任何使用限制
--   [focusee](https://gemoo.com/focusee/) - 一个一站式平台，简化了视频的创建、编辑和分享流程，让每个人都能在几分钟内制作视频并传播自己的创意
+-   [OBS Studio](https://obsproject.com/) - Open-source tool, cross-platform: Windows, Mac, Linux.
+-   [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A multifunctional, lightweight, high-performance open-source macOS screen recording tool.
+-   [screenity](https://github.com/alyssaxuu/screenity) - An open-source screen recording and annotation tool, privacy-protected with no usage restrictions.
+-   [focusee](https://gemoo.com/focusee/) - A one-stop platform simplifying video creation, editing, and sharing, allowing everyone to create and share their ideas in minutes.
 
-### 短链或长链
+### URL Shortener
 
--   [links](https://link.bnyer.cn/) - 短链接生成器
--   [soo](https://soo.run/) - 短网址，短链接工具
--   [长链接生成器](https://biubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiu.com/index-real.html)
+-   [links](https://link.bnyer.cn/) - URL shortener.
+-   [soo](https://soo.run/) - URL shortener tool.
+-   [Long URL Generator](https://biubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiu.com/index-real.html)
 
-### 信息渠道
+### Information Channels
 
--   [信息差](https://gapis.money/) - 经常更新的独立开发者出海周刊
--   [Product Hunt](https://www.producthunt.com/) - 新产品榜单聚集地
--   [W2Solo](https://w2solo.com/) - 中文独立开发者社区
--   [出海团 ](https://chuhaituan.com/) - 专注于分享优秀的出海产品
--   [出海 Blog](https://blogs.chuhaiqu.club/) - 出海经验博客分享
--   [1000UserGuide](https://1000userguide.com/#/) - 300 多个独立开发者的免费推广渠道清单
--   [全球签证指南门户网站](https://visalist.io/)
--   [出海网站经验总结](https://github.com/princehuang/overseas-website-note)
--   [出海小炒本](https://minibook.notion.site/b39d0ac975a44f3089639215d96135a0)
--   [Chief AI Office](https://www.chiefaioffice.xyz/) - 一个专注于跟踪 AI 初创公司融资动态的情报平台。每天为 5000+ 来自 OpenAI、a16z、Google 等顶级机构的读者提供最新 AI 融资情报，助你洞悉行业趋势,把握投资机遇
--   [Toolify.ai](https://www.toolify.ai/) - 轻松发现和了解当下最火热的 AI 应用和服务，帮助你把握 AI 发展趋势，发现潜在的商机
--   [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
--   [中国独立开发者项目列表-程序员版](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) - 中国独立开发者项目列表
--   [Semrush](https://www.semrush.com/) - 一款功能强大的关键词研究工具
--   [TrendingKeywords ](https://trendingkeywords.net/) - 一个强大的关键词趋势分析工具，用于发现即将爆发的热门关键词
--   [Cursor 实战](https://www.youtube.com/@realmckaywrigley/videos) - 一个带着你用 Cursor 从零开始做项目的 Youtube 频道
--   [独立开发者之王”Pieter Levels 的整个研发历程](https://www.youtube.com/watch?v=oFtjKbXKqbg)
--   [72 个全球顶级 AI 信源](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - 一键订阅 72 个全球顶级 AI 信源，每日自动生成翻译、摘要后的简报推送给你
--   [chuhaiqu](https://blogs.chuhaiqu.club/account-open-stats/) - 出海注册公司、银行开户情况汇总表
--   [Gumroad](https://gumroad.com/) - 用于挖掘灵感，了解市场趋势和顾客需求，成为创作和产品开发的重要参考
--   [免费关键字工具网站](https://www.anotherkeywordtool.com/)
--   [海外虚拟信用卡开卡平台推荐 Top10 虚拟数字银行卡汇总](https://topstip.com/best-virtual-credit-card/)
--   [如何认真做营销？](https://x.com/desmondhth/status/1824450807162700262)
--   [20 个经过验证的微型 SaaS 创意](https://x.com/chuhaiqu/status/1839114602849906815)
--   [踩了 stripe 有一个坑](https://m.okjike.com/originalPosts/67172b0d32f03efa77c74ccb)
--   [一行代码降低 Vercel 40 倍成本](https://www.memfree.me/zh/blog/reduce-vercel-costs)
--   [一个获取stripe高权重外链（DR93）的方法](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
--   [关键词分析网站](https://ahrefs.com/zh/keywords-explorer)
--   [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+-   [Information Gap](https://gapis.money/) - A frequently updated weekly newsletter for independent developers going global.
+-   [Product Hunt](https://www.producthunt.com/) - A hub for new product launches.
+-   [W2Solo](https://w2solo.com/) - A Chinese independent developer community.
+-   [Going Global Group](https://chuhaituan.com/) - Focused on sharing excellent global products.
+-   [Going Global Blog](https://blogs.chuhaiqu.club/) - A blog sharing global experience.
+-   [1000UserGuide](https://1000userguide.com/#/) - A list of over 300 free promotion channels for independent developers.
+-   [Global Visa Guide Portal](https://visalist.io/)
+-   [Global Website Experience Summary](https://github.com/princehuang/overseas-website-note)
+-   [Global Cooking Book](https://minibook.notion.site/b39d0ac975a44f3089639215d96135a0)
+-   [Chief AI Office](https://www.chiefaioffice.xyz/) - A platform focused on tracking AI startup funding trends. Provides daily AI funding intelligence to over 5,000 readers from top institutions like OpenAI, a16z, and Google, helping you stay ahead of industry trends and seize investment opportunities.
+-   [Toolify.ai](https://www.toolify.ai/) - Easily discover and understand the hottest AI applications and services, helping you stay on top of AI trends and uncover potential business opportunities.
+-   [List of Chinese Independent Developer Projects](https://github.com/1c7/chinese-independent-developer) - A list of Chinese independent developer projects.
+-   [List of Chinese Independent Developer Projects - Programmer Edition](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md) - A list of Chinese independent developer projects.
+-   [Semrush](https://www.semrush.com/) - A powerful keyword research tool.
+-   [TrendingKeywords](https://trendingkeywords.net/) - A powerful keyword trend analysis tool for discovering upcoming hot keywords.
+-   [Cursor in Action](https://www.youtube.com/@realmckaywrigley/videos) - A YouTube channel guiding you through projects from scratch using Cursor.
+-   [The Entire R&D Journey of "Independent Developer King" Pieter Levels](https://www.youtube.com/watch?v=oFtjKbXKqbg)
+-   [72 Top Global AI Sources](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) - Subscribe to 72 top global AI sources with one click, and receive daily translated and summarized briefings.
+-   [chuhaiqu](https://blogs.chuhaiqu.club/account-open-stats/) - A summary table of company registration and bank account opening for global expansion.
+-   [Gumroad](https://gumroad.com/) - A platform for mining inspiration, understanding market trends, and customer needs, becoming an important reference for creation and product development.
+-   [Free Keyword Tool Website](https://www.anotherkeywordtool.com/)
+-   [Top 10 Virtual Credit Card Platforms](https://topstip.com/best-virtual-credit-card/)
+-   [How to Seriously Do Marketing?](https://x.com/desmondhth/status/1824450807162700262)
+-   [20 Proven Micro SaaS Ideas](https://x.com/chuhaiqu/status/1839114602849906815)
+-   [A Pitfall with Stripe](https://m.okjike.com/originalPosts/67172b0d32f03efa77c74ccb)
+-   [Reduce Vercel Costs by 40x with One Line of Code](https://www.memfree.me/zh/blog/reduce-vercel-costs)
+-   [A Method to Get High-Weight Stripe Backlinks (DR93)](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
+-   [Keyword Analysis Website](https://ahrefs.com/zh/keywords-explorer)
+-   [I Successfully Ran the Global Payment Process](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
 
-### 产品发布
+### Product Release
 
--   [PoweredByAI](https://poweredbyai.app/) - 免费提交产品
--   [Pinterest](https://www.pinterest.com) - 发布的视频可能会被 Google 收录且免
-    费
--   [Indie Hackers](https://www.indiehackers.com/) - 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据
--   [Tweeteasy](https://tweeteasy.io) - 一款易于使用的 Twitter AI 工具，可以让你轻松创建引人入胜的帖子、获取回复想法、添加表情符号、更改语气、修复拼写和语法以及翻译成英语
--   [流光卡片](https://fireflycard.shushiai.com/en) - 一款文字排版海报生成推广工具
--   [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)
--   [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频
--   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - 帮助市场人员在推广这些项目, 佣金基本上都是 30% 以上
--   [Product Hunt冲榜前三攻略](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
--   [310个网站小众点的网站宣传自己的产品](https://x.com/lxfater/status/1866339428773572992)
+-   [PoweredByAI](https://poweredbyai.app/) - Free product submission.
+-   [Pinterest](https://www.pinterest.com) - Videos posted may be indexed by Google for free.
+-   [Indie Hackers](https://www.indiehackers.com/) - A community platform connecting developers to share strategies and revenue data behind their companies and side projects.
+-   [Tweeteasy](https://tweeteasy.io) - An easy-to-use Twitter AI tool that lets you easily create engaging posts, get reply ideas, add emojis, change tone, fix spelling and grammar, and translate into English.
+-   [Flowing Light Card](https://fireflycard.shushiai.com/en) - A text typography poster generation and promotion tool.
+-   [Online English Signature](https://codepen.io/kiranpate1/full/ExBpaeW)
+-   [AdsDog](https://adsdog.ai/) - Generate high-quality digital human promotional videos with AI from a single URL.
+-   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - Helps marketers promote these programs, with commissions typically over 30%.
+-   [Product Hunt Top 3 Strategy](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
+-   [310 Niche Websites to Promote Your Product](https://x.com/lxfater/status/1866339428773572992)
 
-### Logo设计
+### Logo Design
 
--   [favicon generator 1](https://realfavicongenerator.net/) - 生成多平台多种类 logo(ico、PNG、SVG)
--   [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) - 生成多平台多种类 logo(ico、PNG、SVG)
--   [bit bug](https://www.bitbug.net/) - PNG/JPG 转 ico
--   [Logo.surf](https://www.logo.surf/) - 文本 Logo 生成器
--   [favicon](https://favicon.vwood.xyz/) - 快速通过 URL 获取站点 Favicon 图标
--   [Logo AI](https://www.logoai.com) - 一款 AI 驱动的 Logo 制作工具
--   [Favicon.im](https://favicon.im/?utm_source=gapis.money) - 一键通过 URL 获取某个网站的 icon
+-   [favicon generator 1](https://realfavicongenerator.net/) - Generates multi-platform logos (ico, PNG, SVG).
+-   [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) - Generates multi-platform logos (ico, PNG, SVG).
+-   [bit bug](https://www.bitbug.net/) - PNG/JPG to ico.
+-   [Logo.surf](https://www.logo.surf/) - Text logo generator.
+-   [favicon](https://favicon.vwood.xyz/) - Quickly get a site's favicon icon via URL.
+-   [Logo AI](https://www.logoai.com) - An AI-driven logo creation tool.
+-   [Favicon.im](https://favicon.im/?utm_source=gapis.money) - Get a website's icon with one click via URL.
 
-### 项目管理
+### Project Management
 
--   [Trello](https://trello.com/) - 灵活的可视化项目管理工具
--   [Notion](https://www.notion.so/) - 集笔记、文档和任务管理于一体的工作空间
+-   [Trello](https://trello.com/) - A flexible visual project management tool.
+-   [Notion](https://www.notion.so/) - A workspace integrating notes, documents, and task management.
 
-### 其他工具
+### Other Tools
 
--   [黑苹果软件园](https://mackext.com/)
--   [截图工具](https://www.snipaste.com/)
--   [截图工具](https://pixpinapp.com/) - 解决了 Snipaste 长截图，gif 图问题
--   [PKeyToolWeb](https://pkeytool.com/ShareKeys) - 微软产品激活工具箱
--   [Window 激活](https://www.ahhhhfs.com/15133/) - Windows 激活工具大全 免费安全的 Windows 激活软件
--   [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/) - IDM 的替代软件
--   [KMS](https://kms.cx/#) - KMS 一键激活 windows/office
--   [cobalt](https://cobalt.tools/) - 各类资源下载神器，只需一个 URL
--   [toSound](https://www.tosound.com/) - 免费音效素材资源下载
--   [美国虚拟地址生成器](https://www.fakexy.com/fake-address-generator-ca)
--   [code share](https://codeshare.io/) - 实时代码共享工具
--   [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
--   [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
--   [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
--   [Remotion](https://www.remotion.dev/) - 一个通过编码创建视频的工具
--   [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
--   [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
--   [Cursor 规则使用指南](https://cursor.directory/)
+-   [Black Apple Software Park](https://mackext.com/)
+-   [Screenshot Tool](https://www.snipaste.com/)
+-   [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.
+-   [PKeyToolWeb](https://pkeytool.com/ShareKeys) - A Microsoft product activation toolbox.
+-   [Windows Activation](https://www.ahhhhfs.com/15133/) - A collection of free and safe Windows activation tools.
+-   [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/) - An alternative to IDM.
+-   [KMS](https://kms.cx/#) - One-click activation for Windows/Office.
+-   [cobalt](https://cobalt.tools/) - A resource download tool for all types of resources, just need a URL.
+-   [toSound](https://www.tosound.com/) - Free sound effect resources download.
+-   [US Virtual Address Generator](https://www.fakexy.com/fake-address-generator-ca)
+-   [code share](https://codeshare.io/) - Real-time code sharing tool.
+-   [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - Recommends commonly used AI tools for each website, one-click usage.
+-   [QuickType](https://quicktype.io/) - Instantly generates corresponding types from a JSON structure.
+-   [Linear](https://linear.app/) - Linear is a project management and task tracking software.
+-   [Remotion](https://www.remotion.dev/) - A tool to create videos through coding.
+-   [Create an API-based tool to take website snapshots](https://screenshotone.com/)
+-   [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
+-   [Cursor Rules Usage Guide](https://cursor.directory/)
 
 <a name="contribute"></a>
 
-## 🤝 如何贡献
+## 🤝 How to Contribute
 
-我们热烈欢迎您的贡献！ 🎉
+We warmly welcome your contributions! 🎉
 
-如果您知道一个很棒的工具还没有被列出, 请提交一个拉取请求。
+If you know of a great tool that hasn't been listed, please submit a pull request.
 
-### 📝 贡献步骤：
+### 📝 Contribution Steps:
 
-1. **Fork** 这个仓库
-2. 创建一个新的分支 (`git checkout -b add-new-tool`)
-3. 将您的工具添加到适当的类别中
-4. 提交您的更改 (`git commit -am '添加新工具'`)
-5. 推送到分支 (`git push origin add-new-tool`)
-6. 创建一个新的 **Pull Request**
+1. **Fork** this repository
+2. Create a new branch (`git checkout -b add-new-tool`)
+3. Add your tool to the appropriate category
+4. Commit your changes (`git commit -am 'Add new tool'`)
+5. Push to the branch (`git push origin add-new-tool`)
+6. Create a new **Pull Request**
 
-### ✅ 贡献准则：
+### ✅ Contribution Guidelines:
 
-请确保您的拉取请求遵循以下准则：
+Please ensure your pull request follows these guidelines:
 
--   使用以下格式：`[工具名称](链接) - 简短描述`
--   仔细检查您的拼写和语法
--   确保您的文本编辑器设置为删除尾随空格
+-   Use the following format: `[Tool Name](Link) - Short Description`
+-   Double-check your spelling and grammar
+-   Ensure your text editor is set to remove trailing whitespace
 
-> 💡 **提示**：质量比数量更重要。请只提交您认为真正有价值的工具！
+> 💡 **Tip**: Quality over quantity. Please only submit tools you believe are truly valuable!
 
-## 🙏 致谢
+## 🙏 Acknowledgments
 
--   衷心感谢开源社区，使许多这些工具成为可能
--   特别感谢所有为这个仓库做出贡献的开发者们 👏
+-   Heartfelt thanks to the open-source community for making many of these tools possible
+-   Special thanks to all the developers who contributed to this repository 👏
 
 ---
 
-### 💫 支持我们
+### 💫 Support Us
 
-如果您觉得这个项目有用，请考虑：
+If you find this project useful, please consider:
 
-1. 给仓库 **`⭐ 点个 Star`** 来表示您的支持
-2. **分享**这个仓库，帮助其他独立开发者发现这些宝贵资源！
-3. **关注**本项目以获取最新更新
+1. Giving the repository a **`⭐ Star`** to show your support
+2. **Sharing** this repository to help other independent developers discover these valuable resources!
+3. **Following** this project for the latest updates
 
-**您的支持是我持续改进的动力！** 🚀
-
+**Your support is my motivation to keep improving!** 🚀
 
 ## ⭐️ Star
 
 [![Stargazers over time](https://starchart.cc/yaolifeng0629/Awesome-independent-tools.svg?variant=adaptive)](https://starchart.cc/yaolifeng0629/Awesome-independent-tools)
 
-## 🙌 贡献者
+## 🙌 Contributors
 
 <a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>
-

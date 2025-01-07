@@ -1,12 +1,13 @@
-# 🛠️ 独立开发者出海工具收集站 (Independent-developer-tools)
-
-📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
-
 <div align="center">
 
 [中文](README.md) | [English](README_en.md)
 
 </div>
+
+# 🛠️ 独立开发者出海工具收集站 (Independent-developer-tools)
+
+📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
+
 
 ## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
 

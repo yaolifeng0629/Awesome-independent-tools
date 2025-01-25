@@ -8,9 +8,12 @@
 
 📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
 
-
 ## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
 
+-   INDIE TOOLS 上线了【半月刊】栏目，便于大家第一时间获取每期半月刊内容
+    -   订阅方式：只需关注 【非同质前端札记】公众号即可
+    -   往期内容：[快捷入口](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTI2MzE0MQ==&action=getalbum&album_id=3805275448980930569#wechat_redirect)
+        <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg" width="300"/>
 -   贡献指南入口：
     -   [官网](https://www.indietools.work/submit)
     -   [Github](#contribute)

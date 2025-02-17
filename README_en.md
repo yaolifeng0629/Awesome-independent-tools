@@ -6,11 +6,18 @@
 
 # 🛠️ Independent Developer Tools Collection (Independent-developer-tools)
 
-📦 A collection of technology stacks and tools for independent developers going global.
+📦 Contains independent developers' technology stacks and tools
 
-## 🚧 **For the latest updates, please visit our official website: [【https://www.indietools.work】](https://www.indietools.work)** 🚧
+## 🚧 **Please go to:[【https://www.indietools.work 】](https://www.indietools.work) View official website** 🚧
 
--   Contribution Guide:
+-   INDIE TOOLS has launched the column of "Semi monthly magazine", so that everyone can get the content of each semi monthly magazine as soon as possible
+
+    -   Subscription method: just follow the 【immtalk】 public account
+    -   Past content: [Fast entry](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTI2MzE0MQ==&action=getalbum&album_id=3805275448980930569#wechat_redirect)
+
+    <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg " width="300"/>
+
+-   Contribution Guide Portal:
     -   [Official Website](https://www.indietools.work/submit)
     -   [Github](#contribute)
 

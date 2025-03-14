@@ -15,7 +15,7 @@
     -   Subscription method: just follow the 【immtalk】 public account
     -   Past content: [Fast entry](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTI2MzE0MQ==&action=getalbum&album_id=3805275448980930569#wechat_redirect)
 
-    <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg " width="300"/>
+    <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg " width="200"/>
 
 -   Contribution Guide Portal:
     -   [Official Website](https://www.indietools.work/submit)

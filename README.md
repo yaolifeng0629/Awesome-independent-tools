@@ -11,10 +11,12 @@
 ## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
 
 -   INDIE TOOLS 上线了【半月刊】栏目，便于大家第一时间获取每期半月刊内容
+
     -   订阅方式：只需关注 【沉浸式趣谈】公众号即可
     -   往期内容：[快捷入口](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTI2MzE0MQ==&action=getalbum&album_id=3805275448980930569#wechat_redirect)
 
         <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg" width="300"/>
+
 -   贡献指南入口：
     -   [官网](https://www.indietools.work/submit)
     -   [Github](#contribute)
@@ -22,6 +24,15 @@
 <!-- ## 🚧 **本站仍在持续完善中，热烈欢迎您的贡献** 🚧
 
 -   参考：[贡献指南](#contribute) -->
+
+### 往期半月刊
+
+-   [《Indie Tools • 半月刊》第 006 期（最新）](https://mp.weixin.qq.com/s?__biz=MzkyOTI2MzE0MQ==&mid=2247487489&idx=1&sn=bb9aff1f531433c0f77d59dd146e7546&chksm=c20d6b4bf57ae25dedf1d7a7ae8628fce81de68599b59fd96931ebb4260ad66c21e463c9a028&scene=178&cur_album_id=3805275448980930569#rd) 🔥
+-   [《Indie Tools • 半月刊》第 005 期](https://mp.weixin.qq.com/s?__biz=MzkyOTI2MzE0MQ==&mid=2247487389&idx=1&sn=2882dadcc68962995b6a14ce6bbd9113&chksm=c20d74d7f57afdc14246e742a1faaf2fcda09581b3fbe4e8fb2d7555b85d5af056a2e7829ec5&scene=178&cur_album_id=3805275448980930569#rd)
+-   [《Indie Tools • 半月刊》第 004 期](https://mp.weixin.qq.com/s?__biz=MzkyOTI2MzE0MQ==&mid=2247487315&idx=1&sn=73994d205aad61f8bd4206b8e9eebfb4&chksm=c20d7419f57afd0f9559733393e2dae682edc97f17656375b4902e3f7833bc9782d75fbb6c4e&scene=178&cur_album_id=3805275448980930569#rd)
+-   [《Indie Tools • 半月刊》第 003 期](https://mp.weixin.qq.com/s?__biz=MzkyOTI2MzE0MQ==&mid=2247487286&idx=1&sn=7c057f88369ab1d23ca7f6e908638c7d&chksm=c20d747cf57afd6a0bb59523e9e556e8ed6859fc471e68bec6913ea1de40619250e097f58043&scene=178&cur_album_id=3805275448980930569#rd)
+-   [《Indie Tools • 半月刊》第 002 期](https://mp.weixin.qq.com/s?__biz=MzkyOTI2MzE0MQ==&mid=2247487246&idx=1&sn=4fd2a09c6c9adbdc5d451adf7bbb2908&chksm=c20d7444f57afd522e59bdc2e48614f6c53d6a9459bfb50c376aef9ab5e20a2c4c2f20a0984d&scene=178&cur_album_id=3805275448980930569#rd)
+-   [《Indie Tools • 半月刊》第 001 期](https://mp.weixin.qq.com/s?__biz=MzkyOTI2MzE0MQ==&mid=2247487245&idx=1&sn=df7d94cdfd2f02d96f79ccc74355b79c&chksm=c20d7447f57afd51cce15533fff8c5793acbad1a6c33a1d629d455cf882933cac38f26cff9cc&scene=178&cur_album_id=3805275448980930569#rd)
 
 ### 🎯 我们的目标：
 

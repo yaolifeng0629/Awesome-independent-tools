@@ -15,7 +15,7 @@
     -   订阅方式：只需关注 【沉浸式趣谈】公众号即可
     -   往期内容：[快捷入口](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTI2MzE0MQ==&action=getalbum&album_id=3805275448980930569#wechat_redirect)
 
-        <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg" width="300"/>
+        <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg" width="200"/>
 
 -   贡献指南入口：
     -   [官网](https://www.indietools.work/submit)

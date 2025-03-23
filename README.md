@@ -4,7 +4,7 @@
 
 </div>
 
-# 🛠️ 独立开发者收集站 (Awesome Independent developer tools)
+# 🛠️ 独立开发者工具站 (Awesome Independent developer tools)
 
 📦 收录独立开发必备工具和资源 (Contains independent developers' technology stacks and tools)
 

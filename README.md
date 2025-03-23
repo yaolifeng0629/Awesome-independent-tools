@@ -4,9 +4,9 @@
 
 </div>
 
-# 🛠️ 独立开发者出海工具收集站 (Independent-developer-tools)
+# 🛠️ 独立开发者收集站 (Awesome Independent developer tools)
 
-📦 收录独立开发者出海技术栈和工具 (Contains independent developers' technology stacks and tools)
+📦 收录独立开发必备工具和资源 (Contains independent developers' technology stacks and tools)
 
 ## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
 

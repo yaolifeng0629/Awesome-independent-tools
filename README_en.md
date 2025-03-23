@@ -4,7 +4,7 @@
 
 </div>
 
-# 🛠️ Independent Developer Tools Collection (Independent-developer-tools)
+# 🛠️ Independent developer tool site (Awesome Independent developer tools)
 
 📦 Contains independent developers' technology stacks and tools
 

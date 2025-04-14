@@ -216,6 +216,7 @@
 -   [Next Auth.js](https://next-auth.js.org/) - 支持 Next.js
 -   [Clerk](https://clerk.com/) - 免费用户有 5000 MAU
 -   [NextAuth](https://github.com/nextauthjs/next-auth) - 用户系统, 网络身份验证
+-   [Scalekit](https://www.scalekit.com) - 在现有身份验证系统（如 Auth0、Firebase 或 Cognito）之上添加企业级 SSO（SAML、OIDC）和 SCIM 自动配置，无需重写代码。
 
 ### 支付集成
 

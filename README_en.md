@@ -4,17 +4,16 @@
 
 </div>
 
-# 🛠️ Independent developer tool site (Awesome Independent developer tools)
+[![alt text](./assets/en.webp)](https://www.indietools.work)
 
-📦 Contains independent developers' technology stacks and tools
+# 🛠️ Indie Tools
 
-## 🚧 **Please go to:[【https://www.indietools.work 】](https://www.indietools.work) View official website** 🚧
+📦 Indie Tools focuses on sharing independently developed, overseas, selected, the latest and most practical tools and resources
 
--   Indie Tools has launched the column of "Semi monthly magazine", so that everyone can get the content of each semi monthly magazine as soon as possible
+## 🚧 **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)** 🚧
 
-    -   Subscription method: just follow the Twitter [【Immerse_code】](https://x.com/Immerse_code)
-    -   Past content: [Fast entry](https://www.indietools.work/articles)
-
+-   Subscription method: just follow the Twitter [【Immerse_code】](https://x.com/Immerse_code)
+-   Past content: [Fast entry](https://www.indietools.work/articles)
 -   Contribution Guide Portal:
     -   [Official Website](https://www.indietools.work/submit)
     -   [Github](#contribute)

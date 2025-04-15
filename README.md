@@ -4,26 +4,18 @@
 
 </div>
 
-# 🛠️ 独立开发者工具站 (Awesome Independent developer tools)
+[![alt text](./assets/zh.webp)](https://www.indietools.work)
 
-📦 收录独立开发必备工具和资源 (Contains independent developers' technology stacks and tools)
+# 🛠️ Indie Tools
 
-## 🚧 **本站后续所有最新内容请前往：[【https://www.indietools.work】](https://www.indietools.work) 官网查看** 🚧
+📦 Indie Tools 专注于分享独立开发、出海、精选、最新、最实用的工具和资源
 
--   Indie Tools 上线了【半月刊】栏目，便于大家第一时间获取每期半月刊内容
+## 🚧 最新内容见官网：[【https://www.indietools.work】](https://www.indietools.work) 🚧
 
-    -   订阅方式：只需关注公众号 【沉浸式趣谈】即可
-    -   往期内容：[快捷入口](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTI2MzE0MQ==&action=getalbum&album_id=3805275448980930569#wechat_redirect)
-
-        <img src="https://yaolifeng.com/sponsor/wx_public_account.jpg" width="200"/>
-
+-   【半月刊】订阅：仅需关注公众号[【沉浸式趣谈】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
 -   贡献指南入口：
     -   [官网](https://www.indietools.work/submit)
     -   [Github](#contribute)
-
-<!-- ## 🚧 **本站仍在持续完善中，热烈欢迎您的贡献** 🚧
-
--   参考：[贡献指南](#contribute) -->
 
 ### 往期半月刊
 

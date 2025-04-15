@@ -27,7 +27,8 @@
 
 ### 往期半月刊
 
--   [《Indie Tools • 半月刊》第 007 期（最新）](https://mp.weixin.qq.com/s/JFO5rPDbYWstu7c5zdB__Q) 🔥
+-   [《Indie Tools • 半月刊》第 008 期（最新）](https://mp.weixin.qq.com/s/01oia3vAMUgFN1-_7gIkhA) 🔥
+-   [《Indie Tools • 半月刊》第 007 期](https://mp.weixin.qq.com/s/JFO5rPDbYWstu7c5zdB__Q)
 -   [《Indie Tools • 半月刊》第 006 期](https://mp.weixin.qq.com/s/cqx-TFZLXFFSf3TRwNa--w)
 -   [《Indie Tools • 半月刊》第 005 期](https://mp.weixin.qq.com/s/9dYLnfOv1Jt565-wvgBsCA)
 -   [《Indie Tools • 半月刊》第 004 期](https://mp.weixin.qq.com/s/y17Sz3GCOkoAs_kWsFHt_Q)

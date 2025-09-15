@@ -20,7 +20,8 @@
 
 ### Past half-monthly
 
--   [《Indie Tools • Bimonthly》Issue 017 Latest](https://mp.weixin.qq.com/s/i_lSbscGcEMhNSlnKhZESA) 🔥
+-   [《Indie Tools • Bimonthly》Issue 018 Latest](https://mp.weixin.qq.com/s/PC-mh4mXADdBQ0ovkDbrLg) 🔥
+-   [《Indie Tools • Bimonthly》Issue 017](https://mp.weixin.qq.com/s/i_lSbscGcEMhNSlnKhZESA)
 -   [《Indie Tools • Bimonthly》Issue 016](https://mp.weixin.qq.com/s/xc5saU93KoJh63jFlTAPjw)
 -   [《Indie Tools • Bimonthly》Issue 015](https://mp.weixin.qq.com/s/nHQxIBCU3VGF3x3N10aQ6Q)
 -   [《Indie Tools • Bimonthly》Issue 014](https://mp.weixin.qq.com/s/BkyeqA_BhNY5BrvhQVw_Pw)

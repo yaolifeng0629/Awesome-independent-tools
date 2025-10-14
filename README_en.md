@@ -6,7 +6,7 @@
 
 <!-- [![alt text](./assets/en.webp)](https://www.indietools.work) -->
 
-<!-- # 🛠️ Indie Tools -->
+<!-- # Indie Tools -->
 
 Collect the latest and most practical free tools and resources in the field of independent development and AI sailing
 
@@ -60,7 +60,7 @@ Collect the latest and most practical free tools and resources in the field of i
 -   **Continuous Updates**: We constantly collect and add new tools
 -   **Community Contributions**: Everyone is welcome to share their favorite tools
 
-## 📚 Categories
+## Categories
 
 -   Table of Contents
     -   [Web Framework](#web-framework)
@@ -93,7 +93,7 @@ Collect the latest and most practical free tools and resources in the field of i
     -   [Project Management](#project-management)
     -   [Other Tools](#other)
 
-## 🧰 Tool List
+## Tool List
 
 ### Web Framework
 
@@ -458,13 +458,13 @@ Collect the latest and most practical free tools and resources in the field of i
 
 <a name="contribute"></a>
 
-## 🤝 How to Contribute
+## How to Contribute
 
 We warmly welcome your contributions!
 
 If you know of a great tool that hasn't been listed, please submit a pull request.
 
-### 📝 Contribution Steps:
+### Contribution Steps:
 
 1. **Fork** this repository
 2. Create a new branch (`git checkout -b add-new-tool`)
@@ -473,7 +473,7 @@ If you know of a great tool that hasn't been listed, please submit a pull reques
 5. Push to the branch (`git push origin add-new-tool`)
 6. Create a new **Pull Request**
 
-### ✅ Contribution Guidelines:
+### Contribution Guidelines:
 
 Please ensure your pull request follows these guidelines:
 
@@ -483,14 +483,14 @@ Please ensure your pull request follows these guidelines:
 
 > 💡 **Tip**: Quality over quantity. Please only submit tools you believe are truly valuable!
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 -   Heartfelt thanks to the open-source community for making many of these tools possible
 -   Special thanks to all the developers who contributed to this repository
 
 ---
 
-### 💫 Support Us
+### Support Us
 
 If you find this project useful, please consider:
 
@@ -500,10 +500,10 @@ If you find this project useful, please consider:
 
 **Your support is my motivation to keep improving!**
 
-## ⭐️ Star
+## Star
 
 [![Stargazers over time](https://starchart.cc/yaolifeng0629/Awesome-independent-tools.svg?variant=adaptive)](https://starchart.cc/yaolifeng0629/Awesome-independent-tools)
 
-## 🙌 Contributors
+## Contributors
 
 <a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>

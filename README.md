@@ -58,7 +58,7 @@
 -   **持续更新**：我们不断收集和添加新工具
 -   **社区贡献**：欢迎所有人分享他们喜爱的工具
 
-## 📚 分类
+## 分类
 
 -   目录导航
     -   [Web 开发框架或模板](#web开发框架或模板)
@@ -91,7 +91,7 @@
     -   [项目管理](#项目管理)
     -   [其他工具](#其他工具)
 
-## 🧰 工具列表
+## 工具列表
 
 ### Web 开发框架或模板
 
@@ -457,13 +457,13 @@
 
 <a name="contribute"></a>
 
-## 🤝 如何贡献
+## 如何贡献
 
 我们热烈欢迎您的贡献！
 
 如果您知道一个很棒的工具还没有被列出, 请提交一个拉取请求。
 
-### 📝 贡献步骤：
+### 贡献步骤：
 
 1. **Fork** 这个仓库
 2. 创建一个新的分支 (`git checkout -b add-new-tool`)
@@ -472,7 +472,7 @@
 5. 推送到分支 (`git push origin add-new-tool`)
 6. 创建一个新的 **Pull Request**
 
-### ✅ 贡献准则：
+### 贡献准则：
 
 请确保您的拉取请求遵循以下准则：
 
@@ -480,16 +480,16 @@
 -   仔细检查您的拼写和语法
 -   确保您的文本编辑器设置为删除尾随空格
 
-> 💡 **提示**：质量比数量更重要。请只提交您认为真正有价值的工具！
+> **提示**：质量比数量更重要。请只提交您认为真正有价值的工具！
 
-## 🙏 致谢
+## 致谢
 
 -   衷心感谢开源社区，使许多这些工具成为可能
 -   特别感谢所有为这个仓库做出贡献的开发者们
 
 ---
 
-### 💫 支持我们
+### 支持我们
 
 如果您觉得这个项目有用，请考虑：
 
@@ -499,10 +499,10 @@
 
 **您的支持是我持续改进的动力！**
 
-## ⭐️ Star
+## Star
 
 [![Stargazers over time](https://starchart.cc/yaolifeng0629/Awesome-independent-tools.svg?variant=adaptive)](https://starchart.cc/yaolifeng0629/Awesome-independent-tools)
 
-## 🙌 贡献者
+## 贡献者
 
 <a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>

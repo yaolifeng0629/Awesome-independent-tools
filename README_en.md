@@ -6,11 +6,11 @@
 
 <!-- [![alt text](./assets/en.webp)](https://www.indietools.work) -->
 
-<!-- # Indie Tools -->
+# Indie Tools
 
 Collect the latest and most practical free tools and resources in the field of independent development and AI sailing
 
-## **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)**
+### **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)**
 
 -   Subscription method: just follow the Twitter [【Immerse_code】](https://x.com/Immerse_code)
 <!-- -   Past content: [Fast entry](https://www.indietools.work/articles) -->

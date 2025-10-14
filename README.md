@@ -6,11 +6,11 @@
 
 <!-- [![alt text](./assets/zh.webp)](https://www.indietools.work) -->
 
-<!-- # Indie Tools -->
+# Indie Tools
 
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 
-## 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
+### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
 
 -   【半月刊】订阅：仅需关注公众号[【沉浸式趣谈】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
 -   贡献指南入口：[官网](https://www.indietools.work/submit)

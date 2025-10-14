@@ -17,6 +17,11 @@ Collect the latest and most practical free tools and resources in the field of i
 -   Contribution Guide Portal: [Official Website](https://www.indietools.work/submit)
     <!-- -   [Github](#contribute) -->
 
+> This Repos is owned by [Nexty. dev](https://nexty.dev/?ref=indie) Sponsorship, Nexty is a **multi scenario Next.js SaaS full stack template** with built-in out of the box login, payment AI、 Mail subscription and other infrastructure enable you to really focus on business logic.
+>
+> Click here to learn 👉 [Nexty.dev](https://nexty.dev/?ref=indie)
+
+
 ### Past half-monthly
 
 -   [《​Awesome Indie Dev Tools​》Issue 019 Latest](https://mp.weixin.qq.com/s/PlrojO5X4Ypg61YeXYfVbg) 🔥
@@ -39,7 +44,7 @@ Collect the latest and most practical free tools and resources in the field of i
 -   [《​Awesome Indie Dev Tools​》Issue 002](https://mp.weixin.qq.com/s/7UYPzffH2aWWOIQRR7COlQ)
 -   [《​Awesome Indie Dev Tools​》Issue 001](https://mp.weixin.qq.com/s/moCAaVlagxiEoURmtP6kmw)
 
-### Sponsors
+<!-- ### Sponsors
 
 <div align="center">
     <h2 style="text-align: center; color: #777777;">Platinum Sponsors</h2>
@@ -47,7 +52,7 @@ Collect the latest and most practical free tools and resources in the field of i
         <img src="./sponsors/assets/nexty.dev.png" alt="Nexty.dev" width="200" style="border-radius: 4px;" />
         <p style="color: #777777; font-weight: 300; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Nexty.dev</p>
     </a>
-</div>
+</div> -->
 
 ### Key Features:
 

@@ -16,6 +16,10 @@
 -   贡献指南入口：[官网](https://www.indietools.work/submit)
     <!-- -   [Github](#contribute) -->
 
+> 本仓库由 [Nexty.dev](https://nexty.dev/?ref=indie) 赞助，Nexty 是一款**多场景 Next.js SaaS 全栈模板**，内置了开箱即用的登录、支付、AI、邮件订阅等基础设施，让你真正专注于业务逻辑。
+>
+> 点此了解 👉[Nexty.dev](https://nexty.dev/?ref=indie)
+
 ### 往期半月刊
 
 -   [《独立开发者精选工具》第 019 期（最新）](https://mp.weixin.qq.com/s/PlrojO5X4Ypg61YeXYfVbg) 🔥
@@ -38,7 +42,7 @@
 -   [《独立开发者精选工具》第 002 期](https://mp.weixin.qq.com/s/7UYPzffH2aWWOIQRR7COlQ)
 -   [《独立开发者精选工具》第 001 期](https://mp.weixin.qq.com/s/moCAaVlagxiEoURmtP6kmw)
 
-### 赞助商
+<!-- ### 赞助商
 
 <div align="center">
     <h2 style="text-align: center; color: #777777;">Platinum Sponsors</h2>
@@ -46,7 +50,7 @@
         <img src="./sponsors/assets/nexty.dev.png" alt="Nexty.dev" width="200" style="border-radius: 4px;" />
         <p style="color: #777777; font-weight: 300; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Nexty.dev</p>
     </a>
-</div>
+</div> -->
 
 ### 关键特点：
 

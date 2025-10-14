@@ -17,7 +17,7 @@ Collect the latest and most practical free tools and resources in the field of i
 -   Contribution Guide Portal: [Official Website](https://www.indietools.work/submit)
     <!-- -   [Github](#contribute) -->
 
-> This Repos is owned by [Nexty. dev](https://nexty.dev/?ref=indie) Sponsorship, Nexty is a **multi scenario Next.js SaaS full stack template** with built-in out of the box login, payment AI、 Mail subscription and other infrastructure enable you to really focus on business logic.
+> This Repos is owned by [Nexty. dev](https://nexty.dev/?ref=indie) Sponsorship, Nexty.dev is a comprehensive Next.js SaaS boilerplate that provides everything developers need to rapidly build and launch modern AI web applications
 >
 > Click here to learn 👉 [Nexty.dev](https://nexty.dev/?ref=indie)
 

@@ -10,7 +10,7 @@
 
 Collect the latest and most practical free tools and resources in the field of independent development and AI sailing
 
-#### **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)**
+### **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)**
 
 -   Subscription method: just follow the Twitter [【Immerse_code】](https://x.com/Immerse_code)
 -   Past Issues Archive: [View all past issues](./assets/md/ARCHIVE_en.md)

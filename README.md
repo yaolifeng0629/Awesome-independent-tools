@@ -10,9 +10,10 @@
 
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 
-### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
+#### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
 
 -   【半月刊】订阅：仅需关注公众号[【沉浸式趣谈】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
+-   往期半月刊归档: [查看所有往期内容](./assets/md/ARCHIVE.md)
 -   贡献指南入口：[官网](https://www.indietools.work/submit)
     <!-- -   [Github](#contribute) -->
 
@@ -20,39 +21,7 @@
 >
 > 点此了解 👉[Nexty.dev](https://nexty.dev/?ref=indie)
 
-### 往期半月刊
-
--   [《独立开发者精选工具》第 019 期（最新）](https://mp.weixin.qq.com/s/PlrojO5X4Ypg61YeXYfVbg) 🔥
--   [《独立开发者精选工具》第 018 期](https://mp.weixin.qq.com/s/PC-mh4mXADdBQ0ovkDbrLg)
--   [《独立开发者精选工具》第 017 期](https://mp.weixin.qq.com/s/i_lSbscGcEMhNSlnKhZESA)
--   [《独立开发者精选工具》第 016 期](https://mp.weixin.qq.com/s/xc5saU93KoJh63jFlTAPjw)
--   [《独立开发者精选工具》第 015 期](https://mp.weixin.qq.com/s/nHQxIBCU3VGF3x3N10aQ6Q)
--   [《独立开发者精选工具》第 014 期](https://mp.weixin.qq.com/s/BkyeqA_BhNY5BrvhQVw_Pw)
--   [《独立开发者精选工具》第 013 期](https://mp.weixin.qq.com/s/8RlROZ6HrgsVVDKwBvn8Nw)
--   [《独立开发者精选工具》第 012 期](https://mp.weixin.qq.com/s/TJfOjWqphdqu8kkq3I6FCg)
--   [《独立开发者精选工具》第 011 期](https://mp.weixin.qq.com/s/oUcBq_0pRU7ucmx03w5_7g)
--   [《独立开发者精选工具》第 010 期](https://mp.weixin.qq.com/s/zr-1dGOVFyTF_YG6hrSEsg)
--   [《独立开发者精选工具》第 009 期](https://mp.weixin.qq.com/s/eKKBBDtKDb8TIy0wLko-sQ)
--   [《独立开发者精选工具》第 008 期](https://mp.weixin.qq.com/s/01oia3vAMUgFN1-_7gIkhA)
--   [《独立开发者精选工具》第 007 期](https://mp.weixin.qq.com/s/JFO5rPDbYWstu7c5zdB__Q)
--   [《独立开发者精选工具》第 006 期](https://mp.weixin.qq.com/s/cqx-TFZLXFFSf3TRwNa--w)
--   [《独立开发者精选工具》第 005 期](https://mp.weixin.qq.com/s/9dYLnfOv1Jt565-wvgBsCA)
--   [《独立开发者精选工具》第 004 期](https://mp.weixin.qq.com/s/y17Sz3GCOkoAs_kWsFHt_Q)
--   [《独立开发者精选工具》第 003 期](https://mp.weixin.qq.com/s/HpcKT6wqQ6E2aFrayyEfLg)
--   [《独立开发者精选工具》第 002 期](https://mp.weixin.qq.com/s/7UYPzffH2aWWOIQRR7COlQ)
--   [《独立开发者精选工具》第 001 期](https://mp.weixin.qq.com/s/moCAaVlagxiEoURmtP6kmw)
-
-<!-- ### 赞助商
-
-<div align="center">
-    <h2 style="text-align: center; color: #777777;">Platinum Sponsors</h2>
-    <a href="https://nexty.dev/?ref=indie" target="_blank" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
-        <img src="./sponsors/assets/nexty.dev.png" alt="Nexty.dev" width="200" style="border-radius: 4px;" />
-        <p style="color: #777777; font-weight: 300; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Nexty.dev</p>
-    </a>
-</div> -->
-
-### 关键特点：
+### 特点：
 
 -   **精选工具**：经过筛选的高质量资源，包含开发工具、设计资源、增长工具等
 -   **持续更新**：我们不断收集和添加新工具

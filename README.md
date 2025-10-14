@@ -4,18 +4,17 @@
 
 </div>
 
-[![alt text](./assets/zh.webp)](https://www.indietools.work)
+<!-- [![alt text](./assets/zh.webp)](https://www.indietools.work) -->
 
-# 🛠️ Indie Tools
+<!-- # Indie Tools -->
 
-📦 Indie Tools 专注于分享独立开发、出海、精选、最新、最实用的工具和资源
+收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 
-## 🚧 最新内容见官网：[【https://www.indietools.work】](https://www.indietools.work) 🚧
+## 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
 
 -   【半月刊】订阅：仅需关注公众号[【沉浸式趣谈】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
--   贡献指南入口：
-    -   [官网](https://www.indietools.work/submit)
-    -   [Github](#contribute)
+-   贡献指南入口：[官网](https://www.indietools.work/submit)
+    <!-- -   [Github](#contribute) -->
 
 ### 往期半月刊
 
@@ -39,17 +38,19 @@
 -   [《独立开发者精选工具》第 002 期](https://mp.weixin.qq.com/s/7UYPzffH2aWWOIQRR7COlQ)
 -   [《独立开发者精选工具》第 001 期](https://mp.weixin.qq.com/s/moCAaVlagxiEoURmtP6kmw)
 
-### 🎯 我们的目标：
+### 赞助商
 
--   简化您的工作流程 🔄
--   提高生产力 📈
--   支持您作为独立创作者的旅程 🚀
+<div align="center">
+    <h2 style="text-align: center; color: #777777;">Platinum Sponsors</h2>
+    <a href="https://nexty.dev/?ref=indie" target="_blank" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+        <img src="./sponsors/assets/nexty.dev.png" alt="Nexty.dev" width="200" style="border-radius: 4px;" />
+        <p style="color: #777777; font-weight: 300; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Nexty.dev</p>
+    </a>
+</div>
 
-> 💡 本站致力于成为您的 **一站式资源中心**，提供从项目 inception 到 deployment 的全方位工具和资源。
+### 关键特点：
 
-### 🔍 关键特点：
-
--   **精选工具**：经过筛选的高质量资源
+-   **精选工具**：经过筛选的高质量资源，包含开发工具、设计资源、增长工具等
 -   **持续更新**：我们不断收集和添加新工具
 -   **社区贡献**：欢迎所有人分享他们喜爱的工具
 
@@ -454,7 +455,7 @@
 
 ## 🤝 如何贡献
 
-我们热烈欢迎您的贡献！ 🎉
+我们热烈欢迎您的贡献！
 
 如果您知道一个很棒的工具还没有被列出, 请提交一个拉取请求。
 
@@ -480,7 +481,7 @@
 ## 🙏 致谢
 
 -   衷心感谢开源社区，使许多这些工具成为可能
--   特别感谢所有为这个仓库做出贡献的开发者们 👏
+-   特别感谢所有为这个仓库做出贡献的开发者们
 
 ---
 
@@ -492,7 +493,7 @@
 2. **分享**这个仓库，帮助其他独立开发者发现这些宝贵资源！
 3. **关注**本项目以获取最新更新
 
-**您的支持是我持续改进的动力！** 🚀
+**您的支持是我持续改进的动力！**
 
 ## ⭐️ Star
 

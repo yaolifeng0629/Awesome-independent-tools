@@ -4,19 +4,18 @@
 
 </div>
 
-[![alt text](./assets/en.webp)](https://www.indietools.work)
+<!-- [![alt text](./assets/en.webp)](https://www.indietools.work) -->
 
-# 🛠️ Indie Tools
+<!-- # 🛠️ Indie Tools -->
 
-📦 Indie Tools focuses on sharing independently developed, overseas, selected, the latest and most practical tools and resources
+Collect the latest and most practical free tools and resources in the field of independent development and AI sailing
 
-## 🚧 **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)** 🚧
+## **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)**
 
 -   Subscription method: just follow the Twitter [【Immerse_code】](https://x.com/Immerse_code)
--   Past content: [Fast entry](https://www.indietools.work/articles)
--   Contribution Guide Portal:
-    -   [Official Website](https://www.indietools.work/submit)
-    -   [Github](#contribute)
+<!-- -   Past content: [Fast entry](https://www.indietools.work/articles) -->
+-   Contribution Guide Portal: [Official Website](https://www.indietools.work/submit)
+    <!-- -   [Github](#contribute) -->
 
 ### Past half-monthly
 
@@ -40,17 +39,19 @@
 -   [《​Awesome Indie Dev Tools​》Issue 002](https://mp.weixin.qq.com/s/7UYPzffH2aWWOIQRR7COlQ)
 -   [《​Awesome Indie Dev Tools​》Issue 001](https://mp.weixin.qq.com/s/moCAaVlagxiEoURmtP6kmw)
 
-### 🎯 Our Goals:
+### Sponsors
 
--   Simplify your workflow 🔄
--   Boost productivity 📈
--   Support your journey as an independent creator 🚀
+<div align="center">
+    <h2 style="text-align: center; color: #777777;">Platinum Sponsors</h2>
+    <a href="https://nexty.dev/?ref=indie" target="_blank" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+        <img src="./sponsors/assets/nexty.dev.png" alt="Nexty.dev" width="200" style="border-radius: 4px;" />
+        <p style="color: #777777; font-weight: 300; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Nexty.dev</p>
+    </a>
+</div>
 
-> 💡 This site aims to be your **one-stop resource center**, providing tools and resources from project inception to deployment.
+### Key Features:
 
-### 🔍 Key Features:
-
--   **Curated Tools**: High-quality, handpicked resources
+-   **Curated Tools**: High-quality, handpicked resources. Including development tools, design resources, growth tools, etc
 -   **Continuous Updates**: We constantly collect and add new tools
 -   **Community Contributions**: Everyone is welcome to share their favorite tools
 
@@ -454,7 +455,7 @@
 
 ## 🤝 How to Contribute
 
-We warmly welcome your contributions! 🎉
+We warmly welcome your contributions!
 
 If you know of a great tool that hasn't been listed, please submit a pull request.
 
@@ -480,7 +481,7 @@ Please ensure your pull request follows these guidelines:
 ## 🙏 Acknowledgments
 
 -   Heartfelt thanks to the open-source community for making many of these tools possible
--   Special thanks to all the developers who contributed to this repository 👏
+-   Special thanks to all the developers who contributed to this repository
 
 ---
 
@@ -492,7 +493,7 @@ If you find this project useful, please consider:
 2. **Sharing** this repository to help other independent developers discover these valuable resources!
 3. **Following** this project for the latest updates
 
-**Your support is my motivation to keep improving!** 🚀
+**Your support is my motivation to keep improving!**
 
 ## ⭐️ Star
 

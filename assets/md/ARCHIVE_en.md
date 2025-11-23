@@ -8,7 +8,10 @@ Follow us on Twitter [【Immerse_code】](https://x.com/Immerse_code) to get the
 
 ## Past Issues
 
--   [《​Awesome Indie Dev Tools​》Issue 020 (Latest)](https://mp.weixin.qq.com/s/lsGaGKMBqqETuuhO7NpxFg) 🔥
+
+-   [《​Awesome Indie Dev Tools​》Issue 022 (Latest)](https://mp.weixin.qq.com/s/IfBFbvZeR8YadX3tynW90w) 🔥
+-   [《​Awesome Indie Dev Tools​》Issue 021](https://mp.weixin.qq.com/s/OGvJKwAxIdLl-P8T_z8fbQ)
+-   [《​Awesome Indie Dev Tools​》Issue 020](https://mp.weixin.qq.com/s/lsGaGKMBqqETuuhO7NpxFg)
 -   [《​Awesome Indie Dev Tools​》Issue 019](https://mp.weixin.qq.com/s/PlrojO5X4Ypg61YeXYfVbg)
 -   [《​Awesome Indie Dev Tools​》Issue 018](https://mp.weixin.qq.com/s/PC-mh4mXADdBQ0ovkDbrLg)
 -   [《​Awesome Indie Dev Tools​》Issue 017](https://mp.weixin.qq.com/s/i_lSbscGcEMhNSlnKhZESA)

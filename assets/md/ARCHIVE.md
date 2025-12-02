@@ -8,7 +8,8 @@
 
 ## 往期列表
 
--   [《独立开发者精选工具》第 022 期（最新）](https://mp.weixin.qq.com/s/IfBFbvZeR8YadX3tynW90w) 🔥
+-   [《独立开发者精选工具》第 023 期（最新）](https://mp.weixin.qq.com/s/-DDkWXf1gRSwMOhLeJWL_A) 🔥
+-   [《独立开发者精选工具》第 022 期](https://mp.weixin.qq.com/s/IfBFbvZeR8YadX3tynW90w)
 -   [《独立开发者精选工具》第 021 期](https://mp.weixin.qq.com/s/OGvJKwAxIdLl-P8T_z8fbQ)
 -   [《独立开发者精选工具》第 020 期](https://mp.weixin.qq.com/s/lsGaGKMBqqETuuhO7NpxFg)
 -   [《独立开发者精选工具》第 019 期](https://mp.weixin.qq.com/s/PlrojO5X4Ypg61YeXYfVbg)

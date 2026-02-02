@@ -239,6 +239,7 @@
 
 ### 部署与托管
 
+-   [FlyPloy](https://flyploy.com/en) - (免费/付费) 简单强大的现代化应用部署平台，支持 Docker 和 Kubernetes，助力开发者实现全球一键快速部署。
 -   [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
 -   [阿里云](https://www.aliyun.com/minisite/goods) - 国内云
 -   [腾讯云](https://curl.qcloud.com/lsJFImqi) - 国内云，经常有优惠

@@ -116,6 +116,7 @@
 -   [叫你如何做 SEO 优化？](https://magickseo.com/)
 -   [AITDK SEO Extension](https://aitdk.com/extension) - 一款免费的 All-in-One SEO 插件
 -   [Web 上实现视频和音频播放器](https://player.style/)
+-   [Mind Elixir](https://github.com/SSShooter/mind-elixir-core) - 前端轻松接入思维导图，无框架限制
 
 ### 后端开发
 

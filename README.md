@@ -266,6 +266,8 @@
 -   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
 -   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
+-   [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - 开源 SSL 证书到期监控工具，支持多域名监控、到期提醒
+-   [Redirect Checker](https://github.com/brancogao/redirect-checker) - HTTP 重定向链分析工具，检测重定向循环，支持多种 User-Agent
 -   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球 1000 多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、dns 查询、路由跟踪查询、ipv6 网站测试等站长工具
 -   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
 -   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)

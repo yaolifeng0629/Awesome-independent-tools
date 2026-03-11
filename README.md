@@ -392,7 +392,10 @@
 -   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - 帮助市场人员在推广这些项目, 佣金基本上都是 30% 以上
 -   [Product Hunt 冲榜前三攻略](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
 -   [310 个网站小众点的网站宣传自己的产品](https://x.com/lxfater/status/1866339428773572992)
-
+-   [Gingiris AI 产品发布 Playbook](https://github.com/Gingiris/gingiris-launch) - 基于 30+ 次 Product Hunt #1 经验的完整发布 SOP，含 KOL 外联、Reddit 营销、UGC 制作模板，完全免费开源
+-   [Gingiris 开源项目增长 Playbook](https://github.com/Gingiris/gingiris-opensource) - 从 0 到 60k+ GitHub Star 的完整操盘手册，覆盖 HN、Reddit、V2EX 等全渠道推广策略
+-   [Gingiris B2B SaaS 增长 Playbook](https://github.com/Gingiris/gingiris-b2b-growth) - 从 PMF 到 $10M ARR 的完整增长框架，含 PLG/SLG/渠道合作策略和可直接使用的模板
+-   [Gingiris ASO & App 冷启动 Playbook](https://github.com/Gingiris/gingiris-aso-growth) - App Store 和 Google Play 关键词优化、元数据策略与冷启动用户获取完整指南
 ### Logo 设计
 
 -   [favicon generator 1](https://realfavicongenerator.net/) - 生成多平台多种类 logo(ico、PNG、SVG)

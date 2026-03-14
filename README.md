@@ -318,6 +318,7 @@
 
 -   [免费【中文】字体](https://wangchujiang.com/free-font/) - 免费可商用【中文】字体
 -   [免费【英文】字体](https://www.freefaces.gallery/) - 免费可商用【英文】字体
+-   [EnigmaEasel](https://enigmaeasel.com/tools/ai-font-pairing-generator-with-colors/) - 是一款免费的 AI 字体配对生成器工具，还提供可用于商业用途的颜色选项。
 
 ### 图片视频素材
 

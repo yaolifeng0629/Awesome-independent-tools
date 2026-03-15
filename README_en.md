@@ -384,6 +384,7 @@ Collect the latest and most practical free tools and resources in the field of i
 -   [Flowing Light Card](https://fireflycard.shushiai.com/en) - A text typography poster generation and promotion tool.
 -   [Online English Signature](https://codepen.io/kiranpate1/full/ExBpaeW)
 -   [AdsDog](https://adsdog.ai/) - Generate high-quality digital human promotional videos with AI from a single URL.
+-   [PopcornAI](https://popcornai.art/) - AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets.
 -   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - Helps marketers promote these programs, with commissions typically over 30%.
 -   [Product Hunt Top 3 Strategy](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
 -   [310 Niche Websites to Promote Your Product](https://x.com/lxfater/status/1866339428773572992)

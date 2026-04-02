@@ -7,6 +7,7 @@
 <!-- [![alt text](./assets/zh.webp)](https://www.indietools.work) -->
 
 # Indie Tools
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 

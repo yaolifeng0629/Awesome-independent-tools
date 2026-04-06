@@ -10,6 +10,7 @@
 
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts for Claude Code multi-agent orchestration. Open-source developer tool for building production AI agent systems. MIT licensed.
 ### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
 
 -   【半月刊】订阅：仅需关注公众号[【沉浸式趣谈】](https://yaolifeng.com/sponsor/wx_public_account.jpg)

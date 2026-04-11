@@ -115,6 +115,7 @@
 -   [SEO 优化指南](https://developers.google.com/search/docs?hl=zh-cn)
 -   [叫你如何做 SEO 优化？](https://magickseo.com/)
 -   [AITDK SEO Extension](https://aitdk.com/extension) - 一款免费的 All-in-One SEO 插件
+-   [toprank](https://github.com/nowork-studio/toprank) - 开源（MIT）Claude Code 插件，提供 9 个 SEO 和 Google Ads 技能。连接 Google Search Console、PageSpeed Insights、Google Ads API，自动重写 meta 标签、生成 JSON-LD 结构化数据，并将修改直接推送到 WordPress/Strapi/Contentful/Ghost。107 stars。
 -   [Web 上实现视频和音频播放器](https://player.style/)
 -   [Mind Elixir](https://github.com/SSShooter/mind-elixir-core) - 前端轻松接入思维导图，无框架限制
 

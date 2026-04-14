@@ -115,7 +115,9 @@
 -   [SEO 优化指南](https://developers.google.com/search/docs?hl=zh-cn)
 -   [叫你如何做 SEO 优化？](https://magickseo.com/)
 -   [AITDK SEO Extension](https://aitdk.com/extension) - 一款免费的 All-in-One SEO 插件
+-   [toprank](https://github.com/nowork-studio/toprank) - 开源（MIT）Claude Code 插件，提供 9 个 SEO 和 Google Ads 技能。连接 Google Search Console、PageSpeed Insights、Google Ads API，自动重写 meta 标签、生成 JSON-LD 结构化数据，并将修改直接推送到 WordPress/Strapi/Contentful/Ghost。107 stars。
 -   [Web 上实现视频和音频播放器](https://player.style/)
+-   [Mind Elixir](https://github.com/SSShooter/mind-elixir-core) - 前端轻松接入思维导图，无框架限制
 
 ### 后端开发
 
@@ -239,6 +241,7 @@
 
 ### 部署与托管
 
+-   [FlyPloy](https://flyploy.com/en) - (免费/付费) 简单强大的现代化应用部署平台，支持 Docker 和 Kubernetes，助力开发者实现全球一键快速部署。
 -   [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
 -   [阿里云](https://www.aliyun.com/minisite/goods) - 国内云
 -   [腾讯云](https://curl.qcloud.com/lsJFImqi) - 国内云，经常有优惠
@@ -256,6 +259,7 @@
 -   [17ce](https://www.17ce.com/) - (免费) 网站速度测试
 -   [webpagetest](https://www.webpagetest.org/) - (免费) 网站速度测试
 -   [gtmetrix](https://gtmetrix.com/) - (免费) 网站速度测试
+-   [PageGuard](https://pageguard.org) - (免费) 网站健康扫描工具，一键检测 SEO、无障碍性（ADA/WCAG）、性能和最佳实践，AI 驱动的优化建议，支持自动监控告警
 -   [Sentry](https://sentry.io/welcome/) - 免费额度应该是够用的，同样也有开源 版本。
 -   [Locust](https://locust.io/) - 一个开源的负载测试工具。
 -   [chinaz](https://tool.chinaz.com/) - 多种集合站长工具
@@ -266,6 +270,8 @@
 -   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)
 -   [Certimate](https://github.com/usual2970/certimate) - 一款开源的 SSL 证书管理工具, 支持自动申请、部署 SSL 证书，并在证书过期前自动续期
+-   [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - 开源 SSL 证书到期监控工具，支持多域名监控、到期提醒
+-   [Redirect Checker](https://github.com/brancogao/redirect-checker) - HTTP 重定向链分析工具，检测重定向循环，支持多种 User-Agent
 -   [炸了么](https://zhale.me/) - 一款为运维人员和站长提供的在线网络拨测工具，拥有全球 1000 多个节点，模拟用户访问域名/IP，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、dns 查询、路由跟踪查询、ipv6 网站测试等站长工具
 -   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
 -   [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)
@@ -387,7 +393,10 @@
 -   [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - 帮助市场人员在推广这些项目, 佣金基本上都是 30% 以上
 -   [Product Hunt 冲榜前三攻略](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
 -   [310 个网站小众点的网站宣传自己的产品](https://x.com/lxfater/status/1866339428773572992)
-
+-   [Gingiris AI 产品发布 Playbook](https://github.com/Gingiris/gingiris-launch) - 基于 30+ 次 Product Hunt #1 经验的完整发布 SOP，含 KOL 外联、Reddit 营销、UGC 制作模板，完全免费开源
+-   [Gingiris 开源项目增长 Playbook](https://github.com/Gingiris/gingiris-opensource) - 从 0 到 60k+ GitHub Star 的完整操盘手册，覆盖 HN、Reddit、V2EX 等全渠道推广策略
+-   [Gingiris B2B SaaS 增长 Playbook](https://github.com/Gingiris/gingiris-b2b-growth) - 从 PMF 到 $10M ARR 的完整增长框架，含 PLG/SLG/渠道合作策略和可直接使用的模板
+-   [Gingiris ASO & App 冷启动 Playbook](https://github.com/Gingiris/gingiris-aso-growth) - App Store 和 Google Play 关键词优化、元数据策略与冷启动用户获取完整指南
 ### Logo 设计
 
 -   [favicon generator 1](https://realfavicongenerator.net/) - 生成多平台多种类 logo(ico、PNG、SVG)

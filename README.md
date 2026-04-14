@@ -6,7 +6,7 @@
 
 <!-- [![alt text](./assets/zh.webp)](https://www.indietools.work) -->
 
-# Indie Tools
+# Awesome-independent-tools
 
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 

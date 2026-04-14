@@ -6,7 +6,7 @@
 
 <!-- [![alt text](./assets/en.webp)](https://www.indietools.work) -->
 
-# Indie Tools
+# Awesome-independent-tools
 
 Collect the latest and most practical free tools and resources in the field of independent development and AI sailing
 

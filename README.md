@@ -17,9 +17,9 @@
 -   贡献指南入口：[官网](https://www.indietools.work/submit)
     <!-- -   [Github](#contribute) -->
 
-> 本仓库由 [Nexty.dev](https://nexty.dev/?ref=indie) 赞助，Nexty 是一款**多场景 Next.js SaaS 全栈模板**，内置了开箱即用的登录、支付、AI、邮件订阅等基础设施，让你真正专注于业务逻辑。
+<!-- > 本仓库由 [Nexty.dev](https://nexty.dev/?ref=indie) 赞助，Nexty 是一款**多场景 Next.js SaaS 全栈模板**，内置了开箱即用的登录、支付、AI、邮件订阅等基础设施，让你真正专注于业务逻辑。
 >
-> 点此了解 👉[Nexty.dev](https://nexty.dev/?ref=indie)
+> 点此了解 👉[Nexty.dev](https://nexty.dev/?ref=indie) -->
 
 ### 特点：
 

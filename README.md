@@ -81,6 +81,7 @@
 -   [discourse](https://www.discourse.org/) - 社区讨论的平台
 -   [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
 -   [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
+-   [Formatho Tools](https://formatho.com/Tools) - 100+ privacy-first developer utilities, all client-side processing, no signup required (also [awesome-ai-tools](https://github.com/formatho/awesome-ai-tools))
 
 ### Chrome 插件开发
 

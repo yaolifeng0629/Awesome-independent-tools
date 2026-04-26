@@ -56,6 +56,7 @@
     -   [短链或长链](#短链或长链)
     -   [信息渠道](#信息渠道)
     -   [产品发布](#产品发布)
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot.
     -   [Logo 设计](#logo设计)
     -   [项目管理](#项目管理)
     -   [其他工具](#其他工具)

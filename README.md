@@ -335,6 +335,7 @@
 -   [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 -   [video 转 gif](https://ezgif.com/video-to-gif)
 -   [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
+-   [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ### 屏幕录制
 

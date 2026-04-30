@@ -403,6 +403,10 @@ Collect the latest and most practical free tools and resources in the field of i
 -   [Trello](https://trello.com/) - A flexible visual project management tool.
 -   [Notion](https://www.notion.so/) - A workspace integrating notes, documents, and task management.
 
+### AI Resources
+
+-   [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+
 ### Other Tools
 
 -   [Black Apple Software Park](https://mackext.com/)

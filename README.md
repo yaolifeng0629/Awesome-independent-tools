@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yaolifeng0629-awesome-independent-tools-badge.png)](https://mseep.ai/app/yaolifeng0629-awesome-independent-tools)
+
 <div align="center">
 
 [中文](README.md) | [English](README_en.md)

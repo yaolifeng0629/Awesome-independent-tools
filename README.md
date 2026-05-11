@@ -335,7 +335,8 @@
 -   [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 -   [video 转 gif](https://ezgif.com/video-to-gif)
 -   [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
--   [igly.ai](https://igly.ai) - AI 图像编辑平台（背景移除、AI 填充、图片放大、智能修图）([演示视频](https://www.youtube.com/watch?v=HB2E1WZ12is))
+-   [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
+-   [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
 
 ### 屏幕录制
 

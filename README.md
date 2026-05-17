@@ -147,6 +147,7 @@
 -   [Prisma](https://prisma.io/)
 -   [TypeORM](https://github.com/typeorm/typeorm)
 -   [Sequelize](https://sequelize.org/) - 最老牌的 Node.js ORM 库，支持多种数据库
+-   [AI for Database](https://aifordatabase.com/) - 用自然语言与数据库对话，免写 SQL 即可获取洞察、构建自刷新看板并触发自动化工作流。支持 PostgreSQL、MySQL、MongoDB 等。Freemium。
 
 ### 样式与 UI 框架
 

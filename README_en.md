@@ -263,6 +263,7 @@ Collect the latest and most practical free tools and resources in the field of i
 -   [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - Free HTTPS certificates, automatic updates, and deployment.
 -   [acme.sh](https://github.com/acmesh-official/acme.sh) - One-click generation of free SSL certificates.
 -   [Easy Barcode](https://www.1txm.com/) - A professional online barcode generation tool.
+-   [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - Batch-generate QR codes and Code 128 barcodes from Excel/CSV rows, then export ZIP, PDF, or SVG files.
 -   [SimilarGroup](https://www.similarsites.com/) - Enter a website address to search for similar sites.
 -   [Hackreels](https://www.hackreels.com/) - Make your code come alive.
 -   [Free SSL Certificate Application](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)

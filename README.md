@@ -267,6 +267,7 @@
 -   [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - 免费 HTTPS 证书、自动更新、自动部署
 -   [acme.sh](https://github.com/acmesh-official/acme.sh) - 免费 SSL 证书一键生成
 -   [易条形](https://www.1txm.com/) - 一款专业的在线条形码生成工具
+-   [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - 从 Excel/CSV 行批量生成二维码和 Code 128 条形码，并导出 ZIP、PDF 或 SVG 文件
 -   [SimilarGroup](https://www.similarsites.com/) - 输入网站地址搜索相似网站
 -   [Hackreels](https://www.hackreels.com/) - 让你的代码动起来
 -   [SSL 证书免费申请](https://letsencrypt.osfipin.com/jump/share?code=DX09YW76)

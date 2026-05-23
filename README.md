@@ -422,6 +422,7 @@
 
 ### 其他工具
 
+-   [TinyTools](https://tinytools-smoky.vercel.app/) - (免费/开源) 浏览器内运行的免登录单一用途网页工具集合。包含域名生成器、OG 图生成器、AI 本地图像背景去除、Favicon 生成器、配色生成器、SEO meta 标签生成器、AI 成本计算器、AI 内容披露生成器（符合欧盟 AI 法案）、AI robots.txt 生成器。
 -   [黑苹果软件园](https://mackext.com/)
 -   [截图工具](https://www.snipaste.com/)
 -   [截图工具](https://pixpinapp.com/) - 解决了 Snipaste 长截图，gif 图问题

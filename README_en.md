@@ -409,6 +409,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### Other Tools
 
+-   [TinyTools](https://tinytools-smoky.vercel.app/) - (Free/Open source) Collection of single-purpose web utilities, all browser-based and no signup required. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator.
 -   [Black Apple Software Park](https://mackext.com/)
 -   [Screenshot Tool](https://www.snipaste.com/)
 -   [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.

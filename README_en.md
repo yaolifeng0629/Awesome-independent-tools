@@ -405,6 +405,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### AI Resources
 
+-   [LandscapioAI](https://www.landscapioai.com/) - AI landscape and garden design tool that turns outdoor-space photos and preferences into visual design ideas.
 -   [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools

@@ -397,6 +397,7 @@ Collect the latest and most practical free tools and resources in the field of i
 -   [favicon](https://favicon.vwood.xyz/) - Quickly get a site's favicon icon via URL.
 -   [Logo AI](https://www.logoai.com) - An AI-driven logo creation tool.
 -   [Favicon.im](https://favicon.im/?utm_source=gapis.money) - Get a website's icon with one click via URL.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based toolkit for indie hackers: favicon generator, OG image generator, color palette generator, domain name generator, AI background remover (runs locally), SEO meta tag generator, AI cost calculator. No signup, open source.
 
 ### Project Management
 

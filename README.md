@@ -441,6 +441,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [AMZ Seller Tools](https://www.amzsellerstools.com/en) - 面向亚马逊卖家的免费在线工具集，包含 FBA 费用、利润、仓储、移除和目标成本计算器，无需注册。
 
 <a name="contribute"></a>
 

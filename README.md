@@ -441,6 +441,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [Wedding Sheets](https://wedding-sheets.com/) - 免费的交互式婚礼策划表格，无需注册，数据本地存储
 
 <a name="contribute"></a>
 

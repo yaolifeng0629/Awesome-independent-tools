@@ -201,6 +201,7 @@
 ### 支付集成
 
 - [Stripe](https://stripe.com/) - 需要企业资质,开发者友好,API 强大
+- [LLC Class](https://llcclass.com) - 为出海开发者提供 [Wyoming LLC 注册](https://llcclass.com/wyoming)，获取 Stripe 所需的美国企业资质，含 [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent) 和 EIN，注册后可直接开通 Stripe 与 Mercury 银行
 - [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - 一个全球支付平台，申请流程简单，不需要公司资质。提供微信、支付宝、Visa/Master 信用卡、PayPal 等多种支付方式，覆盖 130 多个国家。其核心功能包括备智能营收分析、客户跟踪系统、Affiliate 联盟营销工具、折扣码系统和支付失败恢复机制。
 - [PayPal](https://www.paypal.com/) - 个人账户即可使用,全球覆盖范围大

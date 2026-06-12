@@ -436,6 +436,7 @@
 - [code share](https://codeshare.io/) - 实时代码共享工具
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 - [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
+- [DevUtils](https://devtool.blueblueliu.com/) - 免费在线开发者工具箱，含 JSON 格式化、Base64、JWT 解析、Cron 表达式、正则测试等 19 个工具，纯前端实现、无需注册
 - [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
 - [Remotion](https://www.remotion.dev/) - 一个通过编码创建视频的工具
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)

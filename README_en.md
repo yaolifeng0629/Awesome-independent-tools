@@ -422,6 +422,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [code share](https://codeshare.io/) - Real-time code sharing tool.
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - Recommends commonly used AI tools for each website, one-click usage.
 - [QuickType](https://quicktype.io/) - Instantly generates corresponding types from a JSON structure.
+- [DevUtils](https://devtool.blueblueliu.com/) - Free online developer toolbox with 19 tools: JSON formatter, Base64, JWT decoder, cron expression parser, regex tester and more. Pure front-end, no sign-up required.
 - [Linear](https://linear.app/) - Linear is a project management and task tracking software.
 - [Remotion](https://www.remotion.dev/) - A tool to create videos through coding.
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)

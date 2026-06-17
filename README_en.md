@@ -424,6 +424,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [QuickType](https://quicktype.io/) - Instantly generates corresponding types from a JSON structure.
 - [Linear](https://linear.app/) - Linear is a project management and task tracking software.
 - [Remotion](https://www.remotion.dev/) - A tool to create videos through coding.
+- [Xianyu Netdisk Delivery Checker](https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/) - Free browser-side pre-delivery checker that helps digital-product sellers generate buyer instructions, after-sales boundaries, and order-record CSV before sending netdisk links.
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)

@@ -438,6 +438,7 @@
 - [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 - [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
 - [Remotion](https://www.remotion.dev/) - 一个通过编码创建视频的工具
+- [闲鱼虚拟资料网盘发货检查器](https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/) - 免费浏览器端发货前检查工具，帮助虚拟资料卖家在发送网盘链接前生成买家说明、售后边界和订单记录 CSV。
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)

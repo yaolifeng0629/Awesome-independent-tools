@@ -330,6 +330,7 @@
 ### 图片视频处理工具
 
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
+- [FreePNGConvert](https://freepngconvert.com/) - 免费 WebP 转 PNG 转换器，浏览器内处理无需上传
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
 - [在线 AI 抠图工具](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器

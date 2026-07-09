@@ -8,6 +8,7 @@
 
 # Awesome-independent-tools
 
+    -   [Gitchat](https://gitchat.sh) - Chat with developers you already follow on GitHub, right inside VS Code, Cursor, or Windsurf. GitHub identity is your login — no new account needed. DMs, group chats, and repo channels. VS Code extension at https://github.com/GitchatSH/gitchat_extension. Free for individuals.
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 
 ### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)

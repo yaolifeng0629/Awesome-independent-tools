@@ -406,6 +406,7 @@ Collect the latest and most practical free tools and resources in the field of i
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [agent-qa](https://github.com/vostride/agent-qa) - (FSL-1.1-ALv2/self-hosted) Self-improving QA agent for web and mobile apps. Write tests in natural language, retain run memory, adapt to UI changes, and catch regressions before shipping.
 
 ### Other Tools
 

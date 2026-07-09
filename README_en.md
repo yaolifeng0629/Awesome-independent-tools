@@ -325,6 +325,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 - [Tinypng](https://tinypng.com/) - Image compression tool.
 - [tiny-img](https://tiny-img.com/webp/) - Compress PNG, JPG formats and convert to WEBP.
+- [ToolGarden](https://www.toolgarden.xyz/en/image) - An all-round image processing tool: image compression, merging, editing, cropping, resizing, format conversion, OCR, background removal, watermark addition/removal, etc. All processing is done locally in the browser, ensuring privacy and security.
 - [Online AI Background Removal Tool](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)

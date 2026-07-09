@@ -112,6 +112,7 @@
 - [wcf.js](https://wcferry.netlify.app/) - 一款强大、快速、开源的微信机器人框架
 - [Pagefind](https://github.com/CloudCannon/pagefind) - 博客/文档的静态搜索
 - [payloadcms](https://payloadcms.com/) - 无头 CMS 和应用程序框架
+- [UnfoldCMS](https://unfoldcms.com/) - 自托管 CMS，基于 Laravel 12 + React 19，支持 REST API、无头模式（Next.js/Astro/SvelteKit），一次性定价，无订阅费
 - [apprise](https://github.com/caronc/apprise) - 适用于几乎所有平台的推送通知
 - [SEO 优化指南](https://developers.google.com/search/docs?hl=zh-cn)
 - [叫你如何做 SEO 优化？](https://magickseo.com/)

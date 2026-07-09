@@ -82,6 +82,7 @@
 - [discourse](https://www.discourse.org/) - 社区讨论的平台
 - [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
 - [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
+- [Kostra](https://kostra.io) - (付费) 基于 Next.js 的 SaaS 模板，集成了登录、支付（Stripe）、基于积分的用量计费和管理后台
 
 ### Chrome 插件开发
 

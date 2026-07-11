@@ -418,6 +418,7 @@
 
 ### AI 资源
 
+- [nika](https://github.com/supernovae-st/nika) - (AGPL 开源/本地运行) Rust 编写的 AI 工作流引擎：.nika.yaml 声明式 DAG，执行前静态检查（schema/权限/成本预估），执行后生成防篡改 trace；本地优先（Ollama/llama.cpp/vLLM，离线 mock），内置 MCP 客户端 + 服务端。
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 

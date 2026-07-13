@@ -406,6 +406,7 @@ Collect the latest and most practical free tools and resources in the field of i
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - (MIT, open source) Uses named CODEX_HOME directories for Codex CLI and separate local state for named ChatGPT Desktop windows on macOS, without copying tokens.
 
 ### Other Tools
 

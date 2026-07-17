@@ -195,7 +195,7 @@
 - [Lucia](https://lucia-auth.com/)
 - [Auth.js](https://authjs.dev/) - 支持 Nuxt, SolidStart, Astro 等
 - [Next Auth.js](https://next-auth.js.org/) - 支持 Next.js
-- [Clerk](https://clerk.com/) - 免费用户有 5000 MAU
+- [Clerk](https://clerk.com) - 用户管理平台：内置登录/注册组件、组织管理与计费。免费额度 50,000 MRU。
 - [NextAuth](https://github.com/nextauthjs/next-auth) - 用户系统, 网络身份验证
 
 ### 支付集成

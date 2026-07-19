@@ -81,6 +81,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [umami](https://github.com/umami-software/umami) - A simple, fast, privacy-focused alternative to Google Analytics.
 - [Free for Developers](https://free-for.dev/#/) - A website dedicated to collecting and organizing free online tools and resources for developers.
 - [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers — JSON formatter, regex tester, base64 encoder, image compressor, QR code generator, invoice builder & more. No signup required.
+- [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based tools, including 95 developer utilities for JSON, CSS, SQL, regex, code conversion, and more. No signup required.
 
 ### Chrome Extension Development
 

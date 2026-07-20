@@ -261,6 +261,7 @@
 - [webpagetest](https://www.webpagetest.org/) - (免费) 网站速度测试
 - [gtmetrix](https://gtmetrix.com/) - (免费) 网站速度测试
 - [PageGuard](https://pageguard.org) - (免费) 网站健康扫描工具，一键检测 SEO、无障碍性（ADA/WCAG）、性能和最佳实践，AI 驱动的优化建议，支持自动监控告警
+- [Screpy](https://screpy.com/) - AI 驱动的 SEO 平台，提供网站审计、关键词排名跟踪、页面速度和 Core Web Vitals 监控。
 - [Sentry](https://sentry.io/welcome/) - 免费额度应该是够用的，同样也有开源 版本。
 - [Locust](https://locust.io/) - 一个开源的负载测试工具。
 - [chinaz](https://tool.chinaz.com/) - 多种集合站长工具

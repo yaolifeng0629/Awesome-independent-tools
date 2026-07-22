@@ -325,6 +325,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 - [Tinypng](https://tinypng.com/) - Image compression tool.
 - [tiny-img](https://tiny-img.com/webp/) - Compress PNG, JPG formats and convert to WEBP.
+- [Quick Image Kit](https://quickimagekit.com/compress-image) - Free browser-local image tools for compression, resizing, conversion, cropping, and favicon generation.
 - [Online AI Background Removal Tool](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)

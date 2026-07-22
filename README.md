@@ -331,6 +331,7 @@
 
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
+- [Quick Image Kit](https://quickimagekit.com/compress-image) - 免费浏览器本地图片工具，支持压缩、调整尺寸、格式转换、裁剪和 favicon 生成
 - [在线 AI 抠图工具](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 - [video 转 gif](https://ezgif.com/video-to-gif)

@@ -441,6 +441,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [Korelyy](https://korelyy.com/en/) - 浏览器端多合一在线工具集合，含图片/PDF/二维码/文本/开发者工具，支持 6 种语言，多数工具本地运行免注册
 
 <a name="contribute"></a>
 

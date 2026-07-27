@@ -420,6 +420,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [toSound](https://www.tosound.com/) - Free sound effect resources download.
 - [US Virtual Address Generator](https://www.fakexy.com/fake-address-generator-ca)
 - [code share](https://codeshare.io/) - Real-time code sharing tool.
+- [8ma Quick Transfer](https://t.8ma.co/en/?from=github-awesome-independent-tools) - Free browser-based peer-to-peer transfer for large files and folders, with no account or installation. Desktop Chrome and Edge support files up to 200 GB and folders with up to 20,000 files; both sides must stay online.
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - Recommends commonly used AI tools for each website, one-click usage.
 - [QuickType](https://quicktype.io/) - Instantly generates corresponding types from a JSON structure.
 - [Linear](https://linear.app/) - Linear is a project management and task tracking software.

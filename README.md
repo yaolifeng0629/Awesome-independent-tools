@@ -434,6 +434,7 @@
 - [toSound](https://www.tosound.com/) - 免费音效素材资源下载
 - [美国虚拟地址生成器](https://www.fakexy.com/fake-address-generator-ca)
 - [code share](https://codeshare.io/) - 实时代码共享工具
+- [8码快传](https://t.8ma.co/zh/?from=github-awesome-independent-tools) - 免费、免安装、免登录的浏览器点对点大文件传输工具。桌面 Chrome / Edge 单文件最高支持 200 GB，并支持最多 20,000 个文件的文件夹；传输双方需保持在线。
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 - [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 - [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件

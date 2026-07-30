@@ -336,6 +336,7 @@
 - [video 转 gif](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
+- [AIImageChanger.app](https://aiimagechanger.app/) - 浏览器 AI 图像编辑器，可通过自然语言提示更换背景、物体、服装、颜色和风格，同时保留无需修改的细节
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
 
 ### 屏幕录制

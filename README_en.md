@@ -329,6 +329,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [Videosays](https://videosays.com/) - Turn public YouTube, TikTok, Instagram, X, Douyin, and other video links into text and timestamped subtitles, with TXT, SRT, VTT, API, CLI, and AI agent skill support.
 
 ### Screen Recording
 

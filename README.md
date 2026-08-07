@@ -434,6 +434,7 @@
 - [toSound](https://www.tosound.com/) - 免费音效素材资源下载
 - [美国虚拟地址生成器](https://www.fakexy.com/fake-address-generator-ca)
 - [code share](https://codeshare.io/) - 实时代码共享工具
+- [Cloud Clipboard (cv.cm)](https://cv.cm) - 免费免登录跨设备云剪贴板，支持文本/文件短链分享，并提供 AI 视频与图片生成
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 - [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
 - [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件

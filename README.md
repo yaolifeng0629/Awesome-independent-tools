@@ -337,6 +337,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [ItsPaint](https://github.com/joshlin2201/itspaint) - 免费开源的 macOS 原生画图工具，截图标注、裁剪、一键去背景，完全离线无任何网络请求
 
 ### 屏幕录制
 

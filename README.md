@@ -386,6 +386,7 @@
 ### 产品发布
 
 - [PoweredByAI](https://poweredbyai.app/) - 免费提交产品
+- [IdeaHunter](https://ideahunter.today) - 用公开信号、用户痛点和市场证据辅助独立开发者筛选应用与 micro-SaaS 创业想法
 - [Pinterest](https://www.pinterest.com) - 发布的视频可能会被 Google 收录且免
   费
 - [Indie Hackers](https://www.indiehackers.com/) - 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据

@@ -421,6 +421,8 @@
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 
+-   [DSH Studio](https://github.com/Moresyl/dsh-studio) - (MIT 开源/本地运行) 跨平台 DeepSeek Harness 桌面管理工具，可完成安装、启动、停止、健康检查、日志查看与进程监管；提供 macOS（Apple Silicon/Intel）、Windows 和 Linux 安装包。
+
 ### 其他工具
 
 - [黑苹果软件园](https://mackext.com/)
@@ -493,3 +495,4 @@
 ## 贡献者
 
 <a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>
+

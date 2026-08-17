@@ -169,7 +169,6 @@ Collect the latest and most practical free tools and resources in the field of i
 - [aceternity](https://ui.aceternity.com/) - Various beautiful UI styles.
 - [animata](https://animata.design/) - A collection of various interactive animations and effects.
 - [spark-ui](https://spark-ui.dev/) - Build animated UI components.
-- [magicui](https://magicui.design/) - Over 50 free and open-source animated components, built with React, Typescript, Tailwind CSS, and Framer Motion.
 - [Easily create and customize various web components through a graphical editor](https://tailwind-generator.com/)
 - [A React component specifically for number animations](https://github.com/barvian/number-flow)
 
@@ -381,6 +380,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Pinterest](https://www.pinterest.com) - Videos posted may be indexed by Google for free.
 - [Indie Hackers](https://www.indiehackers.com/) - A community platform connecting developers to share strategies and revenue data behind their companies and side projects.
 - [Tweeteasy](https://tweeteasy.io) - An easy-to-use Twitter AI tool that lets you easily create engaging posts, get reply ideas, add emojis, change tone, fix spelling and grammar, and translate into English.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - An independent X (Twitter) data API for search, follower exports, monitoring, and MCP.
 - [Flowing Light Card](https://fireflycard.shushiai.com/en) - A text typography poster generation and promotion tool.
 - [Online English Signature](https://codepen.io/kiranpate1/full/ExBpaeW)
 - [AdsDog](https://adsdog.ai/) - Generate high-quality digital human promotional videos with AI from a single URL.

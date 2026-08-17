@@ -171,7 +171,6 @@
 - [aceternity](https://ui.aceternity.com/) - 各种好看 UI 的样式
 - [animata](https://animata.design/) - 收藏了各种交互动画和效果
 - [spark-ui](https://spark-ui.dev/) - 构建动画组件 UI
-- [magicui](https://magicui.design/) - 50 多个免费开源动画组件，使用 React、Typescript、Tailwind CSS 和 Framer Motion 构建
 - [通过图形化编辑器轻松创建和自定义各种网页组件](https://tailwind-generator.com/)
 - [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow)
 
@@ -390,6 +389,7 @@
   费
 - [Indie Hackers](https://www.indiehackers.com/) - 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据
 - [Tweeteasy](https://tweeteasy.io) - 一款易于使用的 Twitter AI 工具，可以让你轻松创建引人入胜的帖子、获取回复想法、添加表情符号、更改语气、修复拼写和语法以及翻译成英语
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - 独立的 X (Twitter) 数据 API，用于搜索、粉丝导出、监控和 MCP。
 - [流光卡片](https://fireflycard.shushiai.com/en) - 一款文字排版海报生成推广工具
 - [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)
 - [AdsDog](https://adsdog.ai/) - 通过一个 URL 就可以由 AI 生成高质量的数字人广告宣传视频

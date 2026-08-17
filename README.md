@@ -171,7 +171,6 @@
 - [aceternity](https://ui.aceternity.com/) - 各种好看 UI 的样式
 - [animata](https://animata.design/) - 收藏了各种交互动画和效果
 - [spark-ui](https://spark-ui.dev/) - 构建动画组件 UI
-- [magicui](https://magicui.design/) - 50 多个免费开源动画组件，使用 React、Typescript、Tailwind CSS 和 Framer Motion 构建
 - [通过图形化编辑器轻松创建和自定义各种网页组件](https://tailwind-generator.com/)
 - [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow)
 
@@ -382,6 +381,7 @@
 - [一个获取 stripe 高权重外链（DR93）的方法](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
 - [关键词分析网站](https://ahrefs.com/zh/keywords-explorer)
 - [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### 产品发布
 

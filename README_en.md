@@ -117,6 +117,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [How to do SEO optimization?](https://magickseo.com/)
 - [AITDK SEO Extension](https://aitdk.com/extension) - A free All-in-One SEO plugin.
 - [Web-based video and audio player](https://player.style/)
+- [A11yKit](https://a11ykit.site) - Free, 100% client-side accessibility toolkit for WCAG 2.2 and EAA compliance. Features 15 tools including Contrast Checker, ARIA Generator, and Color Blind Simulator with zero data uploads.
 
 ### Backend Development
 

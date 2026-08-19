@@ -141,6 +141,7 @@
 - [MySQL](https://www.mysql.com) - 最流行的开源的关系型数据库
 - [PostgreSQL](https://www.postgresql.org) - 一个功能强大的开源对象关系数据库系统
 - [Redis](https://redis.io) - 一个开源（BSD 许可）的，内存中的数据结构存储系统，它可以用作数据库、缓存和消息中间件
+- [DBTool](https://github.com/achi777/db-tool) - 免费开源的桌面数据库客户端，在同一界面中管理 PostgreSQL、MySQL、MariaDB、SQLite、Oracle 和 SQL Server，支持 Windows、macOS 和 Linux
 
 ### 对象关系映射
 

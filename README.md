@@ -420,6 +420,7 @@
 
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
+- [SandBase CLI](https://github.com/sandbaseai/cli) - (Apache 2.0 开源) 本地 MCP 桥接 CLI，将 Claude Code、Cursor、Codex、ChatGPT 等 AI 客户端连接到 2,000+ AI 模型和 API；支持 OAuth 与回滚。安装：`npx -y @sandbaseai/cli@0.1.14 connect --client claude-desktop`。
 
 ### 其他工具
 

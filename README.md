@@ -330,6 +330,8 @@
 ### 图片视频处理工具
 
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
+- [Korelyy](https://korelyy.com/) – 110+ 免费浏览器工具集（图片格式转换、JSON 格式化、表情包混合器、配色板、梗图生成器、密码生成器、人生周数、藏头诗生成器等），全部在浏览器本地运行，6 语言支持。
+
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
 - [在线 AI 抠图工具](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器

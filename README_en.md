@@ -405,7 +405,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### AI Resources
 
-- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Governance layer for AI agents. Deterministic Python scheduler with no model in the coordination loop, per-task git worktree isolation, byte-identical replay, signed lineage, opt-in HMAC audit chain, MCP server, quality gates, cost tracking. Drives Claude Code, Codex CLI, Gemini CLI, Cursor, Aider, and 40+ other CLI coding agents alongside other agent workloads.
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Governance layer for AI agents. Deterministic Python scheduler with no model in the coordination loop, per-task git worktree isolation, byte-identical replay, signed lineage, opt-in HMAC audit chain, MCP server, quality gates, cost tracking. Drives 40+ CLI coding agents including Claude Code, Codex CLI, Gemini CLI, Cursor and Aider, alongside other agent workloads.
 
 ### Other Tools
 

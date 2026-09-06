@@ -296,6 +296,7 @@
 - [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点
 - [mintlify](https://mintlify.com/) - 轻松获取产品文档
 - [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - 浏览器本地将 XLSX、XLS、CSV 或粘贴表格转换为 Markdown 表格，无需注册或上传文件
 
 ### 协议生成
 

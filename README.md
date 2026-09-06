@@ -12,7 +12,7 @@
 
 ### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
 
-- 【半月刊】订阅：仅需关注公众号[【沉浸式趣谈】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
+- 【半月刊】订阅：仅需关注公众号[【沉浸式AI】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
 - 往期半月刊归档: [查看所有往期内容](./assets/md/ARCHIVE.md)
 - 贡献指南入口：[官网](https://www.indietools.work/submit)
     <!-- -   [Github](#contribute) -->

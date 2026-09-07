@@ -405,6 +405,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### AI Resources
 
+- [AgentCeres](https://agentceres.com) - An AI growth team for indie developers going global. Marketing agents divide up competitor research, SEO article drafts, and social content drafts, with every publish requiring human approval. 14-day free trial, no credit card required.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools

@@ -70,6 +70,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [SupaStarter](https://supastarter.dev) - (Paid) Offers both Next.js and Nuxt templates, feature-rich.
 - [SaaS-Boilerplate](https://react-saas.com/) - An open-source SaaS template, perfect for building your own SaaS application.
 - [nextjs subscription payments](https://subscription-payments.vercel.app/) - Open-sourced by Vercel, uses Stripe for payments.
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - (Free) Open-source Next.js 15 SaaS starter (MIT) with auth built into the app (Google/GitHub OAuth + email/password, no Clerk/Auth0/Supabase account), Stripe subscriptions, teams, and Postgres/Drizzle.
 - [boilerplatelist](https://boilerplatelist.com/) - Over 130 best SaaS boilerplates and starter kits, with guidance on evaluating and selecting the best SaaS boilerplate for your project needs.
 - [Taxonomy](https://github.com/shadcn-ui/taxonomy) - An open-source web application experiment built with Next.js 13 and React 18.
 - [unibest](https://github.com/codercup/unibest) - A cross-platform quick-start template powered by uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI.

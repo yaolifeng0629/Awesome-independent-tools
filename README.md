@@ -72,6 +72,7 @@
 - [Opensaas](https://opensaas.sh/) - React + Node.js。集成了登录、支付（stripe）、邮件、AI 功能
 - [SaaS-Boilerplate](https://react-saas.com/) - 一款开源的 SaaS 模板，非常适合构建自己的 SaaS 应用
 - [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - (免费) 基于 Next.js 15 的开源 SaaS 模板（MIT），登录功能内置在应用里（Google/GitHub OAuth + 邮箱密码，无需 Clerk/Auth0/Supabase 账号），集成了 Stripe 订阅、团队、Postgres/Drizzle
 - [boilerplatelist](https://boilerplatelist.com/) - 超过 130 个最佳 SaaS 样板和入门套件，并提供了评估和选择最适合项目需求的 SaaS 样板的指导
 - [Taxonomy](https://github.com/shadcn-ui/taxonomy) - 基于 Next.js 13 和 React 18 构建的开源 Web 应用实验项目
 - [unibest](https://github.com/codercup/unibest) - unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板

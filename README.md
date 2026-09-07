@@ -419,7 +419,7 @@
 ### AI 资源
 
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
-- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 面向 AI Agent 的治理层。确定性 Python 调度器（协调环路零 LLM token），任务级 git worktree 隔离、逐字节一致的重放、签名 lineage、可选 HMAC 审计链、MCP server、质量门、成本追踪。可驱动 Claude Code、Codex CLI、Gemini CLI、Cursor、Aider 等 40 多个 CLI 编程 Agent，以及其他 Agent 工作负载。
 
 ### 其他工具
 

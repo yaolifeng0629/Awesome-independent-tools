@@ -406,6 +406,7 @@ Collect the latest and most practical free tools and resources in the field of i
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [XiuRouter](https://router.xiu.ai/) - (Usage-based) One API service for Claude, GPT, Gemini, and other leading models, with native OpenAI, Anthropic, and Gemini protocol endpoints, scoped API keys, per-request usage and cost records, and setup for 14 developer and agent tools; selected models and service tiers can save 90%+ versus provider reference prices.
 
 ### Other Tools
 

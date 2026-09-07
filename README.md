@@ -99,6 +99,7 @@
 
 - [Next.js](https://nextjs.org/) - 基于 React
 - [Nuxt](https://nuxt.com/) - 基于 Vue
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - 面向 AI 对话界面的开源流式 Markdown 渲染器，支持 Vue、React、Svelte、Angular、Nuxt、Next.js 和 Vue 2，并集成 Mermaid、KaTeX、Shiki 与安全 HTML 策略
 - [Remix](https://remix.run/) - 基于 React 的全栈框架
 - [Webpack Config Tool](https://createapp.dev/webpack/no-library) - 一键帮你生成 webpack.config.js
 - [AutoX.js](http://doc.autoxjs.com/) - 不需要 Root 权限 的 JavaScript 自动化软件

@@ -405,6 +405,8 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### AI Resources
 
+- [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - (Free and open-source/local-first) Desktop fiction-writing workspace that keeps characters, worldbuilding, outlines, chapters, review, and revision in one workflow; supports Windows, macOS, and Ollama.
+
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools

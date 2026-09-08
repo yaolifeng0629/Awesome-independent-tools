@@ -231,6 +231,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Microsoft Clarity](https://clarity.microsoft.com/) - An excellent website user experience and traffic analysis tool.
 - [AITDK SEO Extension](https://aitdk.com/zh/extension) - A multifunctional browser extension designed to provide comprehensive website analysis.
 - [Google AdSense alternatives, showing the number of publishers, advertisers, and monthly visits of alternative platforms](https://googleadsensealternatives.com/)
+- [GEOKit](https://geokit.site) - Free Generative Engine Optimization (GEO) & AI SEO toolkit for indie hackers to optimize web apps for AI search engines (llms.txt, AI robots.txt, and structured schema)
 
 ### Customer Service & Feedback
 

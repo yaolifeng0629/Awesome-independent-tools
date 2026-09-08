@@ -423,6 +423,8 @@
 
 ### 其他工具
 
+- [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - (免费开源/桌面端) 从 QQ 或网易邮箱收集 PDF、OFD、XML 发票，使用 OCR 识别分类，并导出 Excel 汇总供人工复核；支持 Windows 和 macOS。
+
 - [黑苹果软件园](https://mackext.com/)
 - [截图工具](https://www.snipaste.com/)
 - [截图工具](https://pixpinapp.com/) - 解决了 Snipaste 长截图，gif 图问题

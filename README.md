@@ -233,6 +233,7 @@
 - [Microsoft Clarity](https://clarity.microsoft.com/) - 一款优秀的网站用户体验分析工具、流量分析工具
 - [AITDK SEO Extension](https://aitdk.com/zh/extension) - 一款多功能浏览器扩展，旨在提供全面的网站分析
 - [Google AdSense 替代品，并且展示了替代平台的发布商数量、广告主数量和月访问量等](https://googleadsensealternatives.com/)
+- [GEOKit](https://geokit.site) - 免费的生成式引擎优化 (GEO) 与 AI SEO 工具箱，帮助独立开发者出海网站一键适配 Perplexity、ChatGPT、Claude 等 AI 搜索（包含 llms.txt 生成、AI 爬虫 Robots.txt 与语义 Schema 审计）
 
 ### 在线客服和反馈服务
 

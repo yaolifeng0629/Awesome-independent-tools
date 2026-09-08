@@ -409,6 +409,8 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### Other Tools
 
+- [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - (Free and open-source/desktop) Collects PDF, OFD, and XML invoices from QQ or NetEase mail, classifies them with OCR, and exports Excel summaries for review; supports Windows and macOS.
+
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)
 - [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.

@@ -329,6 +329,8 @@
 
 ### 图片视频处理工具
 
+- [Vivify GPT Image 2.5](https://vivify.video/zh/models/gpt-image-2-5) - 在线文生图与参考图编辑，可选择 Flare 或 Sunburst，生成前显示积分消耗；需登录，按积分付费。
+
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
 - [在线 AI 抠图工具](https://removebg.one/)

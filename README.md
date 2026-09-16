@@ -337,6 +337,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [AI Coloring Page Generator](https://photlin.com/) - 浏览器内把照片转成可打印的黑白线稿（A4 / US Letter，300 DPI），照片不上传，无需注册
 
 ### 屏幕录制
 

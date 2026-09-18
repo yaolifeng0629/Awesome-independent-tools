@@ -420,6 +420,7 @@
 
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - (Apache 2.0 开源 / npm `orcareplay`) 独立 CLI，充当 AI 编程 Agent 与模型 provider 之间的 HTTP 代理 + shim，把一次真实运行的 prompt、工具调用、响应和原始字节原样录成本地 trace，之后可完全离线重放该次运行、diff 两次运行的差异，或把录像 fork 到另一个模型上重跑。适合把「偶发跑挂的 agent 任务」变成可反复复现的本地用例，排障过程不再消耗 token；自带 MCP server 读取本地 trace 库。已实测支持 Claude Code、Codex CLI、OpenHands、Aider、goose、LangGraph、CrewAI 等框架。
 
 ### 其他工具
 

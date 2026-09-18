@@ -406,6 +406,7 @@ Collect the latest and most practical free tools and resources in the field of i
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [Cate](https://github.com/0-AI-UG/cate) - (Free, open source, MIT) A desktop IDE on an infinite zoomable canvas. You arrange editors, terminals, browsers, and Claude Code agent panels in spatial workspace instead of tabs. Panels can float, dock, or detach into separate windows. Layout persists per project. Built with Electron + React + TypeScript, runs on macOS / Windows / Linux.
 
 ### Other Tools
 

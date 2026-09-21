@@ -337,6 +337,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [shortshort](https://www.shortshort.io) - 把一条长视频（最长 3 小时）剪成 15-90 秒的 9:16 竖屏短视频，按完整句子切分，跟踪人脸重构画面，逐词字幕，导出 1080x1920 MP4；手动剪辑器和 MP4 导出无需账号，注册送 60 分钟免费额度
 
 ### 屏幕录制
 

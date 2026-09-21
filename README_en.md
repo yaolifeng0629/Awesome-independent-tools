@@ -329,6 +329,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [shortshort](https://www.shortshort.io) - Turns one long video (up to 3 hours) into 15-90s vertical 9:16 shorts, cut on complete sentences, reframed by face tracking, with word-by-word captions and 1080x1920 MP4 export. The manual editor and its MP4 export work without an account, and sign-up includes 60 free credits (1 credit = 1 minute of source video).
 
 ### Screen Recording
 

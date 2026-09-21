@@ -65,6 +65,7 @@
 
 ### Web 开发框架或模板
 
+- [MagicKit](https://github.com/kaketiti/magickit) - 免费开源AI工具箱：图片生成、AI写作、视频生成。MIT协议，无需注册。
 - [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - (免费) 基于 Next.js, 集成了登录、支付（lemon squeezy）、AI 功能
 - [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
 - [Shipfast](https://shipfa.st/) - (付费) 基于 Next.js，集成了登录、支付（stripe）、邮件、AI 功能

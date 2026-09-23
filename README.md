@@ -209,6 +209,7 @@
 - [FastSpring](https://fastspring.com/) - 需要企业资质,提供全方位电商解决方案
 - [Ko-fi](https://ko-fi.com/) - 一个让创作者可以从粉丝那里获得打赏 💰、会员订阅 📚、商品销售 🛒 等收入的平台
 - [WildCard](https://bewildcard.com/i/DOMR3S7H) - 国内首选，86 手机号注册，一个可以开通虚拟卡服务的第三方
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ### 邮件服务
 

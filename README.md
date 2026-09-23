@@ -296,6 +296,7 @@
 - [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点
 - [mintlify](https://mintlify.com/) - 轻松获取产品文档
 - [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站
+- [Cortex](https://github.com/cortex-docs/cortex) - 开源 API 工具，可从 OpenAPI、AsyncAPI、GraphQL、gRPC 和 OpenRPC 生成交互式文档、类型化 SDK 和 MCP Server
 
 ### 协议生成
 

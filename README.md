@@ -239,6 +239,7 @@
 - [腾讯兔小巢](https://txc.qq.com/) - 国内产品反馈平台
 - [Tawk](https://tawk.to/) - 在线客服
 - [公共用户反馈跟踪器](https://insigh.to/)
+- [Hellomatik](https://hellomatik.com) - AI 智能体基于企业数据、流程与计算规则的统一蓝图准备各项决策，由审批人接受、修改或驳回
 
 ### 部署与托管
 

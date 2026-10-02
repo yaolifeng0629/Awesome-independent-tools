@@ -407,6 +407,8 @@ Collect the latest and most practical free tools and resources in the field of i
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
+-   [DSH Studio](https://github.com/Moresyl/dsh-studio) - (MIT open-source/local-first) Cross-platform desktop manager for DeepSeek Harness with installation, start/stop controls, health checks, logs, and process supervision. Ships installers for macOS (Apple Silicon/Intel), Windows, and Linux.
+
 ### Other Tools
 
 - [Black Apple Software Park](https://mackext.com/)
@@ -479,3 +481,4 @@ If you find this project useful, please consider:
 ## Contributors
 
 <a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>
+

@@ -337,6 +337,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [Captions Generator](https://captionsgenerator.app/) - AI 视频字幕生成工具，自动识别语音生成字幕，可改字、选样式、翻译成 100 多种语言或做中英双语，导出 SRT/VTT 或带字幕的 MP4
 
 ### 屏幕录制
 

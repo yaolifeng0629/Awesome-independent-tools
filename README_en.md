@@ -378,6 +378,7 @@ Collect the latest and most practical free tools and resources in the field of i
 ### Product Release
 
 - [PoweredByAI](https://poweredbyai.app/) - Free product submission.
+- [IdeaHunter](https://ideahunter.today) - AI startup idea research and validation for indie hackers and micro-SaaS builders.
 - [Pinterest](https://www.pinterest.com) - Videos posted may be indexed by Google for free.
 - [Indie Hackers](https://www.indiehackers.com/) - A community platform connecting developers to share strategies and revenue data behind their companies and side projects.
 - [Tweeteasy](https://tweeteasy.io) - An easy-to-use Twitter AI tool that lets you easily create engaging posts, get reply ideas, add emojis, change tone, fix spelling and grammar, and translate into English.

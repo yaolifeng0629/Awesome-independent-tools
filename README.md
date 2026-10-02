@@ -175,6 +175,8 @@
 - [通过图形化编辑器轻松创建和自定义各种网页组件](https://tailwind-generator.com/)
 - [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow)
 
+- [Payload Components](https://www.payload-components.xyz) - 面向 Payload v3 与 Next.js 15/16 的 MIT 开源区块注册表；67 个类型安全区块以源码形式安装，并自动完成 Pages、渲染器、类型和后台 import map 接线。
+
 ### 原型设计
 
 - [墨刀](https://modao.cc/) - 国内产品原型设计工具

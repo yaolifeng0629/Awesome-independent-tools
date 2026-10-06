@@ -345,6 +345,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### Information Channels
 
+- [Power CM Partners](https://partners.powercm-software.com/): A free, nonexclusive software partner network for independent developers and publishers to create tracked campaigns and monitor visits, attributed registrations, verified sales, and commissions.
 - [Information Gap](https://gapis.money/) - A frequently updated weekly newsletter for independent developers going global.
 - [Product Hunt](https://www.producthunt.com/) - A hub for new product launches.
 - [W2Solo](https://w2solo.com/) - A Chinese independent developer community.

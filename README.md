@@ -385,6 +385,7 @@
 
 ### 产品发布
 
+- [Power CM Partners](https://partners.powercm-software.com/)：为独立软件开发者和发行合作伙伴提供免费的非独家合作网络，可创建跟踪活动并查看访问、归因注册、验证销售和佣金。
 - [PoweredByAI](https://poweredbyai.app/) - 免费提交产品
 - [Pinterest](https://www.pinterest.com) - 发布的视频可能会被 Google 收录且免
   费

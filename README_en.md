@@ -406,6 +406,7 @@ Collect the latest and most practical free tools and resources in the field of i
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [CodeOtter](https://github.com/dharmeshgurnani/CodeOtter) - (ELv2, free to self-host) Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea. Scores PRs, enforces merge gates and posts inline fixes, using local GGUF models or your own API key.
 
 ### Other Tools
 

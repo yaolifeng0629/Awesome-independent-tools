@@ -290,6 +290,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Astro Starlight](https://starlight.astro.build/) - A documentation theme site for the Astro framework.
 - [mintlify](https://mintlify.com/) - Easily obtain product documentation.
 - [Docusaurus](https://github.com/facebook/docusaurus) - An easy-to-maintain open-source documentation website.
+- [TypeFire Markdown Editor](https://typefire.ai/markdown-editor-online) - Free browser Markdown editor for drafting docs and READMEs, with formatting shown as you type and export to Markdown, HTML and PDF. No sign-up.
 
 ### Agreement Generation
 

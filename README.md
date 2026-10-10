@@ -331,6 +331,7 @@
 
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
+- [ToolGarden](https://www.toolgarden.xyz/zh/image) - 一站式图片处理工具：图片压缩、合并、编辑、裁剪、尺寸修改、格式转换、OCR识别、抠图去背景、证件照制作、去水印、加水印等，全部浏览器本地处理，隐私安全。
 - [在线 AI 抠图工具](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 - [video 转 gif](https://ezgif.com/video-to-gif)

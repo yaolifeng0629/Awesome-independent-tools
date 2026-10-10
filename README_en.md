@@ -270,6 +270,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Is It Down?](https://zhale.me/) - An online network testing tool for ops and webmasters, with over 1,000 global nodes, simulating user access to domains/IPs, offering free website speed tests, network speed detection, multi-region online ping tests, DNS queries, route tracking, and IPv6 website tests.
 - [Deploy UptimeRobot API Status Panel with Cloudflare Pages: `Tutorial`](https://blog.aizrf.com/p/62)
 - [Deploy UptimeRobot API Status Panel with Cloudflare Pages: `Project`](https://github.com/shaoyouvip/uptime)
+- [sunwatch](https://sunwatch.sunfamily.xyz) ([repo](https://github.com/ryan-knowone/sunwatch)) - (Freemium) Crypto-paid uptime monitor for side projects. 3 free monitors with 1-minute checks and webhook alerts; extras at $1/monitor/month paid with USDC on Base. No account, no KYC.
 - [Improve Website Access Speed with CNAME Domains](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
 
 ### Domain Registration

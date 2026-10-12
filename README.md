@@ -315,6 +315,7 @@
 - [fontawesome](https://fontawesome.com/icons) - 提供超过 30,013 个可用于各种项目的图标
 - [MingCute](https://www.mingcute.com/) - 一个为设计师和开发者准备的简洁而精致的开源图标库，非常适合在网页和移动设备上使用
 - [iconbuddy](https://iconbuddy.com/) - 一个提供超过 200,000 个开源 SVG 图标的搜索引擎，允许你免费搜索、下载、自定义和编辑图标
+- [favicondl](https://favicondl.com/) - 输入任意网址即可提取并下载网站的 favicon 图标，支持 16–512px 多种尺寸、批量下载，并提供免费免密钥的 API
 
 ### 字体资源
 

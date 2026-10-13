@@ -397,6 +397,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [favicon](https://favicon.vwood.xyz/) - Quickly get a site's favicon icon via URL.
 - [Logo AI](https://www.logoai.com) - An AI-driven logo creation tool.
 - [Favicon.im](https://favicon.im/?utm_source=gapis.money) - Get a website's icon with one click via URL.
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - Free. Turns one 1024px image into every icon size for iOS (Xcode AppIcon), macOS, Icon Composer (.icon), Android (adaptive, themed) and favicon/PWA in one ZIP. Quick mode runs in the browser, no account needed.
 
 ### Project Management
 

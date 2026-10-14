@@ -425,6 +425,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Linear](https://linear.app/) - Linear is a project management and task tracking software.
 - [Remotion](https://www.remotion.dev/) - A tool to create videos through coding.
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
+- [CurlShot](https://curlshot.com/) - Screenshot API and free online tool: URL, HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with ads and cookie banners blocked. Free plan: 100 screenshots/month
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
 

@@ -97,6 +97,7 @@
 
 ### 前端开发
 
+- [FastTools](https://fasttools.me/) - 极速纯前端开发者工具箱，提供可视化 POSIX Cron 表达式生成、JSON 转 TypeScript/Zod、自由职业费率换算，本地浏览器运算零服务端上传。
 - [Next.js](https://nextjs.org/) - 基于 React
 - [Nuxt](https://nuxt.com/) - 基于 Vue
 - [Remix](https://remix.run/) - 基于 React 的全栈框架
@@ -200,6 +201,7 @@
 
 ### 支付集成
 
+- [FastTools Stripe Calculator](https://fasttools.me/stripe-fee-calculator) - 免费即时的 Stripe 多币种费率与反向开票净额计算器，纯前端计算无数据上传，支持美国/英国/欧盟/加拿大/澳洲费率。
 - [Stripe](https://stripe.com/) - 需要企业资质,开发者友好,API 强大
 - [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - 一个全球支付平台，申请流程简单，不需要公司资质。提供微信、支付宝、Visa/Master 信用卡、PayPal 等多种支付方式，覆盖 130 多个国家。其核心功能包括备智能营收分析、客户跟踪系统、Affiliate 联盟营销工具、折扣码系统和支付失败恢复机制。

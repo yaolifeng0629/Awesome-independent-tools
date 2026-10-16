@@ -30,7 +30,7 @@ Thank you to our sponsors for supporting this project!
 <p><a href="https://gencrafters.com"><strong>GenCrafters.com</strong></a></p>
 </td>
 <td>
-<p>Thank you to GenCrafters for sponsoring this project! GenCrafters is a <strong>multimodal AI platform for image and video generation</strong>. Access <strong>20+ models</strong>, including Flux 2 Pro, DALL-E 3, GPT Image, Sora, and Kling.</p>
+<p>GenCrafters is a <strong>multimodal AI platform for image and video generation</strong>. Access <strong>20+ models</strong>, including Flux 2 Pro, DALL-E 3, GPT Image, Sora, and Kling.</p>
 <p><strong>Pricing and trial:</strong> Credit-based pricing with a free trial.</p>
 <p><a href="https://gencrafters.com">Learn more about GenCrafters →</a></p>
 </td>

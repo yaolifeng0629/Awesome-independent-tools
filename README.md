@@ -31,7 +31,7 @@
 <p><a href="https://gencrafters.com"><strong>GenCrafters.com</strong></a></p>
 </td>
 <td>
-<p>感谢 GenCrafters 赞助本项目！GenCrafters 是一款<strong>多模态 AI 平台，支持图像与视频生成</strong>。可访问 Flux 2 Pro、DALL-E 3、GPT Image、Sora、Kling 等 <strong>20+ 模型</strong>。</p>
+<p>GenCrafters 是一款<strong>多模态 AI 平台，支持图像与视频生成</strong>。可访问 Flux 2 Pro、DALL-E 3、GPT Image、Sora、Kling 等 <strong>20+ 模型</strong>。</p>
 <p><strong>计费与体验：</strong>采用积分制计费，免费试用。</p>
 <p><a href="https://gencrafters.com">了解 GenCrafters →</a></p>
 </td>

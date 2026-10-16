@@ -329,6 +329,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [PhoText](https://photext.ai/ImageTranslator/) - (Free) Browser AI image text translator: detect and translate text in photos while keeping the original style; 100+ languages, no install.
 
 ### Screen Recording
 

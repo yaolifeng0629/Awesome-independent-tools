@@ -57,7 +57,7 @@ Thank you to our sponsors for supporting this project!
 
 ---
 
-### Features:
+## Features:
 
 - **Curated Tools**: High-quality, handpicked resources. Including development tools, design resources, growth tools, etc
 - **Continuous Updates**: We constantly collect and add new tools

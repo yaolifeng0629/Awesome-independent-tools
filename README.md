@@ -374,6 +374,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [Slicsta](https://slicsta.com/instagram-grid-maker/) - 免费的在线 Instagram 九宫格切图工具，把一张照片切成 3x1 / 3x2 / 3x3 并预览主页墙效果；浏览器本地处理、图片不上传，输出带编号的发布顺序
 
 ### 屏幕录制
 

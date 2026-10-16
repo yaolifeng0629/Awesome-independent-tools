@@ -2,24 +2,60 @@
 
 [中文](README.md) | [English](README_en.md)
 
-</div>
-
-<!-- [![alt text](./assets/en.webp)](https://www.indietools.work) -->
-
 # Awesome-independent-tools
 
-Collect the latest and most practical free tools and resources in the field of independent development and AI sailing
+A collection of the latest, most practical free tools and resources for indie developers and AI builders going global.
 
-### **Please go to:[【https://www.indietools.work 】](https://www.indietools.work)**
+### Official website: [https://www.indietools.work](https://www.indietools.work)
 
-- Subscription method: just follow the Twitter [【Immerse_code】](https://x.com/Immerse_code)
-- Past Issues Archive: [View all past issues](./assets/md/ARCHIVE_en.md)
-- Contribution Guide Portal: [Official Website](https://www.indietools.work/submit)
-  <!-- -   [Github](#contribute) -->
+<!-- Subscribe to the twice-monthly digest: follow our WeChat public account [沉浸式AI](https://yaolifeng.com/sponsor/wx_public_account.jpg) · Past issues: [View all past issues](./assets/md/ARCHIVE_en.md) · Contribute: [Official website](https://www.indietools.work/submit) -->
 
-> This Repos is owned by [GenCrafters.com](https://gencrafters.com) Sponsorship, GenCrafters.com is a Multi-model AI platform for image and video generation. Access Flux 2 Pro, DALL-E 3, GPT Image, Sora, Kling, and 20+ models. Credit-based pricing, free to start.
->
-> Click here to learn 👉 [GenCrafters.com](https://gencrafters.com)
+</div>
+
+## ❤️ Sponsors
+
+Thank you to our sponsors for supporting this project!
+
+> [Want to be featured here? Become a sponsor](https://x.com/Immerse_code)
+
+<details open>
+<summary>Click to expand / collapse</summary>
+
+<table>
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://gencrafters.com">
+<img src="assets/img/gencrafters-sponsor.png" alt="GenCrafters official website" width="190" />
+</a>
+<p><a href="https://gencrafters.com"><strong>GenCrafters.com</strong></a></p>
+</td>
+<td>
+<p>Thank you to GenCrafters for sponsoring this project! GenCrafters is a <strong>multimodal AI platform for image and video generation</strong>. Access <strong>20+ models</strong>, including Flux 2 Pro, DALL-E 3, GPT Image, Sora, and Kling.</p>
+<p><strong>Pricing and trial:</strong> Credit-based pricing with a free trial.</p>
+<p><a href="https://gencrafters.com">Learn more about GenCrafters →</a></p>
+</td>
+</tr>
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">
+<img src="assets/img/nexotoken-sponsor.png" alt="NexoToken GPT API membership plan" width="190" />
+</a>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
+</td>
+<td>
+<p><strong>Make AI coding and app development easier</strong></p>
+<p>An AI API service for developers, independent projects, and enterprise teams. Offers tiered top-up discounts, enterprise partnerships, and custom dedicated account pools.</p>
+<p><strong>Membership plan:</strong> The GPT API membership costs <strong>¥99</strong> and includes <strong>$1,000 in platform usage credits</strong>, <strong>valid for 30 days with no weekly usage cap</strong>. Usage is deducted from the plan's total credits based on actual API calls, so you can use them at your project's pace.</p>
+<p><strong>Platform promotions:</strong> Prize draws are held every Thursday, with platform credits and top-up coupons as prizes. Daily usage that meets the promotion requirements may also qualify for credit rebates of up to <strong>10 platform credits</strong>.</p>
+<p><strong>Exclusive reader benefits:</strong> Register through the link below to receive an additional <strong>¥5 discount coupon for top-ups of ¥20 or more</strong>, on top of the platform's standard new-user benefits. The coupon is <strong>valid for 7 days after it is claimed</strong>, and <strong>each new user can claim it once</strong>.</p>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">View membership plans and claim your exclusive benefits →</a></p>
+</td>
+</tr>
+</table>
+
+</details>
+
+---
 
 ### Features:
 

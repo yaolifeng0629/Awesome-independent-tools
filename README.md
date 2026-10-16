@@ -2,24 +2,61 @@
 
 [中文](README.md) | [English](README_en.md)
 
-</div>
-
-<!-- [![alt text](./assets/zh.webp)](https://www.indietools.work) -->
-
 # Awesome-independent-tools
 
 收录独立开发、AI 出海领域最新、最实用的免费工具与资源
 
-### 最新工具前往官网：[https://www.indietools.work](https://www.indietools.work)
+### 官网：[https://www.indietools.work](https://www.indietools.work)
 
-- 【半月刊】订阅：仅需关注公众号[【沉浸式AI】](https://yaolifeng.com/sponsor/wx_public_account.jpg)
-- 往期半月刊归档: [查看所有往期内容](./assets/md/ARCHIVE.md)
-- 贡献指南入口：[官网](https://www.indietools.work/submit)
-    <!-- -   [Github](#contribute) -->
+<!-- 【半月刊】订阅：仅需关注公众号[【沉浸式AI】](https://yaolifeng.com/sponsor/wx_public_account.jpg) · 往期半月刊归档：[查看所有往期内容](./assets/md/ARCHIVE.md) · 贡献指南入口：[官网](https://www.indietools.work/submit) -->
 
-> 本仓库由 [GenCrafters.com](https://gencrafters.com) 赞助，GenCrafters 是一款**多模态AI平台，支持图像与视频生成**。可访问 Flux 2 Pro、DALL-E 3、GPT Image、Sora、Kling 等20+模型。采用积分制计费，免费试用。
->
-> 点此了解 👉[GenCrafters.com](https://gencrafters.com)
+</div>
+
+## ❤️ 赞助商
+
+感谢以下赞助商对本项目的支持！
+
+> [想出现在这里？成为赞助商](https://yaolifeng.com)
+
+<details open>
+<summary>点击展开 / 折叠</summary>
+
+<!-- 赞助商按原有顺序同级展示；更新推广链接时，请同步品牌入口、正文入口及对应横幅。 -->
+<table>
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://gencrafters.com">
+<img src="assets/img/gencrafters-sponsor.png" alt="GenCrafters 官网" width="190" />
+</a>
+<p><a href="https://gencrafters.com"><strong>GenCrafters.com</strong></a></p>
+</td>
+<td>
+<p>感谢 GenCrafters 赞助本项目！GenCrafters 是一款<strong>多模态 AI 平台，支持图像与视频生成</strong>。可访问 Flux 2 Pro、DALL-E 3、GPT Image、Sora、Kling 等 <strong>20+ 模型</strong>。</p>
+<p><strong>计费与体验：</strong>采用积分制计费，免费试用。</p>
+<p><a href="https://gencrafters.com">了解 GenCrafters →</a></p>
+</td>
+</tr>
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">
+<img src="assets/img/nexotoken-sponsor.png" alt="NexoToken GPT API 会员套餐介绍" width="190" />
+</a>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
+</td>
+<td>
+<p><strong>让 AI 编程与应用开发更从容</strong></p>
+<p>面向开发者、独立项目与企业团队的 AI API 服务。支持充值梯度优惠、企业合作与专属号池定制。</p>
+<p><strong>会员套餐：</strong>GPT API 会员套餐 <strong>¥99</strong>，享 <strong>$1,000 平台调用额度</strong>，<strong>30 天有效，无周额度限制</strong>，按实际调用扣减套餐总额度，让你根据项目节奏灵活安排用量。</p>
+<p><strong>平台活动：</strong>每周四固定抽奖，奖品包括平台额度和充值优惠券；每日使用达到活动条件，还可获得额度返还，最高 <strong>10 平台额度</strong>。</p>
+<p><strong>读者专属福利：</strong>通过下方专属链接注册，在平台新人体验福利之外，额外领取一张<strong>满 20 减 5 元充值券</strong>，领取后 <strong>7 天有效</strong>，<strong>每位新用户限领一次</strong>。</p>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">查看会员套餐，领取专属福利 →</a></p>
+</td>
+</tr>
+</table>
+
+</details>
+
+---
 
 ### 特点：
 

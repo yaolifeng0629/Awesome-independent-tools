@@ -456,6 +456,7 @@ Thank you to our sponsors for supporting this project!
 - [toSound](https://www.tosound.com/) - Free sound effect resources download.
 - [US Virtual Address Generator](https://www.fakexy.com/fake-address-generator-ca)
 - [code share](https://codeshare.io/) - Real-time code sharing tool.
+- [cv.cm](https://cv.cm) - Browser-local PDF, image, and QR tools (files never leave the device) plus a no-login cloud clipboard
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - Recommends commonly used AI tools for each website, one-click usage.
 - [QuickType](https://quicktype.io/) - Instantly generates corresponding types from a JSON structure.
 - [Linear](https://linear.app/) - Linear is a project management and task tracking software.

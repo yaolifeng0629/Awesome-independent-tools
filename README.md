@@ -328,6 +328,8 @@
 
 ### 文档管理
 
+- [Doc2X](https://doc2x.noedgeai.com/) - AI 文档解析与翻译，PDF/图片转 Word、Markdown、LaTeX，识别公式表格；免费试用与会员/积分，API 按用量另行计费
+
 - [VitePress](https://vitepress.vuejs.org) - 基于 Vite & Vue 驱动的静态站点生成器
 - [Notion](https://notion.so)
 - [Astro Starlight](https://starlight.astro.build/) - Astro 框架的文档主题站点

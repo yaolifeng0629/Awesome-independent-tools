@@ -240,6 +240,7 @@
 - [Stripe](https://stripe.com/) - 需要企业资质,开发者友好,API 强大
 - [Paddle](https://www.paddle.com/) - 手续费低，一体化支付基础设施，可简化和自动化您的计费操作，因此您可以专注于增长。
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - 一个全球支付平台，申请流程简单，不需要公司资质。提供微信、支付宝、Visa/Master 信用卡、PayPal 等多种支付方式，覆盖 130 多个国家。其核心功能包括备智能营收分析、客户跟踪系统、Affiliate 联盟营销工具、折扣码系统和支付失败恢复机制。
+- [AgentaOS](https://agentaos.ai/) - Merchant of Record，个人即可开通，无需海外公司，代缴全球 VAT 和销售税并开具发票，可向 85+ 个国家付款。
 - [PayPal](https://www.paypal.com/) - 个人账户即可使用,全球覆盖范围大
 - [Payoneer](https://www.payoneer.com/) - 个人账户可用,支持全球付款
 - [Wise](https://wise.com/) - 个人账户可用,汇率优惠,适合跨境转账

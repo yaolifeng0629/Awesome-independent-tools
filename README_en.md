@@ -237,6 +237,7 @@ Thank you to our sponsors for supporting this project!
 - [Stripe](https://stripe.com/) - Requires business credentials, developer-friendly, powerful API.
 - [Paddle](https://www.paddle.com/) - Low fees, an integrated payment infrastructure that simplifies and automates your billing operations so you can focus on growth.
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - A global payment platform with a simple application process, no company credentials required. Supports WeChat, Alipay, Visa/Mastercard, PayPal, and more, covering over 130 countries. Core features include smart revenue analysis, customer tracking, affiliate marketing tools, discount codes, and payment failure recovery.
+- [AgentaOS](https://agentaos.ai/) - Merchant of Record you can open as an individual, no company abroad needed. Handles global VAT and sales tax, issues invoices, and pays out to 85+ countries.
 - [PayPal](https://www.paypal.com/) - Personal accounts can be used, global coverage.
 - [Payoneer](https://www.payoneer.com/) - Personal accounts can be used, supports global payments.
 - [Wise](https://wise.com/) - Personal accounts can be used, favorable exchange rates, suitable for cross-border transfers.

@@ -447,6 +447,7 @@
 - [favicon](https://favicon.vwood.xyz/) - 快速通过 URL 获取站点 Favicon 图标
 - [Logo AI](https://www.logoai.com) - 一款 AI 驱动的 Logo 制作工具
 - [Favicon.im](https://favicon.im/?utm_source=gapis.money) - 一键通过 URL 获取某个网站的 icon
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - 免费，一张 1024px 图片一键生成 iOS（Xcode AppIcon）、macOS、Icon Composer（.icon）、Android（自适应、主题图标）、favicon/PWA 全部尺寸，打包成一个 ZIP；快速模式在浏览器本地运行，无需注册
 
 ### 项目管理
 

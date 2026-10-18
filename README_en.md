@@ -365,6 +365,7 @@ Thank you to our sponsors for supporting this project!
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [BatchSet](https://batchset.com/) - Bulk image converter that runs in the browser. Converts JPG, PNG, WebP, AVIF, HEIC and TIFF to WebP, JPG or PNG, compresses to a target size in KB, no upload and no signup.
 
 ### Screen Recording
 

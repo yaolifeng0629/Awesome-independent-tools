@@ -413,6 +413,7 @@ Thank you to our sponsors for supporting this project!
 
 ### Product Release
 
+- [Power CM Partners](https://partners.powercm-software.com/) - A free, nonexclusive software partner network for independent developers and publishers to create tracked campaigns and monitor visits, attributed registrations, verified sales, and commissions.
 - [PoweredByAI](https://poweredbyai.app/) - Free product submission.
 - [Pinterest](https://www.pinterest.com) - Videos posted may be indexed by Google for free.
 - [Indie Hackers](https://www.indiehackers.com/) - A community platform connecting developers to share strategies and revenue data behind their companies and side projects.

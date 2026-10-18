@@ -359,6 +359,7 @@ Thank you to our sponsors for supporting this project!
 
 ### Media Processing Tools
 
+- [ToolKnit Color Picker](https://toolknit.com/tools/color-picker.html) - Browser-based HEX, RGB and HSL conversion with complementary, analogous and triadic palettes; no account required, with a shared site-wide daily usage limit.
 - [Tinypng](https://tinypng.com/) - Image compression tool.
 - [tiny-img](https://tiny-img.com/webp/) - Compress PNG, JPG formats and convert to WEBP.
 - [Online AI Background Removal Tool](https://removebg.one/)

@@ -481,6 +481,8 @@
 
 <a name="contribute"></a>
 
+
+- [devtools.help](https://devtools.help/) - 免费在线开发者工具箱：JSON/YAML 格式化校验、正则测试、Hash/HMAC 与 JWT 工具、时间戳转换、字符串工具、二维码生成及 Go 速查表，纯浏览器运行无需注册
 ## 如何贡献
 
 我们热烈欢迎您的贡献！

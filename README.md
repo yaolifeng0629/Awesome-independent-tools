@@ -374,7 +374,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
-- [BatchSet](https://batchset.com/) - 浏览器端批量图片转换，JPG、PNG、WebP、AVIF、HEIC、TIFF 互转，可压缩到指定 KB，文件不上传，无需注册
+- [BatchSet](https://batchset.com/) - 浏览器端批量图片转换，可读取 JPG、PNG、WebP、AVIF、HEIC、TIFF，输出 WebP、JPG 或 PNG，可压缩到指定 KB，文件不上传，无需注册
 
 ### 屏幕录制
 

@@ -390,6 +390,7 @@
 
 ### 信息渠道
 
+- [AI Tools Radar](https://aitoolsradar.com/zh) - 支持十种语言的 AI 工具与模型目录，提供 Agent Skills、Prompt 图库、行业资讯和 Newsletter，帮助独立开发者发现与比较产品。
 - [信息差](https://gapis.money/) - 经常更新的独立开发者出海周刊
 - [Product Hunt](https://www.producthunt.com/) - 新产品榜单聚集地
 - [W2Solo](https://w2solo.com/) - 中文独立开发者社区

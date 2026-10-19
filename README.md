@@ -447,6 +447,7 @@
 - [favicon](https://favicon.vwood.xyz/) - 快速通过 URL 获取站点 Favicon 图标
 - [Logo AI](https://www.logoai.com) - 一款 AI 驱动的 Logo 制作工具
 - [Favicon.im](https://favicon.im/?utm_source=gapis.money) - 一键通过 URL 获取某个网站的 icon
+- [LogoMovo](https://logomovo.com/) - (付费) AI 辅助 Logo 方向与可编辑变体，支持 SVG、PNG 导出，Studio 需账号及有效套餐
 
 ### 项目管理
 
@@ -478,6 +479,8 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [AI Lab](https://ailab.packscena.com/) - 图片、文档等实用工具集合；图片压缩提供免登录基础体验，其他完整工具需积分解锁
+- [SubAtlas](https://subatlas.packscena.com/) - 订阅报价检索与规格、地区、周期对照，标注第三方报价来源、过期与待核对状态
 
 <a name="contribute"></a>
 

@@ -465,7 +465,7 @@ Thank you to our sponsors for supporting this project!
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
 - [AI Lab](https://ailab.packscena.com/) - Image and document utility collection with a guest image-compression experience; other full tools require credits. (Operator-affiliated submission via an AI assistant.)
-- [SubAtlas](https://subatlas.packscena.com/) - Subscription-quote lookup and specification, region and term comparisons, including third-party recharges, shared subscriptions and pre-made accounts; not an official store. Offer validity and seller credentials are unverified; expired and incomplete records are marked. (Operator-affiliated submission via an AI assistant.)
+- [SubAtlas](https://subatlas.packscena.com/) - Subscription-quote lookup and specification, region and term comparisons, including third-party recharges, shared subscriptions and pre-made accounts; not an official store. Offer validity and seller credentials are unverified; expired records and records pending verification are marked. (Operator-affiliated submission via an AI assistant.)
 
 <a name="contribute"></a>
 

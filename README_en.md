@@ -365,6 +365,7 @@ Thank you to our sponsors for supporting this project!
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [FileOnTap](https://fileontap.com/) - Free browser-based image and PDF converter; processing stays local and requires no account.
 
 ### Screen Recording
 

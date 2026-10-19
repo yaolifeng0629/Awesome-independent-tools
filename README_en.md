@@ -433,7 +433,7 @@ Thank you to our sponsors for supporting this project!
 - [favicon](https://favicon.vwood.xyz/) - Quickly get a site's favicon icon via URL.
 - [Logo AI](https://www.logoai.com) - An AI-driven logo creation tool.
 - [Favicon.im](https://favicon.im/?utm_source=gapis.money) - Get a website's icon with one click via URL.
-- [LogoMovo](https://logomovo.com/) - (Paid) AI-assisted logo concepts and editable variations with SVG/PNG export; Studio requires an account and an active plan.
+- [LogoMovo](https://logomovo.com/) - (Paid) AI-assisted logo concepts and editable variations with SVG/PNG export; Studio requires an account and an active plan. (Operator-affiliated submission via an AI assistant.)
 
 ### Project Management
 
@@ -464,8 +464,8 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
-- [AI Lab](https://ailab.packscena.com/) - Image and document utility collection with a guest image-compression experience; other full tools require credits.
-- [SubAtlas](https://subatlas.packscena.com/) - Subscription-quote lookup and specification, region and term comparisons, with third-party sources, expired records and unverified status marked.
+- [AI Lab](https://ailab.packscena.com/) - Image and document utility collection with a guest image-compression experience; other full tools require credits. (Operator-affiliated submission via an AI assistant.)
+- [SubAtlas](https://subatlas.packscena.com/) - Subscription-quote lookup and specification, region and term comparisons, including third-party recharges, shared subscriptions and pre-made accounts; not an official store. Offer validity and seller credentials are unverified; expired and incomplete records are marked. (Operator-affiliated submission via an AI assistant.)
 
 <a name="contribute"></a>
 

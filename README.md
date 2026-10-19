@@ -460,6 +460,7 @@
 
 ### 其他工具
 
+- [Glim](https://github.com/NeoPanic/Glim) - MIT 开源的 macOS 文件查看器，支持 Markdown、代码、PDF 和 Office 预览，以及普通 UTF-8 文本的基础编辑。
 - [黑苹果软件园](https://mackext.com/)
 - [截图工具](https://www.snipaste.com/)
 - [截图工具](https://pixpinapp.com/) - 解决了 Snipaste 长截图，gif 图问题

@@ -445,6 +445,7 @@ Thank you to our sponsors for supporting this project!
 
 ### Other Tools
 
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer for Markdown, source code, PDF and Office previews, with basic editing for ordinary UTF-8 text files.
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)
 - [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.

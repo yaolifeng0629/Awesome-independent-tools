@@ -273,6 +273,7 @@ Thank you to our sponsors for supporting this project!
 - [Tencent Rabbit Nest](https://txc.qq.com/) - A domestic product feedback platform.
 - [Tawk](https://tawk.to/) - Online customer service.
 - [Public User Feedback Tracker](https://insigh.to/)
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 ### Deployment & Hosting
 

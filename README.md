@@ -276,6 +276,7 @@
 - [腾讯兔小巢](https://txc.qq.com/) - 国内产品反馈平台
 - [Tawk](https://tawk.to/) - 在线客服
 - [公共用户反馈跟踪器](https://insigh.to/)
+- [Pulse](https://pulsecorp.co) - AI 主持的市场调研平台，可大规模开展客户访谈。
 
 ### 部署与托管
 

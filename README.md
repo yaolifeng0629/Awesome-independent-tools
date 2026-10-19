@@ -366,6 +366,8 @@
 
 ### 图片视频处理工具
 
+- [DishVivid](https://dishvivid.com/) - 食品照片编辑器，免登录手动调光、调色、裁剪并导出 JPEG；可选 AI 需登录及可用编辑次数；站点运营方通过 AI 助手提交
+
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
 - [在线 AI 抠图工具](https://removebg.one/)

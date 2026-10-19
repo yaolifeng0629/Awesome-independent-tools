@@ -359,6 +359,8 @@ Thank you to our sponsors for supporting this project!
 
 ### Media Processing Tools
 
+- [DishVivid](https://dishvivid.com/) - Food-photo editor with guest manual lighting, color and crop adjustments and JPEG download; optional AI requires sign-in and available edits. (Operator-affiliated submission via an AI assistant.)
+
 - [Tinypng](https://tinypng.com/) - Image compression tool.
 - [tiny-img](https://tiny-img.com/webp/) - Compress PNG, JPG formats and convert to WEBP.
 - [Online AI Background Removal Tool](https://removebg.one/)

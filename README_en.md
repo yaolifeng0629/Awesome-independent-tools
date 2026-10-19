@@ -365,6 +365,7 @@ Thank you to our sponsors for supporting this project!
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [Sealed Rose](https://sealedrose.com/verify-video) - (Free) Browser-based multimodal forensic detector for deepfake videos, AI-generated images, and cloned voice audio with no signup required.
 
 ### Screen Recording
 

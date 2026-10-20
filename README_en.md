@@ -359,6 +359,9 @@ Thank you to our sponsors for supporting this project!
 
 ### Media Processing Tools
 
+- [PackScena](https://packscena.com/) - Invitation-trial AI product-scene tool; generation requires a workspace invitation code and available allowance, with no current order charge. AI may alter product details; review required. (Operator-affiliated submission via an AI assistant; generation not tested.)
+- [LookScene](https://lookscene.packscena.com/) - Invitation-only AI photo-styling preview for hair, outfits and scenes; uploads occur only after sign-in, consent and a generation request. Eligible invited accounts can claim 3 credits once, valid for 30 days, with one credit per delivered image. No paid plans currently; samples are illustrations, not verified tool outputs. (Operator-affiliated submission via an AI assistant; generation not tested.)
+
 - [DishVivid](https://dishvivid.com/) - Food-photo editor with guest manual lighting, color and crop adjustments and JPEG download; optional AI requires sign-in and available edits. (Operator-affiliated submission via an AI assistant.)
 
 - [Tinypng](https://tinypng.com/) - Image compression tool.

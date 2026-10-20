@@ -457,7 +457,7 @@
 
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
-- [Frink](https://frink.dev) - (MIT 开源/本地) 人人可用的精细化自动化：通过可视化工作流，让 AI 编程智能体处理你的工单、错误和定时任务，并在做出任何修改前先征求你的同意。支持 Claude Code、Codex、OpenCode、GitHub Copilot 和 Cursor，可在 macOS 和 Linux 本地运行。
+- [Frink](https://frink.dev) - (MIT 开源/本地) 桌面优先的开源（MIT）应用，可在你已经在用的各家 AI 编程服务商上运行并行智能体，以及由定时调度、Webhook 或 Linear、Sentry 等工具的事件触发的多步骤自定义工作流。工作流除了智能体、命令和审批步骤之外，还可以包含你自己用代码编写的步骤。
 
 ### 其他工具
 

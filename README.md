@@ -366,6 +366,8 @@
 
 ### 图片视频处理工具
 
+- [NailMoodLab](https://nailmoodlab.com/) - AI 辅助美甲设计图与手照风格预览；浏览灵感免账号，AI 需登录，Free 每月5次 AI 操作；仅作创意参考，不保证真实美甲效果。（站点运营方通过 AI 助手提名；未实测生成。）
+
 - [PackScena](https://packscena.com/) - 邀请试用的 AI 商品场景图工具；生成需工作区邀请码及可用额度，当前无订单收费；AI 可能改变商品细节，须逐图核查。（站点运营方通过 AI 助手提名；未实测生成。）
 - [LookScene](https://lookscene.packscena.com/) - 邀请制 AI 照片造型预览，探索发型、服装和场景；登录、同意后提交生成才上传，受邀账号可一次领取3额度、30天有效，每交付图1额度；当前无付费套餐，示例为插画而非已验证工具输出。（站点运营方通过 AI 助手提名；未实测生成。）
 
@@ -465,6 +467,8 @@
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 
 ### 其他工具
+
+- [ResumePlot](https://resumeplot.com/) - AI 辅助简历编辑、职位改写与 PDF/JSON 导出；英文定价列示 Free 含1份本地简历、3个核心模板、每月3次 PDF 导出，登录后每月5次 AI 编辑；付费套餐自动续费。编辑与导入在浏览器内，AI、云存储和分享会发送相关内容至服务。（站点运营方通过 AI 助手提名；未实测 AI 或 ATS。）
 
 - [黑苹果软件园](https://mackext.com/)
 - [截图工具](https://www.snipaste.com/)

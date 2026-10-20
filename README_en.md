@@ -359,6 +359,8 @@ Thank you to our sponsors for supporting this project!
 
 ### Media Processing Tools
 
+- [NailMoodLab](https://nailmoodlab.com/) - AI-assisted nail-design images and hand-photo style previews; browsing needs no account, while AI requires sign-in, with 5 AI actions per month on Free. Creative reference, not a guarantee of real manicure results. (Operator-affiliated submission via an AI assistant; generation not tested.)
+
 - [PackScena](https://packscena.com/) - Invitation-trial AI product-scene tool; generation requires a workspace invitation code and available allowance, with no current order charge. AI may alter product details; review required. (Operator-affiliated submission via an AI assistant; generation not tested.)
 - [LookScene](https://lookscene.packscena.com/) - Invitation-only AI photo-styling preview for hair, outfits and scenes; uploads occur only after sign-in, consent and a generation request. Eligible invited accounts can claim 3 credits once, valid for 30 days, with one credit per delivered image. No paid plans currently; samples are illustrations, not verified tool outputs. (Operator-affiliated submission via an AI assistant; generation not tested.)
 
@@ -450,6 +452,8 @@ Thank you to our sponsors for supporting this project!
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools
+
+- [ResumePlot](https://resumeplot.com/) - AI-assisted resume editing, job tailoring and PDF/JSON export. English pricing lists Free with 1 local resume, 3 core templates, 3 PDF exports/month and 5 AI edits/month after sign-in; paid plans auto-renew. Editing/import stay in-browser; AI, cloud saves and sharing send relevant content to the service. (Operator-affiliated submission via an AI assistant; AI and ATS not tested.)
 
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)

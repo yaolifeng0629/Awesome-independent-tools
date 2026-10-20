@@ -359,6 +359,13 @@ Thank you to our sponsors for supporting this project!
 
 ### Media Processing Tools
 
+- [NailMoodLab](https://nailmoodlab.com/) - AI-assisted nail-design images and hand-photo style previews; browsing needs no account, while AI requires sign-in, with 5 AI actions per month on Free. Creative reference, not a guarantee of real manicure results. (Operator-affiliated submission via an AI assistant; generation not tested.)
+
+- [PackScena](https://packscena.com/) - Invitation-trial AI product-scene tool; generation requires a workspace invitation code and available allowance, with no current order charge. AI may alter product details; review required. (Operator-affiliated submission via an AI assistant; generation not tested.)
+- [LookScene](https://lookscene.packscena.com/) - Invitation-only AI photo-styling preview for hair, outfits and scenes; uploads occur only after sign-in, consent and a generation request. Eligible invited accounts can claim 3 credits once, valid for 30 days, with one credit per delivered image. No paid plans currently; samples are illustrations, not verified tool outputs. (Operator-affiliated submission via an AI assistant; generation not tested.)
+
+- [DishVivid](https://dishvivid.com/) - Food-photo editor with guest manual lighting, color and crop adjustments and JPEG download; optional AI requires sign-in and available edits. (Operator-affiliated submission via an AI assistant.)
+
 - [Tinypng](https://tinypng.com/) - Image compression tool.
 - [tiny-img](https://tiny-img.com/webp/) - Compress PNG, JPG formats and convert to WEBP.
 - [Online AI Background Removal Tool](https://removebg.one/)
@@ -433,6 +440,7 @@ Thank you to our sponsors for supporting this project!
 - [favicon](https://favicon.vwood.xyz/) - Quickly get a site's favicon icon via URL.
 - [Logo AI](https://www.logoai.com) - An AI-driven logo creation tool.
 - [Favicon.im](https://favicon.im/?utm_source=gapis.money) - Get a website's icon with one click via URL.
+- [LogoMovo](https://logomovo.com/) - (Paid) AI-assisted logo concepts and editable variations with SVG/PNG export; Studio requires an account and an active plan. (Operator-affiliated submission via an AI assistant.)
 
 ### Project Management
 
@@ -444,6 +452,8 @@ Thank you to our sponsors for supporting this project!
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools
+
+- [ResumePlot](https://resumeplot.com/) - AI-assisted resume editing, job tailoring and PDF/JSON export. English pricing lists Free with 1 local resume, 3 core templates, 3 PDF exports/month and 5 AI edits/month after sign-in; paid plans auto-renew. Editing/import stay in-browser; AI, cloud saves and sharing send relevant content to the service. (Operator-affiliated submission via an AI assistant; AI and ATS not tested.)
 
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)
@@ -463,6 +473,8 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
+- [AI Lab](https://ailab.packscena.com/) - Image and document utility collection with a guest image-compression experience; other full tools require credits. (Operator-affiliated submission via an AI assistant.)
+- [SubAtlas](https://subatlas.packscena.com/) - Subscription-quote lookup and specification, region and term comparisons, including third-party recharges, shared subscriptions and pre-made accounts; not an official store. Offer validity and seller credentials are unverified; expired records and records pending verification are marked. (Operator-affiliated submission via an AI assistant.)
 
 <a name="contribute"></a>
 

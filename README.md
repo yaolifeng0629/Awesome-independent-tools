@@ -373,6 +373,7 @@
 - [video 转 gif](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
+- [Nano Banana 2.1](https://nano-banana21.org/) - 在线 AI 图像生成与编辑工具，支持文生图、自然语言修图、多图主体一致和图中文字渲染
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
 
 ### 屏幕录制

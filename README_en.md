@@ -104,6 +104,7 @@ Thank you to our sponsors for supporting this project!
 - [Opensaas](https://github.com/wasp-lang/open-saas/) - (Free) Built with React + Node.js, integrated with login, payment (Stripe), email, and AI features.
 - [Shipfast](https://shipfa.st/) - (Paid) Built with Next.js, integrated with login, payment (Stripe), email, and AI features.
 - [SupaStarter](https://supastarter.dev) - (Paid) Offers both Next.js and Nuxt templates, feature-rich.
+- [FastAPI Supabase Starter](https://starter.budeglobal.in/) - (Paid) Python template on FastAPI + React, integrated with login, teams and permissions, payment (Stripe, Razorpay), an AI assistant and an MCP server.
 - [SaaS-Boilerplate](https://react-saas.com/) - An open-source SaaS template, perfect for building your own SaaS application.
 - [nextjs subscription payments](https://subscription-payments.vercel.app/) - Open-sourced by Vercel, uses Stripe for payments.
 - [boilerplatelist](https://boilerplatelist.com/) - Over 130 best SaaS boilerplates and starter kits, with guidance on evaluating and selecting the best SaaS boilerplate for your project needs.

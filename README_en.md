@@ -410,6 +410,7 @@ Thank you to our sponsors for supporting this project!
 - [A Method to Get High-Weight Stripe Backlinks (DR93)](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
 - [Keyword Analysis Website](https://ahrefs.com/zh/keywords-explorer)
 - [I Successfully Ran the Global Payment Process](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+- [Indie Radar](https://radar.everythingisok.top) - Curated daily signals, high-growth tools, and open-source infrastructure for indie hackers and global builders.
 
 ### Product Release
 

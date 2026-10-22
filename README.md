@@ -419,6 +419,7 @@
 - [一个获取 stripe 高权重外链（DR93）的方法](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
 - [关键词分析网站](https://ahrefs.com/zh/keywords-explorer)
 - [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+- [Indie Radar](https://radar.everythingisok.top) - 专为出海开发者与独立黑客打造的 90% 降噪情报雷达，每日精选海外新工具、开源基建与变现实录
 
 ### 产品发布
 

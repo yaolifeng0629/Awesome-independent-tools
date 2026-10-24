@@ -447,6 +447,7 @@
 - [favicon](https://favicon.vwood.xyz/) - 快速通过 URL 获取站点 Favicon 图标
 - [Logo AI](https://www.logoai.com) - 一款 AI 驱动的 Logo 制作工具
 - [Favicon.im](https://favicon.im/?utm_source=gapis.money) - 一键通过 URL 获取某个网站的 icon
+- [EmojiFavicons](https://emojifavicons.com/) - 免费 emoji favicon 生成器：一行 link 标签即可把任意 emoji 用作网站图标（SVG/PNG/ICO），无需注册
 
 ### 项目管理
 

@@ -290,6 +290,7 @@
 - [Zeabur](https://zeabur.com/) - 一个提供一键部署、无限扩展的云平台
 - [inngest](https://github.com/inngest/inngest) - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
 - [Sink](https://github.com/ccbikai/Sink) - 一个简单/快速/安全的链接缩短器，带有分析功能，100% 运行在 Cloudflare 上。
+- [apkgo](https://github.com/KevinGong2013/apkgo) - (开源 CLI / 托管版) 一次上传，并发发布到国内主流安卓应用商店，支持鸿蒙与 iOS；许可 PolyForm Noncommercial；托管版 https://apkgo.baici.tech
 
 ### 网站管理
 

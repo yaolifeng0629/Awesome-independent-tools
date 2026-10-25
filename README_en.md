@@ -286,6 +286,7 @@ Thank you to our sponsors for supporting this project!
 - [Zeabur](https://zeabur.com/) - A cloud platform offering one-click deployment and unlimited scaling.
 - [inngest](https://github.com/inngest/inngest) - Inngest is a developer platform that combines event streams, queues, and persistent execution into a single reliability layer.
 - [Sink](https://github.com/ccbikai/Sink) - A simple/fast/secure link shortener with analytics, 100% running on Cloudflare.
+- [apkgo](https://github.com/KevinGong2013/apkgo) - (Source-available CLI / hosted) Upload once and publish concurrently to major Chinese Android app stores; also supports HarmonyOS and iOS; license PolyForm Noncommercial; hosted: https://apkgo.baici.tech
 
 ### Site Management
 

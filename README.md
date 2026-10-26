@@ -468,6 +468,7 @@
 - [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/) - IDM 的替代软件
 - [KMS](https://kms.cx/#) - KMS 一键激活 windows/office
 - [cobalt](https://cobalt.tools/) - 各类资源下载神器，只需一个 URL
+- [VideoSaver](https://www.free-videodownload.com) - Free browser multi-platform video downloader (TikTok, Instagram, X, Facebook, and more).
 - [toSound](https://www.tosound.com/) - 免费音效素材资源下载
 - [美国虚拟地址生成器](https://www.fakexy.com/fake-address-generator-ca)
 - [code share](https://codeshare.io/) - 实时代码共享工具

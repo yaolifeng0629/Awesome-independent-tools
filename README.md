@@ -478,6 +478,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [ToolStack](https://tools.mindutil.com/en) - 122 款免费在线工具箱，JSON / Base64 / 图片 / PDF / 单位换算 / 颜色等工具全部在浏览器本地运行，文件不上传服务器，无需注册。
 
 <a name="contribute"></a>
 

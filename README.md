@@ -276,6 +276,7 @@
 - [腾讯兔小巢](https://txc.qq.com/) - 国内产品反馈平台
 - [Tawk](https://tawk.to/) - 在线客服
 - [公共用户反馈跟踪器](https://insigh.to/)
+- [WishKit](https://www.wishkit.io) - iOS 和 Web 应用内的功能需求与反馈看板，用户可以提交和投票，有免费版
 
 ### 部署与托管
 

@@ -273,6 +273,7 @@ Thank you to our sponsors for supporting this project!
 - [Tencent Rabbit Nest](https://txc.qq.com/) - A domestic product feedback platform.
 - [Tawk](https://tawk.to/) - Online customer service.
 - [Public User Feedback Tracker](https://insigh.to/)
+- [WishKit](https://www.wishkit.io) - In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Has a free plan.
 
 ### Deployment & Hosting
 

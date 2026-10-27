@@ -363,6 +363,7 @@
 - [vectorCraftr](https://vectorcraftr.com/?utm_source=gapis.money) - 大量免费的插图素材
 - [pexels](https://www.pexels.com/zh-cn/) - 免费素材高清图片
 - [vectorizer](https://vectorizer.com/zh/) - 图片矢量化
+- [PicGens](https://www.picgens.com/) - (免费) AI 生图 / 生视频提示词图库，每张卡片含结果图、模型与创作者来源，可一键复制，无需注册浏览。
 
 ### 图片视频处理工具
 

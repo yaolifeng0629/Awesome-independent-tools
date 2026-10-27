@@ -423,6 +423,7 @@
 ### 产品发布
 
 - [PoweredByAI](https://poweredbyai.app/) - 免费提交产品
+- [RespawnStack](https://respawnstack.com/) - 面向游戏开发者的精选 AI 工具目录，可免费浏览与提交
 - [Pinterest](https://www.pinterest.com) - 发布的视频可能会被 Google 收录且免
   费
 - [Indie Hackers](https://www.indiehackers.com/) - 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据

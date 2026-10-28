@@ -478,6 +478,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 免费开源的 macOS 多显示器窗口与屏幕管理工具，拔插外接屏或休眠唤醒后自动把窗口放回原显示器和所属桌面（Space），支持按 C 口切换排列、外接屏亮度跟随内建屏幕环境光自动变化及 4 档防休眠
 
 <a name="contribute"></a>
 

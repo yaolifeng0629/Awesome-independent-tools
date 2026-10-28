@@ -314,6 +314,7 @@
 - [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
 - [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)
 - [利用 CNAME 域名提高网站访问速度](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
+- [WebToolBench SSL 证书检测](https://www.webtoolbench.com/ssl-certificate-checker) - (免费) 查看网站 SSL 证书的签发机构、到期时间和覆盖的域名，无需注册
 
 ### 域名注册
 

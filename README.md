@@ -478,6 +478,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [涟漪 (Ripple)](https://ripplefocus.github.io/) - (免费) 安卓戒短视频与防冲动卸载自控工具，支持单独拦截微信视频号、朋友圈、YouTube Shorts 与 Instagram Reels，内置 15 分钟单调时钟冷静期与免电脑本机无线调试防卸载
 
 <a name="contribute"></a>
 

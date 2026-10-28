@@ -463,6 +463,7 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
+- [Ripple](https://ripplefocus.github.io/en/) - (Free) Android app and short-form video blocker (YouTube Shorts, Instagram Reels, WeChat Channels) with a 15-minute monotonic-clock cooldown and self-healing wireless debugging uninstall protection
 
 <a name="contribute"></a>
 

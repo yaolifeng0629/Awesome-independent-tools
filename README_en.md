@@ -463,6 +463,7 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Free open-source macOS multi-monitor window and display utility that restores windows to their assigned monitor and Space on reconnect, with per-port display arrangements, ambient brightness sync over DDC, and 4-mode Keep Awake.
 
 <a name="contribute"></a>
 

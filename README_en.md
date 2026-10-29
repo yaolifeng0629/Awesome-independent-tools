@@ -129,6 +129,7 @@ Thank you to our sponsors for supporting this project!
 - [crxjs](https://github.com/crxjs/chrome-extension-tools) - A tool library designed to simplify the Chrome extension bundling process.
 - [extension.js](https://github.com/extension-js/extension.js) - A no-config, cross-browser extension development tool supporting TypeScript, WebAssembly, React, and modern JavaScript, designed for practicality and rapid prototyping.
 - [Chrome Stats](https://chrome-stats.com/) - A tool to discover Chrome extension needs.
+- [ExtensionDash](https://extensiondash.com/) - Search Chrome and Firefox extension catalogs and track your own keyword rankings and competitors, including through an MCP connection to your AI agent.
 - [How to add a 🏅 "Featured" badge to your Chrome extension?](https://x.com/HongyuanCao/status/1821558568132497629)
 
 ### Frontend Development

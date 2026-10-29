@@ -130,6 +130,7 @@
 - [crxjs](https://github.com/crxjs/chrome-extension-tools) - 是一个旨在简化 Chrome 扩展程序捆绑过程的工具库
 - [extension.js](https://github.com/extension-js/extension.js) - 一个无需配置、跨浏览器的扩展开发工具，支持 TypeScript、WebAssembly、React 和现代 JavaScript，专为实用性和快速原型设计而设计
 - [Chrome Stats](https://chrome-stats.com/) - 挖掘 Chrome 扩展需求神器
+- [ExtensionDash](https://extensiondash.com/) - 搜索 Chrome 和 Firefox 扩展目录，追踪自己扩展的关键词排名与竞品，也可通过 MCP 连接 AI 助手查询。
 - [给你谷歌插件增加 🏅“精选”徽章标识？](https://x.com/HongyuanCao/status/1821558568132497629)
 
 ### 前端开发

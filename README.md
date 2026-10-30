@@ -473,6 +473,7 @@
 - [code share](https://codeshare.io/) - 实时代码共享工具
 - [Monica](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) - 针对每个网站推荐常用的 AI 工具，一点即用
 - [QuickType](https://quicktype.io/) - 一键可以将一个 JSON 结构生成对应的类型
+- [BestJSON](https://bestjson.com/) - 在浏览器本地格式化、校验、预览修复和比较 JSON，无需注册或上传输入。
 - [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
 - [Remotion](https://www.remotion.dev/) - 一个通过编码创建视频的工具
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)

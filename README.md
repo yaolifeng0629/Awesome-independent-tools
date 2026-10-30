@@ -476,6 +476,7 @@
 - [Linear](https://linear.app/) - Linear 是一个项目管理和任务跟踪软件
 - [Remotion](https://www.remotion.dev/) - 一个通过编码创建视频的工具
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
+- [CurlShot](https://curlshot.com/) - 网页截图 API 和免费在线工具：把 URL、HTML 或 Markdown 转成 PNG、JPEG、WebP、PDF 或滚动视频，自动屏蔽广告和 Cookie 弹窗，免费版每月 100 张
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
 

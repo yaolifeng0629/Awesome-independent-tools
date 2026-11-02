@@ -296,6 +296,7 @@ Thank you to our sponsors for supporting this project!
 - [Sentry](https://sentry.io/welcome/) - Free tier should be sufficient, also has an open-source version.
 - [Locust](https://locust.io/) - An open-source load testing tool.
 - [chinaz](https://tool.chinaz.com/) - A collection of various webmaster tools.
+- [LapseZero](https://cn.lapsezero.com/) - (Free tier) Automatic SSL certificate issuance, renewal and deployment to Nginx and supported cloud services, including Alibaba Cloud and Tencent Cloud. Includes 3 domains, 5 deployment targets and 5 certificate monitors for free.
 - [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - Free HTTPS certificates, automatic updates, and deployment.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - One-click generation of free SSL certificates.
 - [Easy Barcode](https://www.1txm.com/) - A professional online barcode generation tool.

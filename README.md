@@ -301,6 +301,7 @@
 - [Sentry](https://sentry.io/welcome/) - 免费额度应该是够用的，同样也有开源 版本。
 - [Locust](https://locust.io/) - 一个开源的负载测试工具。
 - [chinaz](https://tool.chinaz.com/) - 多种集合站长工具
+- [LapseZero](https://cn.lapsezero.com/) - （免费额度）SSL 证书自动申请、续期和部署，支持 Nginx、阿里云、腾讯云等目标；免费管理 3 个域名、5 个部署目标和 5 个证书监控。
 - [OHTTPS](https://www.ohttps.com?invitationCode=17xk289exdm09d43) - 免费 HTTPS 证书、自动更新、自动部署
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - 免费 SSL 证书一键生成
 - [易条形](https://www.1txm.com/) - 一款专业的在线条形码生成工具

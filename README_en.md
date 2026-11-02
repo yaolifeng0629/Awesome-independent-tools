@@ -446,7 +446,6 @@ Thank you to our sponsors for supporting this project!
 ### Other Tools
 
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) - GPL-3.0-only macOS network diagnostics with an interactive terminal interface, JSON output and a local stdio MCP server for DNS, latency and proxy checks.
-
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)
 - [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.

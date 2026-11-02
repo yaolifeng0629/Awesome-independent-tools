@@ -288,6 +288,7 @@
 - [AirCode](https://aircode.io/) - 字节出品
 - [Netlify](https://www.netlify.com/)
 - [Zeabur](https://zeabur.com/) - 一个提供一键部署、无限扩展的云平台
+- [Buddy](https://buddy.works) - (免费/付费) 面向 AI 编程代理的基础设施，提供沙箱虚拟机、应用与网站托管、Git 仓库和 CI/CD 工作流
 - [inngest](https://github.com/inngest/inngest) - Inngest 是一个开发者平台，将事件流、队列和持久执行结合在一起，形成一个单一的可靠性层。
 - [Sink](https://github.com/ccbikai/Sink) - 一个简单/快速/安全的链接缩短器，带有分析功能，100% 运行在 Cloudflare 上。
 

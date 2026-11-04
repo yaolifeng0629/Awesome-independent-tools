@@ -429,6 +429,7 @@ Thank you to our sponsors for supporting this project!
 ### Product Release
 
 - [PoweredByAI](https://poweredbyai.app/) - Free product submission.
+- [CodeTrendy](https://codetrendy.com/) - Directory of startups and developer tools. Free listing requires a homepage badge, paid plans from $19.
 - [Pinterest](https://www.pinterest.com) - Videos posted may be indexed by Google for free.
 - [Indie Hackers](https://www.indiehackers.com/) - A community platform connecting developers to share strategies and revenue data behind their companies and side projects.
 - [Tweeteasy](https://tweeteasy.io) - An easy-to-use Twitter AI tool that lets you easily create engaging posts, get reply ideas, add emojis, change tone, fix spelling and grammar, and translate into English.

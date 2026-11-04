@@ -37,10 +37,10 @@ Thank you to our sponsors for supporting this project!
 </tr>
 <tr>
 <td width="200" align="center" valign="middle">
-<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">
+<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG">
 <img src="assets/img/nexotoken-sponsor.png" alt="NexoToken GPT API membership plan" width="190" />
 </a>
-<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
 </td>
 <td>
 <p><strong>Make AI coding and app development easier</strong></p>
@@ -48,7 +48,22 @@ Thank you to our sponsors for supporting this project!
 <p><strong>Membership plan:</strong> The GPT API membership costs <strong>¥99</strong> and includes <strong>$1,000 in platform usage credits</strong>, <strong>valid for 30 days with no weekly usage cap</strong>. Usage is deducted from the plan's total credits based on actual API calls, so you can use them at your project's pace.</p>
 <p><strong>Platform promotions:</strong> Prize draws are held every Thursday, with platform credits and top-up coupons as prizes. Daily usage that meets the promotion requirements may also qualify for credit rebates of up to <strong>10 platform credits</strong>.</p>
 <p><strong>Exclusive reader benefits:</strong> Register through the link below to receive an additional <strong>¥5 discount coupon for top-ups of ¥20 or more</strong>, on top of the platform's standard new-user benefits. The coupon is <strong>valid for 7 days after it is claimed</strong>, and <strong>each new user can claim it once</strong>.</p>
-<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">View membership plans and claim your exclusive benefits →</a></p>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG">View membership plans and claim your exclusive benefits →</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://go.nli.one/immerse">
+<img src="assets/img/whop-sponsor.png" alt="Whop" width="190" />
+</a>
+<p><a href="https://go.nli.one/immerse"><strong>Whop</strong></a></p>
+</td>
+<td>
+<p><strong>Sponsored by Whop</strong></p>
+<p>Launch and sell your <strong>digital products, communities, and software</strong>.</p>
+<p><strong>Partner benefits:</strong> After signing up through our partner link, you get exclusive resources by private message, plus reduced fees within <strong>24 to 48 hours</strong>. You also get personal support to grow your business through Whop's partnership with Awesome-independent-tools.</p>
+<p><a href="https://go.nli.one/immerse">Start on Whop →</a></p>
 </td>
 </tr>
 </table>

@@ -36,12 +36,13 @@
 <p><a href="https://gencrafters.com">了解 GenCrafters →</a></p>
 </td>
 </tr>
+
 <tr>
 <td width="200" align="center" valign="middle">
-<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">
+<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG">
 <img src="assets/img/nexotoken-sponsor.png" alt="NexoToken GPT API 会员套餐介绍" width="190" />
 </a>
-<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
 </td>
 <td>
 <p><strong>让 AI 编程与应用开发更从容</strong></p>
@@ -49,9 +50,25 @@
 <p><strong>会员套餐：</strong>GPT API 会员套餐 <strong>¥99</strong>，享 <strong>$1,000 平台调用额度</strong>，<strong>30 天有效，无周额度限制</strong>，按实际调用扣减套餐总额度，让你根据项目节奏灵活安排用量。</p>
 <p><strong>平台活动：</strong>每周四固定抽奖，奖品包括平台额度和充值优惠券；每日使用达到活动条件，还可获得额度返还，最高 <strong>10 平台额度</strong>。</p>
 <p><strong>读者专属福利：</strong>通过下方专属链接注册，在平台新人体验福利之外，额外领取一张<strong>满 20 减 5 元充值券</strong>，领取后 <strong>7 天有效</strong>，<strong>每位新用户限领一次</strong>。</p>
-<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&amp;acq=pgJmR7QdCe5IAkY-UU6SwiMG">查看会员套餐，领取专属福利 →</a></p>
+<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG">查看会员套餐，领取专属福利 →</a></p>
 </td>
 </tr>
+
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://go.nli.one/immerse">
+<img src="assets/img/whop-sponsor.png" alt="Whop" width="190" />
+</a>
+<p><a href="https://go.nli.one/immerse"><strong>Whop</strong></a></p>
+</td>
+<td>
+<p><strong>Whop 赞助支持</strong></p>
+<p>通过 Whop 发布并销售你的<strong>数字产品、社区和软件</strong>。</p>
+<p><strong>合作专属福利：</strong>通过合作链接注册后，可通过私信获取专属资源，并在 <strong>24–48 小时内享受费率优惠</strong>。借助 Whop 与 Awesome-independent-tools 的合作，还可获得业务增长方面的个性化支持。</p>
+<p><a href="https://go.nli.one/immerse">开始使用 Whop →</a></p>
+</td>
+</tr>
+
 </table>
 
 </details>

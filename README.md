@@ -206,6 +206,7 @@
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn/ui](https://ui.shadcn.com/)
+- [OTF UI](https://otf-kit.dev/components?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-awesome-independent-tools-otf-components) - 免费的 MIT UI 组件库，支持 Web、iOS 和 Android；包含 109 个有文档的可安装组件（90 个 Web、19 个 React Native），详见 [SDK](https://github.com/otf-kit/sdk)。
 - [NextUI](https://nextui.org/)
 - [radix-ui](https://www.radix-ui.com/)
 - [midday.ai](https://midday.ai/) - 企业财务自动化，关联了各大银行账单，将重复的会计工作程序化、生成财务报告、发票开具。

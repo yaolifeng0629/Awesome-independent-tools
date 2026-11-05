@@ -454,6 +454,7 @@
 - [Gingiris 开源项目增长 Playbook](https://github.com/Gingiris/gingiris-opensource) - 从 0 到 60k+ GitHub Star 的完整操盘手册，覆盖 HN、Reddit、V2EX 等全渠道推广策略
 - [Gingiris B2B SaaS 增长 Playbook](https://github.com/Gingiris/gingiris-b2b-growth) - 从 PMF 到 $10M ARR 的完整增长框架，含 PLG/SLG/渠道合作策略和可直接使用的模板
 - [Gingiris ASO & App 冷启动 Playbook](https://github.com/Gingiris/gingiris-aso-growth) - App Store 和 Google Play 关键词优化、元数据策略与冷启动用户获取完整指南
+- [MEDIAPRONET](https://mediapronet.com/) - 精选目录，创始人可提交新的创业项目、SaaS 工具和独立产品
 
 ### Logo 设计
 

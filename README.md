@@ -495,6 +495,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [giffgaff Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/) - 专为境外卡/giffgaff 用户设计的 180 天保号日历提醒工具，纯本地运行生成 .ics，免注册不存数据。
 
 <a name="contribute"></a>
 

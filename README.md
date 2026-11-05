@@ -443,6 +443,7 @@
 - [Pinterest](https://www.pinterest.com) - 发布的视频可能会被 Google 收录且免
   费
 - [Indie Hackers](https://www.indiehackers.com/) - 一个社区平台，它连接开发者们共同分享他们的公司和副业背后的策略和收入数据
+- [SitePatent](https://sitepatent.com/) - 面向独立开发者的产品目录，按分类和技术栈收录创业项目、工具和在线产品
 - [Tweeteasy](https://tweeteasy.io) - 一款易于使用的 Twitter AI 工具，可以让你轻松创建引人入胜的帖子、获取回复想法、添加表情符号、更改语气、修复拼写和语法以及翻译成英语
 - [流光卡片](https://fireflycard.shushiai.com/en) - 一款文字排版海报生成推广工具
 - [在线英文签名](https://codepen.io/kiranpate1/full/ExBpaeW)

@@ -127,6 +127,7 @@
 - [SaaS-Boilerplate](https://react-saas.com/) - 一款开源的 SaaS 模板，非常适合构建自己的 SaaS 应用
 - [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe
 - [boilerplatelist](https://boilerplatelist.com/) - 超过 130 个最佳 SaaS 样板和入门套件，并提供了评估和选择最适合项目需求的 SaaS 样板的指导
+- [Boilerplates Directory](https://boilerplates.directory/) - 按技术栈、定价模式和功能对比入门套件与 SaaS 样板的目录
 - [Taxonomy](https://github.com/shadcn-ui/taxonomy) - 基于 Next.js 13 和 React 18 构建的开源 Web 应用实验项目
 - [unibest](https://github.com/codercup/unibest) - unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板
 - [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用

@@ -122,6 +122,7 @@ Thank you to our sponsors for supporting this project!
 - [SaaS-Boilerplate](https://react-saas.com/) - An open-source SaaS template, perfect for building your own SaaS application.
 - [nextjs subscription payments](https://subscription-payments.vercel.app/) - Open-sourced by Vercel, uses Stripe for payments.
 - [boilerplatelist](https://boilerplatelist.com/) - Over 130 best SaaS boilerplates and starter kits, with guidance on evaluating and selecting the best SaaS boilerplate for your project needs.
+- [Boilerplates Directory](https://boilerplates.directory/) - Directory that compares starter kits and SaaS boilerplates by stack, pricing model and features.
 - [Taxonomy](https://github.com/shadcn-ui/taxonomy) - An open-source web application experiment built with Next.js 13 and React 18.
 - [unibest](https://github.com/codercup/unibest) - A cross-platform quick-start template powered by uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI.
 - [mp-html](https://github.com/jin-yufeng/mp-html) - A mini-program rich text component that supports rendering and editing HTML, compatible with WeChat, QQ, Baidu, Alipay, Toutiao, and uni-app platforms.

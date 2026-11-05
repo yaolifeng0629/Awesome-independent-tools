@@ -201,6 +201,7 @@ Thank you to our sponsors for supporting this project!
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn/ui](https://ui.shadcn.com/)
+- [OTF UI](https://otf-kit.dev/components?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-awesome-independent-tools-otf-components) - Free MIT component library for web, iOS, and Android, with 109 documented installable components (90 web, 19 React Native); see the [SDK](https://github.com/otf-kit/sdk).
 - [NextUI](https://nextui.org/)
 - [radix-ui](https://www.radix-ui.com/)
 - [midday.ai](https://midday.ai/) - Enterprise financial automation, linking major bank statements, automating repetitive accounting tasks, generating financial reports, and invoicing.

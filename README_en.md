@@ -380,6 +380,7 @@ Thank you to our sponsors for supporting this project!
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
+- [Captions Generator](https://captionsgenerator.app/) - AI caption and subtitle generator: transcribe speech automatically, edit the text and style, translate into 100+ languages, export SRT/VTT or MP4 with burned-in captions.
 
 ### Screen Recording
 

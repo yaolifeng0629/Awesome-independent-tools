@@ -391,6 +391,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [KaijuConverter](https://kaijuconverter.com) - 万能在线文件与多媒体转换工具，支持文档、PDF、图片、音视频等 100+ 格式极速转换，内置浏览器端处理与开放 API
 
 ### 屏幕录制
 

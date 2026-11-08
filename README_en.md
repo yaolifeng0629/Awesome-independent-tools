@@ -329,6 +329,7 @@ Thank you to our sponsors for supporting this project!
 - [Cloudflare](https://cloudflare.com)
 - [Namesilo](https://www.namesilo.com) - Automatically blocks whois.
 - [tld-list](https://tld-list.com/) - A domain price comparison site, comparing prices for each domain suffix across 54 registrars.
+- [TLD Renewal Prices](https://github.com/AlonDrilich/tld-renewal-prices) - Weekly CSV (CC BY 4.0) of first-year vs renewal list prices for 532 TLDs, to catch extensions that are cheap in year one and renew at 5-15x.
 - [Dynadot](https://www.dynadot.com/) - Provides a one-stop solution for domain registration, management, and email.
 - [Godaddy](https://www.godaddy.com/zh-sg) - Godaddy, you know it.
 - [ByteDance Volcano Engine](https://www.volcengine.com/product/domain-service) - A domestic platform, the preferred choice for .cn domains.

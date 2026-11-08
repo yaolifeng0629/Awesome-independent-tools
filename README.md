@@ -338,7 +338,7 @@
 - [Cloudflare](https://cloudflare.com)
 - [Namesilo](https://www.namesilo.com) - 自动屏蔽 whois
 - [tld-list](https://tld-list.com/) - 域名购买比价网，比较 54 个注册商的每个域名后缀的价格
-- [TLD Renewal Prices](https://github.com/AlonDrilich/tld-renewal-prices) - 每周更新的 CSV（CC BY 4.0），对比 532 个域名后缀的首年价格和续费价格，避开首年便宜、续费贵 5-15 倍的后缀
+- [TLD Renewal Prices](https://github.com/AlonDrilich/tld-renewal-prices) - 每周更新的 CSV（CC BY 4.0），对比单一注册商（Porkbun）532 个域名后缀的首年价格和续费价格，避开首年便宜、续费却贵好几倍的后缀
 - [Dynadot](https://www.dynadot.com/) - 提供了域名注册和管理、以及邮箱的一站式解决方案
 - [Godaddy](https://www.godaddy.com/zh-sg) - 狗爹，懂的都懂
 - [字节火山引擎](https://www.volcengine.com/product/domain-service) - 国内平台，cn 域名首选平台

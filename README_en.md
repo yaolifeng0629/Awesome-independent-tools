@@ -460,6 +460,9 @@ Thank you to our sponsors for supporting this project!
 
 ### Other Tools
 
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD (calendar, timer, notes).
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native macOS PDF reader.
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)
 - [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.

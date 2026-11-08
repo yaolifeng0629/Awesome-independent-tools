@@ -476,6 +476,9 @@
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 
 ### 其他工具
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - macOS 菜单栏生产力 HUD（日历、倒计时、便签）
+- [Tape](https://github.com/Yvsleyen00941/Tape) - 原生 macOS 股票加密行情工具，常驻 Dock 旁未占用角落
+- [Rime](https://github.com/Yvsleyen00941/Rime) - 极简专注的 macOS 原生 PDF 阅读工具
 
 - [黑苹果软件园](https://mackext.com/)
 - [截图工具](https://www.snipaste.com/)

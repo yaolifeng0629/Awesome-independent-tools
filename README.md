@@ -478,7 +478,7 @@
 ### 其他工具
 - [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - macOS 菜单栏生产力 HUD（日历、倒计时、便签）
 - [Tape](https://github.com/Yvsleyen00941/Tape) - 原生 macOS 股票加密行情工具，常驻 Dock 旁未占用角落
-- [Rime](https://github.com/Yvsleyen00941/Rime) - 极简专注的 macOS 原生 Markdown 阅读与写作工具
+- [Rime](https://github.com/Yvsleyen00941/Rime) - 极简专注的 macOS 原生 PDF 阅读工具
 
 - [黑苹果软件园](https://mackext.com/)
 - [截图工具](https://www.snipaste.com/)

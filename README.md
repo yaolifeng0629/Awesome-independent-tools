@@ -272,6 +272,7 @@
 - [postmark templates](https://github.com/activecampaign/postmark-templates) - 电子邮件模板编辑工具
 - [临时邮箱](https://www.linshiyouxiang.net/)
 - [临时 Gmail 邮箱](https://22.do/)
+- [MailVeri](https://mailveri.com/) - Email verification API and bulk list cleaning with catch-all, disposable and role detection, plus an open-source MCP server
 
 ### 网站分析
 

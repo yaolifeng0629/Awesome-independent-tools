@@ -547,3 +547,6 @@
 ## 贡献者
 
 <a href="https://github.com/yaolifeng0629/Awesome-independent-tools/graphs/contributors"><img src="https://contrib.nn.ci/api?repo=yaolifeng0629/Awesome-independent-tools" /></a>
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Mac桌面边角音乐播放状态显示工具，原生SwiftUI开发。

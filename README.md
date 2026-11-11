@@ -472,6 +472,8 @@
 
 ### AI 资源
 
+- [FlashData Google 搜索与 YouTube 数据工具](https://flashdata.dev/mcp) - MIT 开源 MCP/CLI 客户端与十五个任务 Skills，提供 Google 六类搜索以及 YouTube 搜索、元数据、已有字幕、频道、建议和下载能力；数据调用需 API Key 和付费 Credits。[源码](https://github.com/rocosen/flashdata-mcp)。
+
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 

@@ -456,6 +456,7 @@ Thank you to our sponsors for supporting this project!
 
 ### AI Resources
 
+- [FlashData Google Search & YouTube Data Tools](https://flashdata.dev/mcp) - MIT-licensed MCP/CLI client and 15 task Skills for six Google search types and YouTube search, metadata, existing subtitle tracks, channels, suggestions, and downloads to customer storage. Data requests require an API key and paid Credits; no free API tier. [Source](https://github.com/rocosen/flashdata-mcp).
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools

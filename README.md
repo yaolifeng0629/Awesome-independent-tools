@@ -407,6 +407,7 @@
 
 ### 信息渠道
 
+- [出海产品需求验证指南](https://zhaoxuqiu.online/methodology) - 面向独立开发者的免费中文指南，介绍搜索需求、竞品对照与首版验证；站内部分完整研究报告收费。
 - [信息差](https://gapis.money/) - 经常更新的独立开发者出海周刊
 - [Product Hunt](https://www.producthunt.com/) - 新产品榜单聚集地
 - [W2Solo](https://w2solo.com/) - 中文独立开发者社区

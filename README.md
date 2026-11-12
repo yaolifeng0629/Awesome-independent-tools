@@ -136,6 +136,7 @@
 - [discourse](https://www.discourse.org/) - 社区讨论的平台
 - [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
 - [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
+- [MToolHub](https://www.mtoolhub.com) - 15 个免费在线开发与效率工具(JSON 格式化、Base64、正则测试、Cron、二维码…),纯浏览器运行,免注册
 
 ### Chrome 插件开发
 

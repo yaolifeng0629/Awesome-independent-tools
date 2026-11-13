@@ -453,6 +453,7 @@ Thank you to our sponsors for supporting this project!
 - [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/) - An alternative to IDM.
 - [KMS](https://kms.cx/#) - One-click activation for Windows/Office.
 - [cobalt](https://cobalt.tools/) - A resource download tool for all types of resources, just need a URL.
+- [VideoSaver](https://www.free-videodownload.com) - Free browser multi-platform video downloader (TikTok, Instagram, X, Facebook, and more).
 - [toSound](https://www.tosound.com/) - Free sound effect resources download.
 - [US Virtual Address Generator](https://www.fakexy.com/fake-address-generator-ca)
 - [code share](https://codeshare.io/) - Real-time code sharing tool.

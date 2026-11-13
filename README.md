@@ -136,7 +136,6 @@
 - [discourse](https://www.discourse.org/) - 社区讨论的平台
 - [umami](https://github.com/umami-software/umami) - 简单、快速、注重隐私的 Google Analytics 替代方案
 - [Free for Developers](https://free-for.dev/#/) - 一个专门为开发者收集整理免费在线工具资源的网站
-- [MToolHub](https://www.mtoolhub.com) - 15 个免费在线开发与效率工具(JSON 格式化、Base64、正则测试、Cron、二维码…),纯浏览器运行,免注册
 
 ### Chrome 插件开发
 
@@ -496,7 +495,8 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
-
+- [MToolHub](https://www.mtoolhub.com) - 15 个免费在线开发与效率工具(JSON 格式化、Base64、正则测试、Cron、二维码…),纯浏览器运行,免注册
+  
 <a name="contribute"></a>
 
 ## 如何贡献

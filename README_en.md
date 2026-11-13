@@ -478,6 +478,7 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
+- [MToolHub](https://www.mtoolhub.com) - 15 free online developer & productivity tools (JSON formatter, Base64, regex tester, cron builder, QR code…), runs fully in-browser, no signup.
 
 <a name="contribute"></a>
 

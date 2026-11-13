@@ -123,6 +123,7 @@
 - [Opensaas](https://github.com/wasp-lang/open-saas/) - (免费) 基于 React + Node.js，集成了登录、支付（stripe）、邮件、AI 功能
 - [Shipfast](https://shipfa.st/) - (付费) 基于 Next.js，集成了登录、支付（stripe）、邮件、AI 功能
 - [SupaStarter](https://supastarter.dev) - (付费) 有 Next.js 和 Nuxt 两种模板，功能比较齐全
+- [supastack](https://supastack.dev) - (付费) 一套代码同时交付 Web（Next.js）、移动端（Expo iOS/Android）、桌面（Tauri）和浏览器扩展（WXT）的多端 SaaS 全栈模板
 - [Opensaas](https://opensaas.sh/) - React + Node.js。集成了登录、支付（stripe）、邮件、AI 功能
 - [SaaS-Boilerplate](https://react-saas.com/) - 一款开源的 SaaS 模板，非常适合构建自己的 SaaS 应用
 - [nextjs subscription payments](https://subscription-payments.vercel.app/) - Vercel 开源的，支付采用的是 Stripe

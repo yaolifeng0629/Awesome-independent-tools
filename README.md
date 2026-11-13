@@ -472,6 +472,7 @@
 
 ### AI 资源
 
+- [卡站 AI会员选购助手](https://kazhan.store/choose?way=compare&utm_source=github_awesome_independent_tools&utm_campaign=launch_20261113) - (免费工具，含付费代充) 免登录按平台和预算筛选 AI 会员商品，最多三件对比标价、期限和来源售后，显示采集时间。同站另有资格审核后付款的人工代充，第三方商品由原店履约。
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 

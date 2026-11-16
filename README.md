@@ -472,6 +472,8 @@
 
 ### AI 资源
 
+- [HumanPen](https://humanpen.net) - 商业积分制文档处理与翻译平台（注册赠送 100 积分）：支持 12 种目标语言的文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT，保留原排版）、文档级自然化改写（Humanize，DOCX/PPTX/TXT）、内容精简（Condense，DOCX）及引用格式校正（DOCX）。
+
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 

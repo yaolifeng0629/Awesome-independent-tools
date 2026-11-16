@@ -456,6 +456,8 @@ Thank you to our sponsors for supporting this project!
 
 ### AI Resources
 
+- [HumanPen](https://humanpen.net) - Commercial credit-based document processing and translation platform (100 free credits on sign-up): supports document translation across 12 target languages (PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT, best-effort layout preservation), document-level humanization (DOCX/PPTX/TXT), content condensation (DOCX), and citation formatting correction (DOCX).
+
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools

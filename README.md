@@ -69,6 +69,22 @@
 </td>
 </tr>
 
+<!-- Sidrune 与其他赞助商保持相同图片尺寸和双列布局；中英文文案与专属推广链接须同步维护。 -->
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">
+<img src="assets/img/sidrune-sponsor.png" alt="Sidrune AI｜自营 Claude 号池 0.25–4.5x，支持开票及对公转账" width="190" />
+</a>
+<p><a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB"><strong>Sidrune AI</strong></a></p>
+</td>
+<td>
+<p><strong>自营 Claude 号池 0.25–4.5x</strong></p>
+<p>Sidrune AI 自营号池，提供 Claude 多条线路，倍率为 <strong>0.25–4.5x</strong>（每 1 美元模型计费额度对应的人民币费用）。<strong>CC Max 专用组仅适用于 Claude Code</strong>。</p>
+<p>支持<strong>开票及对公转账</strong>。具体模型、价格及使用限制以模型广场为准。</p>
+<p><a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">开始使用 Sidrune AI →</a></p>
+</td>
+</tr>
+
 </table>
 
 </details>

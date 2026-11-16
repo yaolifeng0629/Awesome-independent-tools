@@ -66,6 +66,22 @@ Thank you to our sponsors for supporting this project!
 <p><a href="https://go.nli.one/immerse">Start on Whop →</a></p>
 </td>
 </tr>
+<!-- Sidrune 与其他赞助商保持相同图片尺寸和双列布局；中英文文案与专属推广链接须同步维护。 -->
+<tr>
+<td width="200" align="center" valign="middle">
+<a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">
+<img src="assets/img/sidrune-sponsor.png" alt="Sidrune AI | Self-managed Claude account pool at 0.25–4.5x, with invoices and corporate bank transfers" width="190" />
+</a>
+<p><a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB"><strong>Sidrune AI</strong></a></p>
+</td>
+<td>
+<p><strong>Self-managed Claude account pool · 0.25–4.5x</strong></p>
+<p>Sidrune AI operates its own account pool, offering multiple Claude routes at <strong>0.25–4.5x</strong> (CNY per US$1 of model billing credits). The dedicated CC Max group is <strong>for Claude Code only</strong>.</p>
+<p><strong>Invoices and corporate bank transfers</strong> are supported. See the model catalog for available models, current pricing, and usage limits.</p>
+<p><a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">Get started with Sidrune AI →</a></p>
+</td>
+</tr>
+
 </table>
 
 </details>

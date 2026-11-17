@@ -70,14 +70,13 @@ Thank you to our sponsors for supporting this project!
 <tr>
 <td width="200" align="center" valign="middle">
 <a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">
-<img src="assets/img/sidrune-sponsor.png" alt="Sidrune AI | Self-managed Claude account pool at 0.25–4.5x, with invoices and corporate bank transfers" width="190" />
+<img src="assets/img/sidrune-sponsor.png" alt="Sidrune AI" width="190" />
 </a>
 <p><a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB"><strong>Sidrune AI</strong></a></p>
 </td>
 <td>
-<p><strong>Self-managed Claude account pool · 0.25–4.5x</strong></p>
-<p>Sidrune AI operates its own account pool, offering multiple Claude routes at <strong>0.25–4.5x</strong> (CNY per US$1 of model billing credits). The dedicated CC Max group is <strong>for Claude Code only</strong>.</p>
-<p><strong>Invoices and corporate bank transfers</strong> are supported. See the model catalog for available models, current pricing, and usage limits.</p>
+<p><strong>Use Claude with confidence · Claude Max at around 15% of the regular price · Invoices available</strong></p>
+<p>Sidrune AI operates its own Claude account pool. Verify models at <a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">http://cctest.ai/</a>. With 100+ routes and groups covering leading models from overseas providers, model access starts at 1.5% of the regular price. Invoices and corporate bank transfers are supported.</p>
 <p><a href="https://cn.sidrune.ai/register?aff=PGNDL87SG3BL&promo=YLF_GITHUB">Get started with Sidrune AI →</a></p>
 </td>
 </tr>

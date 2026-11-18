@@ -266,6 +266,7 @@
 
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - Node.js 的邮件发送库
 - [Resend](https://resend.com/)
+- [Transmitly](https://transmitly.io/) - 面向开发者的邮件 API，支持事务性邮件与营销邮件。
 - [React Mail](https://react.email/)
 - [postmark templates](https://github.com/activecampaign/postmark-templates) - 电子邮件模板编辑工具
 - [临时邮箱](https://www.linshiyouxiang.net/)

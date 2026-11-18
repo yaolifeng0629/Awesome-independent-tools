@@ -456,6 +456,7 @@ Thank you to our sponsors for supporting this project!
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [PayForGPT Precheck & VAT Toolkit](https://payforgpt.com/en) - Browser-local ChatGPT & Codex account risk precheck and China corporate VAT reimbursement spec generator, paired with a CC BY 4.0 [bilingual troubleshooting guide](https://github.com/siuserxiaowei/chatgpt-plus-pro-china-invoice-guide-2026) (independent third-party service).
 
 ### Other Tools
 

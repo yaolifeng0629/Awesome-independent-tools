@@ -35,22 +35,6 @@ Thank you to our sponsors for supporting this project!
 <p><a href="https://gencrafters.com">Learn more about GenCrafters →</a></p>
 </td>
 </tr>
-<tr>
-<td width="200" align="center" valign="middle">
-<a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG">
-<img src="assets/img/nexotoken-sponsor.png" alt="NexoToken GPT API membership plan" width="190" />
-</a>
-<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG"><strong>NexoToken</strong></a></p>
-</td>
-<td>
-<p><strong>Make AI coding and app development easier</strong></p>
-<p>An AI API service for developers, independent projects, and enterprise teams. Offers tiered top-up discounts, enterprise partnerships, and custom dedicated account pools.</p>
-<p><strong>Membership plan:</strong> The GPT API membership costs <strong>¥99</strong> and includes <strong>$1,000 in platform usage credits</strong>, <strong>valid for 30 days with no weekly usage cap</strong>. Usage is deducted from the plan's total credits based on actual API calls, so you can use them at your project's pace.</p>
-<p><strong>Platform promotions:</strong> Prize draws are held every Thursday, with platform credits and top-up coupons as prizes. Daily usage that meets the promotion requirements may also qualify for credit rebates of up to <strong>10 platform credits</strong>.</p>
-<p><strong>Exclusive reader benefits:</strong> Register through the link below to receive an additional <strong>¥5 discount coupon for top-ups of ¥20 or more</strong>, on top of the platform's standard new-user benefits. The coupon is <strong>valid for 7 days after it is claimed</strong>, and <strong>each new user can claim it once</strong>.</p>
-<p><a href="https://www.nexotoken.net/register?invite=INV002765FIAG&acq=pgJmR7QdCe5IAkY-UU6SwiMG">View membership plans and claim your exclusive benefits →</a></p>
-</td>
-</tr>
 
 <tr>
 <td width="200" align="center" valign="middle">

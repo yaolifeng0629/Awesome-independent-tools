@@ -262,6 +262,7 @@ Thank you to our sponsors for supporting this project!
 
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - A Node.js email sending library.
 - [Resend](https://resend.com/)
+- [Transmitly](https://transmitly.io/) - Email API for transactional and marketing email.
 - [React Mail](https://react.email/)
 - [postmark templates](https://github.com/activecampaign/postmark-templates) - An email template editing tool.
 - [Temporary Email](https://www.linshiyouxiang.net/)

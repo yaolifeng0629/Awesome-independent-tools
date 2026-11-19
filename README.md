@@ -408,6 +408,7 @@
 - [信息差](https://gapis.money/) - 经常更新的独立开发者出海周刊
 - [Product Hunt](https://www.producthunt.com/) - 新产品榜单聚集地
 - [W2Solo](https://w2solo.com/) - 中文独立开发者社区
+- [精选副业](https://jingxuan-fuye.pages.dev/) - 免费中文副业实战案例库，可按平台、项目和技能筛选，查看原作者自述成绩的口径、适配条件和原帖入口；附无需登录的副业方向测评
 - [出海团 ](https://chuhaituan.com/) - 专注于分享优秀的出海产品
 - [出海 Blog](https://blogs.chuhaiqu.club/) - 出海经验博客分享
 - [1000UserGuide](https://1000userguide.com/#/) - 300 多个独立开发者的免费推广渠道清单

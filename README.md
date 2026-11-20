@@ -389,6 +389,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-transcript-generator) - 提取 YouTube 视频字幕文本，支持视频自带的所有字幕语言，可下载 TXT/SRT/VTT，另有 Chrome 插件、REST API 和 MCP 服务器
 
 ### 屏幕录制
 

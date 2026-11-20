@@ -379,7 +379,7 @@ Thank you to our sponsors for supporting this project!
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - A free and open-source AI image upscaler.
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
-- [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-transcript-generator) - Get the transcript of a YouTube video in any caption language it has, download TXT/SRT/VTT, with a Chrome extension, REST API and MCP server.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-transcript-generator) - Get the transcript of a YouTube video in any of the video's available caption languages, download TXT/SRT/VTT, with a Chrome extension, REST API and MCP server.
 
 ### Screen Recording
 

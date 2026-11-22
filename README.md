@@ -389,6 +389,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [PixelArtHive](https://pixelarthive.com/) - 免费浏览器像素艺术工具，可将图片转为像素画并放大像素画，图片在浏览器本地处理。
 
 ### 屏幕录制
 

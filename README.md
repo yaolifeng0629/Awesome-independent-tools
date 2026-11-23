@@ -472,6 +472,10 @@
 
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
+- [Skool Community MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - (远程 MCP，Apify 托管，按量付费) 按关键词搜索 Skool 社群：成员数、价格、评分、预估月收入和每日增长。US$3.00 / 1,000 个社群结果、US$0.02 / 份社群历史。
+- [Etsy Search MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/etsy-search-mcp) - (远程 MCP，Apify 托管，按量付费) 按关键词或类目获取 Etsy 搜索结果：价格、评分、评论数、Bestseller 徽章、广告标记和搜索排名。US$4.00 / 1,000 条商品、US$0.00005 / 次运行启动（Apify 免费套餐价，付费套餐更低）。
+- [Etsy Shop Sales MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/etsy-shop-sales-mcp) - (远程 MCP，Apify 托管，按量付费) 37 万多家 Etsy 店铺的每日、7 天和 28 天销量，依据各店铺公开的销量计数器测得。US$3.00 / 1,000 家店铺（Apify 免费套餐价，付费套餐更低）。
+- [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - (远程 MCP，Apify 托管，按量付费) 从 Google 广告透明度中心获取竞品新投放、投放中和已停止的 Google 广告，含首次和最后展示日期。US$1.00 / 1,000 条广告、US$0.002 / 次运行启动。
 
 ### 其他工具
 

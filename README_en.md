@@ -334,7 +334,7 @@ Thank you to our sponsors for supporting this project!
 - [Godaddy](https://www.godaddy.com/zh-sg) - Godaddy, you know it.
 - [ByteDance Volcano Engine](https://www.volcengine.com/product/domain-service) - A domestic platform, the preferred choice for .cn domains.
 - [Tencent Cloud](https://cloud.tencent.com/act/pro/domain-sale) - A domestic platform, the preferred choice for .cn domains.
-- [BrandShield](https://brand-checker.appwrite.network/) - (100% Free) Startup domain and brand naming checker with real-time 78+ TLD RDAP lookup, 17 aftermarket domain marketplaces, AI naming, and USPTO trademark screening.
+- [BrandShield](https://brand-checker.appwrite.network/) - (100% Free) Startup domain and brand naming checker with real-time 78+ TLD RDAP lookup, 17 aftermarket domain marketplaces, AI naming, and preliminary USPTO trademark screening.
 
 ### Document Management
 

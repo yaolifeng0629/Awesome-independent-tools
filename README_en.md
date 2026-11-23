@@ -266,6 +266,7 @@ Thank you to our sponsors for supporting this project!
 - [postmark templates](https://github.com/activecampaign/postmark-templates) - An email template editing tool.
 - [Temporary Email](https://www.linshiyouxiang.net/)
 - [Temporary Gmail](https://22.do/)
+- [InboxShield](https://inbox-checker.appwrite.network/) - (Free Online + MIT CLI) 6-phase email deliverability auditor: checks SPF 10-lookup limit with free flattener, 24 DKIM selectors, DMARC RFC 7489 syntax, and MX/NS redundancy.
 
 ### Website Analytics
 
@@ -321,6 +322,7 @@ Thank you to our sponsors for supporting this project!
 - [Deploy UptimeRobot API Status Panel with Cloudflare Pages: `Tutorial`](https://blog.aizrf.com/p/62)
 - [Deploy UptimeRobot API Status Panel with Cloudflare Pages: `Project`](https://github.com/shaoyouvip/uptime)
 - [Improve Website Access Speed with CNAME Domains](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
+- [VibeShield](https://vibe-checker.appwrite.network/) - (Free Online + MIT CLI) 6-phase pre-launch web security scanner for indie apps: checks 52 client JS secret leak rules, Supabase RLS / Firebase permissions, TLS 443 cert, CSP syntax, and 28 sensitive paths.
 
 ### Domain Registration
 
@@ -332,6 +334,7 @@ Thank you to our sponsors for supporting this project!
 - [Godaddy](https://www.godaddy.com/zh-sg) - Godaddy, you know it.
 - [ByteDance Volcano Engine](https://www.volcengine.com/product/domain-service) - A domestic platform, the preferred choice for .cn domains.
 - [Tencent Cloud](https://cloud.tencent.com/act/pro/domain-sale) - A domestic platform, the preferred choice for .cn domains.
+- [BrandShield](https://brand-checker.appwrite.network/) - (100% Free) Startup domain and brand naming checker with real-time 78+ TLD RDAP lookup, 17 aftermarket domain marketplaces, AI naming, and USPTO trademark screening.
 
 ### Document Management
 

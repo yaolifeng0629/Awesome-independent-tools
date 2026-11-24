@@ -239,6 +239,7 @@
 - [designspells](https://www.designspells.com/) - 收集了 N 多的产品设计细节，做产品没有思路的时候可以上去看看别人是怎么做的
 - [uidesign.tips](https://www.uidesign.tips/ui-tips) - 了解如何通过这些简单的 UI 技巧设计更好的用户界面并让您的用户更满意
 - [OpenUI](https://github.com/wandb/openui) - 与 v0.dev 相似，但是是基于 Prompt 构建 UI 组件
+- [Kite](https://kite.new) - AI 智能体与团队共用的设计工具，Claude、Cursor、Codex 通过托管 MCP 服务器直接画出可编辑的图层，可复制到 Figma
 - [happyhues](https://www.happyhues.co/palettes/13) - 网站配色方案
 
 ### 认证与授权

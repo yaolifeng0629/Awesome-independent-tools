@@ -226,6 +226,7 @@
 - [magicui](https://magicui.design/) - 50 多个免费开源动画组件，使用 React、Typescript、Tailwind CSS 和 Framer Motion 构建
 - [通过图形化编辑器轻松创建和自定义各种网页组件](https://tailwind-generator.com/)
 - [一个专门处理数字动画的 React 组件](https://github.com/barvian/number-flow)
+- [A1 Gallery](https://www.a1.gallery/) - 精选真实网站的设计灵感库，可按网站、区块和整页浏览，并查看每个网站使用的字体、颜色和间距
 
 ### 原型设计
 

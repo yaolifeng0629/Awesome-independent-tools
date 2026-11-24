@@ -456,6 +456,10 @@ Thank you to our sponsors for supporting this project!
 ### AI Resources
 
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
+- [Skool Community MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - (Remote MCP, hosted on Apify, pay per use) Search Skool communities by keyword: member count, price, rating, estimated monthly revenue and daily growth. US$3.00 / 1,000 community results, US$0.02 / community history.
+- [Etsy Search MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/etsy-search-mcp) - (Remote MCP, hosted on Apify, pay per use) Etsy search results by keyword or category: price, rating, review count, Bestseller badge, ad flag and search rank. US$4.00 / 1,000 listings, US$0.00005 / run start (Apify free-plan price, lower on paid plans).
+- [Etsy Shop Sales MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/etsy-shop-sales-mcp) - (Remote MCP, hosted on Apify, pay per use) Daily, 7-day and 28-day sales for 370,000+ Etsy shops, measured from each shop's public sales counter. US$3.00 / 1,000 shops (Apify free-plan price, lower on paid plans).
+- [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - (Remote MCP, hosted on Apify, pay per use) A competitor's new, running and stopped Google ads from the Google Ads Transparency Center, with first and last shown dates. US$1.00 / 1,000 ads, US$0.002 / run start.
 
 ### Other Tools
 

@@ -389,6 +389,7 @@
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
+- [LocalDevTools](https://localdevtools.dev/) - (免费) 112 款纯浏览器端免费在线工具集，涵盖 37 款 PDF 工具、音视频剪辑压缩、图片转换压缩（支持 HEIC）与硬件检测工具，零服务器上传。
 
 ### 屏幕录制
 

@@ -390,6 +390,8 @@
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.
 
+- [FastScribe](https://fastscribe.org/) - 把产品演示视频和访谈录音转成可编辑的文字稿，支持导出带时间轴的 SRT 字幕。
+
 ### 屏幕录制
 
 - [OBS Studio](https://obsproject.com/) - 开源工具，跨平台：windows、mac、linux

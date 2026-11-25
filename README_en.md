@@ -380,6 +380,8 @@ Thank you to our sponsors for supporting this project!
 - [Video to GIF](https://ezgif.com/video-to-gif)
 - [MediaGo](https://github.com/caorushizi/mediago) - An online m3u8 video extraction tool.
 
+- [FastScribe](https://fastscribe.org/) - Transcribe recorded demos and interviews into editable text and export timestamped SRT subtitles.
+
 ### Screen Recording
 
 - [OBS Studio](https://obsproject.com/) - Open-source tool, cross-platform: Windows, Mac, Linux.

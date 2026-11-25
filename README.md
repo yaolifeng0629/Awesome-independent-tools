@@ -473,7 +473,7 @@
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 
-- [Teapot Router](https://teapotrouter.com) - (商业服务/按量计费) Claude Code 与 Codex 双协议 API 网关:一个 Key 同时接入 Anthropic 与 OpenAI 协议;$1 起充、余额永不过期,价格表公开且机器可读,每笔请求费用逐笔可查,站内模型实验室可先测模型再充值。
+- [Teapot Router](https://teapotrouter.com) - (商业服务/按量计费) Claude Code 与 Codex 双协议 API 网关,一个 Key 同时接入 Anthropic 与 OpenAI 协议;$1 起充、余额永不过期,价格表公开且机器可读,每笔请求费用逐笔可查,站内模型实验室可先测模型再充值。
 
 ### 其他工具
 

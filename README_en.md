@@ -386,6 +386,7 @@ Thank you to our sponsors for supporting this project!
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A multifunctional, lightweight, high-performance open-source macOS screen recording tool.
 - [screenity](https://github.com/alyssaxuu/screenity) - An open-source screen recording and annotation tool, privacy-protected with no usage restrictions.
 - [focusee](https://gemoo.com/focusee/) - A one-stop platform simplifying video creation, editing, and sharing, allowing everyone to create and share their ideas in minutes.
+- [DemoCloak](https://apps.orzi.me/democloak/) - Local-first browser extension for screen sharing and recording privacy: one-click blur, solid redaction, or realistic fake data swap for emails, API keys, and revenue figures.
 
 ### URL Shortener
 

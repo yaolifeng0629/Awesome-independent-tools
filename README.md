@@ -396,6 +396,7 @@
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的开源 macOS 屏幕录制工具
 - [screenity](https://github.com/alyssaxuu/screenity) - 一款开源的屏幕录制和标注工具，提供隐私保护且无任何使用限制
 - [focusee](https://gemoo.com/focusee/) - 一个一站式平台，简化了视频的创建、编辑和分享流程，让每个人都能在几分钟内制作视频并传播自己的创意
+- [DemoCloak](https://apps.orzi.me/democloak/) - 录屏与会议共享防泄密浏览器扩展，支持一键模糊、遮盖或将邮箱/API Key/营收数字替换为逼真假数据，100% 本地运行
 
 ### 短链或长链
 

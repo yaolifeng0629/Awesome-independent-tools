@@ -386,6 +386,7 @@
 - [在线 AI 抠图工具](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 - [video 转 gif](https://ezgif.com/video-to-gif)
+- [CompressGIF](https://compressgif.net/) - 浏览器本地 WASM GIF 压缩与 12 合 1 GIF 工具集（目标体积 100KB–10MB、裁剪/变速/GIF 转 WebP 与 MP4），不上传文件、无水印
 - [MediaGo](https://github.com/caorushizi/mediago) - m3u8 视频在线提取工具
 - [igly.ai](https://igly.ai) - AI 图像编辑平台 背景移除、AI 填充、图片放大、智能修图
 - [this free browser-based audio remover](https://remove-audio.com) - Free in-browser tool to strip audio from MP4/MOV/WEBM. Local FFmpeg.wasm, no uploads.

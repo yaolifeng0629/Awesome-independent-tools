@@ -270,7 +270,7 @@
 - [postmark templates](https://github.com/activecampaign/postmark-templates) - 电子邮件模板编辑工具
 - [临时邮箱](https://www.linshiyouxiang.net/)
 - [临时 Gmail 邮箱](https://22.do/)
-- [InboxShield](https://inbox-checker.appwrite.network/) - (免费在线 + MIT CLI) 独立站邮箱送达率 6 阶段协议体检：检测 SPF 10 次查询限制与免费展平、24 组 DKIM、DMARC RFC 7489 语法校验及 MX/NS 冗余
+- [InboxShield](https://inbox.shipbastion.com/) - (免费在线 + MIT CLI) 独立站邮箱送达率 6 阶段协议体检：检测 SPF 10 次查询限制与免费展平、24 组 DKIM、DMARC RFC 7489 语法校验及 MX/NS 冗余
 
 ### 网站分析
 
@@ -330,7 +330,7 @@
 - [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`教程`](https://blog.aizrf.com/p/62)
 - [使用 Cloudflare Pages 部署 UptimeRobot API 在线状态面板：`项目`](https://github.com/shaoyouvip/uptime)
 - [利用 CNAME 域名提高网站访问速度](https://www.igeekbb.com/2024/09/26/cloudflare-saas/)
-- [VibeShield](https://vibe-checker.appwrite.network/) - (免费在线 + MIT CLI) 面向 AI 建站与独立开发者的 6 阶段网站安全深扫：检测前端 JS 包 52 类密钥泄露、Supabase RLS / Firebase 权限、TLS 443 证书、CSP 语法与 28 项敏感路径
+- [VibeShield](https://shipbastion.com/) - (免费在线 + MIT CLI) 面向 AI 建站与独立开发者的 6 阶段网站安全深扫：检测前端 JS 包 52 类密钥泄露、Supabase RLS / Firebase 权限、TLS 443 证书、CSP 语法与 28 项敏感路径
 
 ### 域名注册
 
@@ -342,7 +342,7 @@
 - [Godaddy](https://www.godaddy.com/zh-sg) - 狗爹，懂的都懂
 - [字节火山引擎](https://www.volcengine.com/product/domain-service) - 国内平台，cn 域名首选平台
 - [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) - 国内平台，cn 域名首选平台
-- [BrandShield](https://brand-checker.appwrite.network/) - (100% 免费) 独立开发域名与品牌起名查重工具，支持 78+ 后缀实时 RDAP 查重、17 家二手域名平台识别、AI 起名与 USPTO 商标初筛
+- [BrandShield](https://brand.shipbastion.com/) - (100% 免费) 独立开发域名与品牌起名查重工具，支持 78+ 后缀实时 RDAP 查重、17 家二手域名平台识别、AI 起名与 USPTO 商标初筛
 
 ### 文档管理
 

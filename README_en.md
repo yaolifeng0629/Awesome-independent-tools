@@ -477,6 +477,7 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
+- [AMZ Seller Tools](https://www.amzsellerstools.com/en) - Free browser-based FBA fee, profit, storage, removal, target-cost, and seller utility tools; no signup required.
 
 <a name="contribute"></a>
 

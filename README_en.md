@@ -480,6 +480,8 @@ Thank you to our sponsors for supporting this project!
 
 <a name="contribute"></a>
 
+- [StagePeek](https://stagepeek.live) - Interactive 2D/3D concert seat-view simulator and phone-zoom framing preview across 201+ stadiums & arenas worldwide (free, no login required)
+
 ## How to Contribute
 
 We warmly welcome your contributions!

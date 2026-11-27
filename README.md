@@ -493,6 +493,7 @@
 - [制作一个基于 API 的工具来拍摄网站快照](https://screenshotone.com/)
 - [Cursor V0 开发步骤](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor 规则使用指南](https://cursor.directory/)
+- [StagePeek](https://stagepeek.live) - 交互式 2D/3D 演唱会选座视野模拟器，支持输入区/排/座号预览舞台视角与手机变焦取景对比，覆盖 201+ 全球体育馆与演艺场馆（免登录免费体验）
 
 <a name="contribute"></a>
 

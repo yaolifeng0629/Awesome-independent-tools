@@ -477,6 +477,7 @@ Thank you to our sponsors for supporting this project!
 - [Create an API-based tool to take website snapshots](https://screenshotone.com/)
 - [Cursor V0 Development Steps](https://x.com/aiwarts/status/1839986188255670602)
 - [Cursor Rules Usage Guide](https://cursor.directory/)
+- [No Stairs Please](https://nostairsplease.com) - Free searchable directory and route planner covering 10,000+ live music venues across North America.
 
 <a name="contribute"></a>
 

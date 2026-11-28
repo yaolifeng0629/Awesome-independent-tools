@@ -437,6 +437,7 @@ Thank you to our sponsors for supporting this project!
 - [High Paying Affiliate Programs](https://highpayingaffiliateprograms.com/) - Helps marketers promote these programs, with commissions typically over 30%.
 - [Product Hunt Top 3 Strategy](https://mp.weixin.qq.com/s/Nlth1disb61qyK722x5C_A)
 - [310 Niche Websites to Promote Your Product](https://x.com/lxfater/status/1866339428773572992)
+- [SaaSCity](https://saascity.io) - A 3D isometric city launch directory for indie SaaS and AI tools, with free founder/SEO utilities and a keyless remote MCP server.
 
 ### Logo Design
 
